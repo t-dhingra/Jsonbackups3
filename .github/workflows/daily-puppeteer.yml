@@ -1,0 +1,36 @@
+name: Daily JSON Download with Puppeteer
+
+on:
+    schedule:
+        - cron: '30 19 * * *'
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    download_and_commit:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out repository
+              uses: actions/checkout@v3
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: '16'
+
+            - name: Install dependencies
+              run: |
+                  npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth@latest
+
+            - name: Run Puppeteer script
+              run: node download_json.js
+
+            - name: Commit and push changes
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add json
+                  git commit --allow-empty -m "Daily update $(date +'%Y-%m-%d %H:%M:%S')"
+                  git push
