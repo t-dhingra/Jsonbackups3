@@ -2,7 +2,26 @@
     {
         "year": "2024",
         "virtual_issues": [
-             {
+            {
+                "vi_title": "Joint Collection Honoring Philip Power",
+                "vi_url": "/page/vi/honoring-phillip-power",
+                "date": "2024-12-30",
+                "journals": [
+                    "inocaj",
+                    "jacsat",
+                    "orgnd7"
+                ],
+                "type": "Collection",
+                "long_blurb": "This collection of papers from three ACS journals (<cite>Inorganic Chemistry, Journal of the American Chemical Society</cite>, and <cite>Organometallic Chemistry</cite>) honors recently retired Distinguished Professor Philip Power of the University of California Davis. The papers curated for the collection illustrate the sustained progress and broad impact of Prof. Power's research.  An accompanying <a href=\"/doi/10.1021/acs.inorgchem.4c05302?ref=vi_honoring-phillip-power\">editorial</a> by the guest editors introduces the collection.<br><br>\n    <strong>Guest Editors:</strong><br>\nCary R. Stennett, UC Irvine<br>\nJoshua D. Queen, UC Irvine<br>\nKarin Ruhlandt, Syracuse University<br>\nYang Peng, Soochow University<br>\nClifton L. Wagner, Louisiana State University",
+                "thumbnail_url": "/pb-assets/images/selects/honoring-phillip-power.png",
+                "thumbnail_alt_text": "photo of Philip Power",
+                "short_blurb": "This Collection highlights the broad and impactful work of Professor Philip Power of the University of California Davis.",
+                "related_subjects": [
+                    "inorganic-chemistry",
+                    "organometallic-chemistry"
+                ]
+            },
+            {
                 "vi_title": "2024 Pioneers in Energy Research: Haoshen Zhou",
                 "vi_url": "/page/enfuem/vi/2024-PIER-Zhou",
                 "date": "2024-12-26",
