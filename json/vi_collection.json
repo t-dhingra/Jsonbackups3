@@ -3,6 +3,23 @@
         "year": "2024",
         "virtual_issues": [
             {
+                "vi_title": "Highlights of the North American Chemical Residue Workshop",
+                "vi_url": "/page/jafcau/vi/north-american-chemical-residue-workshop",
+                "date": "2024-12-31",
+                "journals": [
+                    "jafcau"
+                ],
+                "type": "vsi",
+                "long_blurb": "The North American Chemical Residue Workshop (NACRW), previously known as the Florida Pesticide Residue Workshop (FPRW), is an annual meeting for researchers interested in analysis of pesticides, veterinary drug residues, and other chemicals at trace levels in food, animal feed, and the environment. Beyond its focus on North America, the meeting is becoming increasing global with speakers and attendees from other continents. As a workshop, the meeting provides training to develop and improve technical knowledge in analysis methods and techniques, and incorporates networking to promote collaboration. This virtual special issue contains outstanding contributions from researchers at the NACRW since the 50th edition in 2013.",
+                "thumbnail_url": "/pb-assets/images/selects/jafcau/north-american-chemical-residue-workshop.jpg",
+                "thumbnail_alt_text": "Corn plants growing with their roots visible in soil",
+                "short_blurb": "",
+                "related_subjects": [
+                    "agriculture-food-chemistry",
+                    "earth-space-environmental-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Joint Collection Honoring Philip Power",
                 "vi_url": "/page/vi/honoring-phillip-power",
                 "date": "2024-12-30",
