@@ -541,15 +541,15 @@
       "amlcef": {
         "editor": {
           "Editor-in-Chief": ["Sara E. Skrabalak"],
-          "Deputy Editor": ["Bin Liu"]
+          "Deputy Editor": ["Hong-Cai (Joe) Zhou"]
         },
         "editorInfo": {
           "Sara E. Skrabalak": {
             "imgUrl": "/pb-assets/images/cmatex/sara-skrabalak.jpg",
             "profileUrl": ""
           },
-          "Bin Liu": {
-            "imgUrl": "/pb-assets/images/amlcef/bin-liu.jpg",
+          "Hong-Cai (Joe) Zhou": {
+            "imgUrl": "/pb-assets/images/amlcef/deputy-editor.jpg",
             "profileUrl": ""
           }
         },
@@ -1309,11 +1309,11 @@
       },
       "jnprdf": {
         "editor": {
-          "Editor-in-Chief": ["Philip J. Proteau"]
+          "Editor-in-Chief": ["Bradley S. Moore"]
         },
         "editorInfo": {
-          "Philip J. Proteau": {
-            "imgUrl": "/pb-assets/images/jnprdf/proteau.jpg",
+          "Bradley S. Moore": {
+            "imgUrl": "/pb-assets/images/jnprdf/moore.jpg",
             "profileUrl": ""
           }
         },
@@ -1529,11 +1529,11 @@
       },
       "oprdfk": {
         "editor": {
-          "Editor-in-Chief": ["Kai Rossen"]
+          "Editor-in-Chief": ["Margaret M. Faul"]
         },
         "editorInfo": {
-          "Kai Rossen": {
-            "imgUrl": "/pb-assets/images/oprdfk/rossen.jpg",
+          "Margaret M. Faul": {
+            "imgUrl": "/pb-assets/images/oprdfk/faul.jpg",
             "profileUrl": ""
           }
         },
