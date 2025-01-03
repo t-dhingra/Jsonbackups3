@@ -1,5 +1,27 @@
 [
     {
+        "year": "2025",
+        "virtual_issues": [
+            {
+                "vi_title": "2024 Pioneers in Energy Research: Robert Brown",
+                "vi_url": "/page/enfuem/vi/2024-PIER-Brown",
+                "date": "2025-01-02",
+                "journals": [
+                    "enfuem"
+                ],
+                "type": "vsi",
+                "long_blurb": "Special Issue dedicated to Professor Robert Brown, included in the 2024 Pioneers in Energy Research. Read the editorial and the Q&A with Robert Brown.",
+                "thumbnail_url": "/pb-assets/images/enfuem/robert-brown.jpg",
+                "thumbnail_alt_text": "professor robert brown",
+                "short_blurb": "This special issue is dedicated to Prof. Robert Brown, our 2024 Pioneer in Energy Research in the field of biomass, bioenergy, and biorefinery.",
+                "related_subjects": [
+                    "energy",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            }
+        ]
+    },
+    {
         "year": "2024",
         "virtual_issues": [
             {
@@ -13,7 +35,7 @@
                 "long_blurb": "The North American Chemical Residue Workshop (NACRW), previously known as the Florida Pesticide Residue Workshop (FPRW), is an annual meeting for researchers interested in analysis of pesticides, veterinary drug residues, and other chemicals at trace levels in food, animal feed, and the environment. Beyond its focus on North America, the meeting is becoming increasing global with speakers and attendees from other continents. As a workshop, the meeting provides training to develop and improve technical knowledge in analysis methods and techniques, and incorporates networking to promote collaboration. This virtual special issue contains outstanding contributions from researchers at the NACRW since the 50th edition in 2013.",
                 "thumbnail_url": "/pb-assets/images/selects/jafcau/north-american-chemical-residue-workshop.jpg",
                 "thumbnail_alt_text": "Corn plants growing with their roots visible in soil",
-                "short_blurb": "",
+                "short_blurb": "This virtual special issue contains outstanding contributions from researchers at the North American Chemical Residue Workshop.",
                 "related_subjects": [
                     "agriculture-food-chemistry",
                     "earth-space-environmental-chemistry"
@@ -28,7 +50,7 @@
                     "jacsat",
                     "orgnd7"
                 ],
-                "type": "Collection",
+                "type": "collection",
                 "long_blurb": "This collection of papers from three ACS journals (<cite>Inorganic Chemistry, Journal of the American Chemical Society</cite>, and <cite>Organometallic Chemistry</cite>) honors recently retired Distinguished Professor Philip Power of the University of California Davis. The papers curated for the collection illustrate the sustained progress and broad impact of Prof. Power's research.  An accompanying <a href=\"/doi/10.1021/acs.inorgchem.4c05302?ref=vi_honoring-phillip-power\">editorial</a> by the guest editors introduces the collection.<br><br>\n    <strong>Guest Editors:</strong><br>\nCary R. Stennett, UC Irvine<br>\nJoshua D. Queen, UC Irvine<br>\nKarin Ruhlandt, Syracuse University<br>\nYang Peng, Soochow University<br>\nClifton L. Wagner, Louisiana State University",
                 "thumbnail_url": "/pb-assets/images/selects/honoring-phillip-power.png",
                 "thumbnail_alt_text": "photo of Philip Power",
@@ -45,14 +67,14 @@
                 "journals": [
                     "enfuem"
                 ],
-                "type": "VSI",
+                "type": "vsi",
                 "long_blurb": "This special issue is dedicated to Prof. Haoshen Zhou, our 2024 Pioneer in Energy Research in the field of batteries and energy storage for his outstanding contribution to the area of high energy density secondary battery materials and systems. Read the editorial and Q&A with Haoshen Zhou.",
                 "thumbnail_url": "/pb-assets/images/enfuem/zhou.jpg",
                 "thumbnail_alt_text": "professor haoshen zhou",
                 "short_blurb": "This special issue is dedicated to Prof. Haoshen Zhou, our 2024 Pioneer in Energy Research in the field of batteries and energy storage for his outstanding contribution to the area of high energy density secondary battery materials and systems.",
                 "related_subjects": [
-                    "materials-science",
-                    "energy"
+                    "energy",
+                    "materials-science"
                 ]
             },
             {
@@ -62,14 +84,14 @@
                 "journals": [
                     "jaaucr"
                 ],
-                "type": "VSI",
+                "type": "vsi",
                 "long_blurb": "Polymers underlie many of the technologies enabling the transition to clean and renewable energy, from energy storage devices such as organic solar cells and solid-state batteries, to lightweight composite materials used in the energy production industry. The transition to clean energy is also being assisted by polymer recycling and upcycling technologies as well as concerted efforts to reduce our reliance on single-use plastics. This Virtual Special Issue from JACS Au features some recent innovative work in this area which highlights the impact polymer research is having on efforts to realize this transition.\nThis Virtual Special Issue is led by an introductory Editorial (DOI: 10.1021/jacsau.4c01152) written by Associate Editor Prof. Rodney Priestley and guest editors Profs. Emily Davidson and He Tian.",
                 "thumbnail_url": "/pb-assets/images/jaaucr/ACS-0524 Jacs Au Polymers 400 x400.jpg",
                 "thumbnail_alt_text": "Hands holding green plastic pellets on a blue/green background",
                 "short_blurb": "A Virtual Special Issue from JACS Au showcasing some recently published innovations in polymer science which are helping to facilitate the transition to clean energy.",
                 "related_subjects": [
-                    "polymer-science",
-                    "energy"
+                    "energy",
+                    "polymer-science"
                 ]
             },
             {
