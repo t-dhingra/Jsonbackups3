@@ -3,6 +3,74 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "2023 Fenn: Native and Structural Mass Spectrometry",
+                "vi_url": "/page/jamsef/vsi/2023fenn",
+                "date": "2025-01-06",
+                "journals": [
+                    "jamsef"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue was created in honor of Professor Dame Carol Robinson, recipient of the 2023 ASMS John B. Fenn Award for a Distinguished Contribution in Mass Spectrometry. Prof. Robinson is recognized for her contributions to the development of mass spectrometry methods for the analysis and characterization of membrane proteins. This Special Issue includes publications from authors invited by Prof. Robinson to contribute and exemplifies her impacts on native and structural mass spectrometry.",
+                "thumbnail_url": "/pb-assets/images/jamsef/carol-robinson.jpg",
+                "thumbnail_alt_text": "professor carol robinson",
+                "short_blurb": "This Special Issue honors Prof. Dame Carol Robinson as the recipient of the 2023 ASMS Fenn Award.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "biology-biological-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Green Hydrogen",
+                "vi_url": "/page/chreay/vi/green_hydrogen",
+                "date": "2025-01-06",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Green hydrogen, produced through water electrolysis powered by renewable energy, is an essential component of future global energy systems. In this Thematic Issue of <cite>Chemical Reviews</cite>, we present a collection of reviews on some of the key research topics related to the design of components and understanding of the elementary processes in current and emerging water-electrolysis technologies.",
+                "thumbnail_url": "/pb-assets/images/selects/chreay/green-hydrogen.jpg",
+                "thumbnail_alt_text": "",
+                "short_blurb": "",
+                "related_subjects": [
+                    "multidisciplinary",
+                    "energy"
+                ]
+            },
+            {
+                "vi_title": "Fluorescent Probes in Biology",
+                "vi_url": "/page/chreay/vi/fluorescent-probes",
+                "date": "2025-01-06",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Chemistry makes the invisible visible through the use of imaging agents that can monitor the elements and molecules of life at a variety of length scales with both spatial and temporal resolution. In this context, fluorescence and luminescence provide visual readouts that can be widely adopted by specialists and nonspecialists alike, from laboratory researchers to medical clinicians and field technicians to children playing with glowsticks and fireflies during the long nights of summer. This Thematic Issue delves into the latest research achievements in this storied and highly active field in the design and development of chemical reagents to decipher new fundamental biology and to translate this knowledge to advanced diagnostic and/or therapeutic platforms.",
+                "thumbnail_url": "/pb-assets/images/selects/chreay/fluorescent-probes.jpg",
+                "thumbnail_alt_text": "",
+                "short_blurb": "",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "Recent Advances in Aqueous Rechargeable Energy Storage Materials Research",
+                "vi_url": "/page/aaemcq/vi/recent-advances-aqueous-rechargeable-energy-storage",
+                "date": "2025-01-06",
+                "journals": [
+                    "aaemcq"
+                ],
+                "type": "collection",
+                "long_blurb": "Aqueous rechargeable batteries, capacitors and other forms of energy storage devices are rapidly emerging as a viable alternative to traditional Li-ion based energy storage technology in recent years. Aqueous rechargeable energy storage devices can offer notable advantages in safety, environmental sustainability, cost-effectiveness and fast charging capabilities compared to Li-ion counterparts. This collection presents the latest advancements and research trends in the development of materials and design strategies for aqueous rechargeable energy storage applications, as published in <cite>ACS Applied Energy Materials</cite>.",
+                "thumbnail_url": "/pb-assets/images/aaemcq/recent-advances-aqueous-rechargeable-energy-storage.png",
+                "thumbnail_alt_text": "Recent Advances in Aqueous Rechargeable Energy Storage Materials Research Cover Image",
+                "short_blurb": "This collection presents the latest advancements in the development of materials and design strategies for aqueous rechargeable energy storage applications",
+                "related_subjects": [
+                    "energy",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "2024 Pioneers in Energy Research: Robert Brown",
                 "vi_url": "/page/enfuem/vi/2024-PIER-Brown",
                 "date": "2025-01-02",
