@@ -992,7 +992,7 @@
         "eissn": "2832-3637",
         "blurb": "Chemical & Biomedical Imaging publishes cutting-edge, open access papers on all aspects of chemical and biomedical imaging.",
         "type": "oa",
-        "indexAbstract": ["CAS", "DOAJ", "Portico", "Scopus", "Web of Science ESCI"]
+        "indexAbstract": ["CAS", "DOAJ", "Portico", "Scopus", "Web of Science ESCI", "PubMed Central"]
       },
       "cmatex": {
         "editor": {
@@ -1056,7 +1056,7 @@
         "issn": "2833-8278",
         "blurb": "Environment & Health, an open access journal, explores relationships between the environment and the health of individuals and communities.",
         "type": "oa",
-        "indexAbstract": ["CAS", "Portico", "Scopus", "DOAJ"]
+        "indexAbstract": ["CAS", "Portico", "Scopus", "DOAJ", "Web of Science ESCI", "PubMed Central"]
       },
       "esthag": {
         "editor": {
@@ -1573,7 +1573,7 @@
         "issn": "2771-9316",
         "blurb": "Precision Chemistry reports fundamental, applied and interdisciplinary research towards precision calculation, design, synthesis, manipulation, measurement and manufacturing.",
         "type": "oa",
-        "indexAbstract": ["Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Sherpa Romeo"]
+        "indexAbstract": ["Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Sherpa Romeo", "PubMed Central"]
       },
       "psabav": {
         "editor": {
