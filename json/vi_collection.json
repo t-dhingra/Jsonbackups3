@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Flash Communications",
+                "vi_url": "/page/orgnd7/vi/om-flash-communications",
+                "date": "2025-01-10",
+                "journals": [
+                    "orgnd7"
+                ],
+                "type": "collection",
+                "long_blurb": "At the strong suggestion of authors, <cite>Organometallics</cite> is reviving the two-page communication! These Flash Communications are designed to give authors a venue to rapidly publish results that are short and focused. The benefits include: a new option for authors, rapid publication times, and the ability to disseminate results that may be a side project adjacent to a broader research program. <cite>Organometallics</cite> wants to provide a unique venue for high quality organometallic chemistry that <em>need not be followed up by an article</em>. <a href=\"/doi/10.1021/acs.organomet.4c00497?ref=vi_om-flash-communications\">Read the editorial</a> by Prof. Paul Chirik, Editor-in-Chief, describing this initiative.",
+                "thumbnail_url": "/pb-assets/images/selects/orgnd7/om-flash-communications.jpg",
+                "thumbnail_alt_text": "Organometallics journal Flash Communications collection",
+                "short_blurb": "<cite>Organometallics</cite> is reviving the two-page communication! These Flash Communications are designed to give authors a venue to rapidly publish results that are short and focused.",
+                "related_subjects": [
+                    "organometallic-chemistry",
+                    "catalysis-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Frontier Interdisciplinary Forum",
+                "vi_url": "/page/asbcd6/vi/shenzhen-forum-2025",
+                "date": "2025-01-10",
+                "journals": [
+                    "asbcd6"
+                ],
+                "type": "collection",
+                "long_blurb": "Celebrating the 2025 Interdisciplinary Forum of Synthetic Biology, hosted by Shenzhen University, <cite>ACS Synthetic Biology</cite> showcases cutting edge research published by authors from institutions in China. See below for some of our Most Trusted, Most Cited, Most Read publications!",
+                "thumbnail_url": "/pb-assets/images/selects/asbcd6/shenzhen-forum-2025.png",
+                "thumbnail_alt_text": "An image of a Southern Blot, denoting DNA sequencing, with a rainbow hue applied.",
+                "short_blurb": "Celebrating the 2025 Interdisciplinary Forum of Synthetic Biology, hosted by Shenzhen University, <cite>ACS Synthetic Biology</cite> showcases cutting edge research by authors in China.",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "2023 Fenn: Native and Structural Mass Spectrometry",
                 "vi_url": "/page/jamsef/vsi/2023fenn",
                 "date": "2025-01-06",
