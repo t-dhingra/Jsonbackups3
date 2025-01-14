@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Women Scientists at the Forefront of Energy Research (Part 7)",
+                "vi_url": "/page/aelccp/vi/women-scientists-part7",
+                "date": "2025-01-13",
+                "journals": [
+                    "aelccp"
+                ],
+                "type": "collection",
+                "long_blurb": "As part of our annual celebration of the contributions of female scientists, we bring you part six of this Collection series. From early career researchers to well-established senior scientists, the successful career paths they have taken to become leaders in the community have impacted energy research in a significant way. The contributions of female energy researchers who have published new advances from their laboratories in <cite>ACS Energy Letters</cite> are compiled along with their short inspirational stories. To inspire other scientists working in the field, we asked them to comment on their inspiration to engage in energy research, discuss an “aha!” moment in research, and/or provide advice to newcomers in the field. We hope that these personal reflections compiled in this Collection can motivate many young researchers to tackle challenges in clean energy.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Women-Scientists-Part7.png",
+                "thumbnail_alt_text": "A female scientist in the field of energy research.",
+                "short_blurb": "24 articles authored by female scientists who published their work in <cite>ACS Energy Letters</cite> in 2024 share their personal reflections and career paths",
+                "related_subjects": [
+                    "energy"
+                ]
+            },
+            {
                 "vi_title": "Flash Communications",
                 "vi_url": "/page/orgnd7/vi/om-flash-communications",
                 "date": "2025-01-10",
