@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Jens K. Nørskov Festschrift: Making a Theory of Heterogeneous Catalysis",
+                "vi_url": "/page/jpccck/vsi/norskov-festschrift",
+                "date": "2025-01-16",
+                "journals": [
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "Prof. Nørskov’s contributions to the fields of heterogeneous catalysis and surface physics are legendary. He has continuously produced paradigm-defining work in topics ranging from fundamental electronic theories of catalyst properties to prediction of catalysts with enhanced reactivity for sustainable energy applications. Even while making these transformative advances, Jens has always been a caring and dedicated mentor who has inspired generations of researchers in both academia and industry, creating a large international community of grateful mentees who have carried on his legacy. This Festschrift includes 40 contributions from these researchers, and many of the topics that are discussed echo field-defining work that Jens has performed over the course of his illustrious career.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Nørskov-Festschrift.png",
+                "thumbnail_alt_text": "A colorful depiction of two blue circles and a red, brown, and yellow streak between them",
+                "short_blurb": "This issue includes articles on reaction mechanisms, electronic, structural, and other aspects of heterogeneous catalysis.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "theoretical-computational-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Women Scientists at the Forefront of Energy Research (Part 7)",
                 "vi_url": "/page/aelccp/vi/women-scientists-part7",
                 "date": "2025-01-13",
@@ -3225,7 +3242,7 @@
                 "journals": [
                     "chreay"
                 ],
-                "type": "thematic",
+                "type": "vsi",
                 "related_subjects": [
                     ""
                 ],
