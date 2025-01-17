@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "At the Speed of Light: Recent Advances in Optoelectronics",
+                "vi_url": "/page/acsodf/vi/optoelectronics",
+                "date": "2025-01-17",
+                "journals": [
+                    "acsodf"
+                ],
+                "type": "vsi",
+                "long_blurb": "In recent years, the field of optoelectronics has experienced an explosive surge, fueled by the ever-increasing demand for high-performance devices in a wide range of applications, such as sensing, imaging, communication, and energy harvesting. This exciting growth has been possible due to groundbreaking advancements in the development of novel materials, heterostructures, and innovative device architectures, which have unveiled previously untapped possibilities for enhancing the efficiency and performance of optoelectronic devices. To delve deeper into these fascinating developments, we take great pride in presenting this Virtual Special Issue from <cite>ACS Omega</cite>. This issue is dedicated to exploring the applications of novel materials in various optoelectronic devices, shedding light on the exciting progress in the field and showcasing the potential for further advancements.",
+                "thumbnail_url": "/pb-assets/images/selects/acsodf/optoelectronics.png",
+                "thumbnail_alt_text": "A flexible optoelectronics device",
+                "short_blurb": "This Virtual Special Issue explores the applications of novel materials in various optoelectronic devices, shedding light on the exciting progress in the field and showcasing the potential for further advancements.",
+                "related_subjects": [
+                    "physical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Jens K. Nørskov Festschrift: Making a Theory of Heterogeneous Catalysis",
                 "vi_url": "/page/jpccck/vsi/norskov-festschrift",
                 "date": "2025-01-16",
