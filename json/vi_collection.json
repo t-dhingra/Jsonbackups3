@@ -3,6 +3,39 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Celebrating 10 Years of <cite>ACS Sensors</cite>: Editors' Favorites",
+                "vi_url": "/page/ascefj/vi/editorfavorites",
+                "date": "2025-01-24",
+                "journals": [
+                    "ascefj"
+                ],
+                "type": "collection",
+                "long_blurb": "To celebrate the 10th volume of <cite>ACS Sensors</cite>, we asked our Editors to select some of their favorite articles published over the years. Here, we present this collection of papers spanning subfields such as wearables, gas sensors, SERS sensors, machine learning, and more. We thank all of the <cite>ACS Sensors</cite> community for your support of this journal and we look forward to the next 10 years of sensing!",
+                "thumbnail_url": "/pb-assets/images/selects/ascefj/editorfavorites.png",
+                "thumbnail_alt_text": "10 years",
+                "short_blurb": "This Collection highlights papers selected by our Editors to celebrate 10 years of <cite>ACS Sensors</cite>.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "biological-chemistry-chemical-biology"
+                ]
+            },
+            {
+                "vi_title": "The Exposome and Human Health",
+                "vi_url": "/page/esthag/vsi/human-exposome",
+                "date": "2025-01-23",
+                "journals": [
+                    "esthag"
+                ],
+                "type": "vsi",
+                "long_blurb": "It is now well understood that an individual’s unique characteristics arise from the intricate interaction between genes and a vast range of nongenetic factors. The exposome represents the comprehensive collection of all physical, chemical, biological, and psychosocial factors to which individuals are exposed from conception onward, along with their internal biological responses, which collectively shape health outcomes. Research on the exposome is still in its early stages, presenting vast opportunities due to advancements in technology but also raising significant questions. <a href=\"/journal/esthag\"><cite>Environmental Science &amp; Technology</cite></a> aims to remain at the forefront of this field. This special issue aims to inspire the research community and encourage the development of comprehensive studies in the field of the exposome that will continue to push the boundaries of our understanding of environmental and human health.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Human-Exposome.jpg",
+                "thumbnail_alt_text": "a human figure with superimposed molecular structures in white on a blue background",
+                "short_blurb": "This special issue aims to encourage the development of comprehensive studies in the field of the exposome to advance our understanding of environmental and human health.",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry"
+                ]
+            },
+            {
                 "vi_title": "At the Speed of Light: Recent Advances in Optoelectronics",
                 "vi_url": "/page/acsodf/vi/optoelectronics",
                 "date": "2025-01-17",
