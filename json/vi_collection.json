@@ -3,6 +3,41 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health",
+                "vi_url": "/page/vi/wildland-fires",
+                "date": "2025-01-27",
+                "journals": [
+                    "aeacd5",
+                    "esthag",
+                    "estlcu"
+                ],
+                "type": "collection",
+                "long_blurb": "Wildland fires are increasingly prevalent events around the world, affecting millions of people through personal displacement and domestic infrastructure destruction, poor air quality with short and long-term human health impacts, and long-term environmental impacts on water supply contamination, food production and habitat destruction. This increasing frequency and severity globally of wildland fires is due to changing local and global climate conditions and human activities related to land use change and wildfire events will continue to cause significant global disruption in the future. The ES&T portfolio journals ACS ES&T Air, ES&T and ES&T Letters issued a new ‘Call for Papers’ in late 2023, inviting the latest research discoveries on the environmental impacts of wildland fires to be submitted. We are now pleased to publish this latest research as an ongoing rolling collection, as papers for this special issue continue to complete the peer review process. This rolling collection will continue to update until the special issue is complete. In addition, all articles in this special issue have been published ‘free to read’ for three months in light of the importance of the topic. We hope you find this rolling collection of the latest wildfires research discoveries informative and insightful, and that it helps inform and inspire future research in this globally important area of air chemistry and environmental research.",
+                "thumbnail_url": "/pb-assets/images/virtual collections/wildfires.jpg",
+                "thumbnail_alt_text": "wildland fires: emissions,chemistry, contamination, climate and human health",
+                "short_blurb": "Showcasing the latest research on environmental impacts of wildland fire, including outdoor/indoor air quality, water & soil contamination, climate, & human health.",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "analytical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Celebrating 5 Years of <cite>JACS Au</cite>",
+                "vi_url": "/page/jaaucr/vi/jacs-au-5-years",
+                "date": "2025-01-27",
+                "journals": [
+                    "jaaucr"
+                ],
+                "type": "collection",
+                "long_blurb": "As we launch the first issue of the fifth volume of <cite>JACS Au</cite>, we reflect on a highly successful first five years for the journal. To mark the fifth anniversary since the launch of the first issue, we take a trip down memory lane with this Collection featuring a selection of Articles, Letters, and Perspectives handpicked by the editorial team. The papers included in this Collection highlight the high quality, impact, and topical breadth of the work published in <cite>JACS Au</cite>, and the global following the journal has established in its formative years.<br><br>\n    We hope you enjoy exploring the Collection and we encourage you to read the accompanying <a href=\"/doi/10.1021/jacsau.5c00007?ref=vi_jacs-au-5-years\">Editorial</a>  written by Editor-in-Chief Professor Christopher W. Jones, which reviews 2024 as a year of significant growth and change for the journal and introduces this commemorative selection of papers.",
+                "thumbnail_url": "/pb-assets/images/selects/jaaucr/jacs-au-5-years.png",
+                "thumbnail_alt_text": "Blue background with a number five made up of journal covers",
+                "short_blurb": "A new Collection from <cite>JACS Au</cite> highlighting a selection of high-quality papers published in the journal to mark the fifth anniversary of the launch of the first issue.",
+                "related_subjects": [
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Celebrating 10 Years of <cite>ACS Sensors</cite>: Editors' Favorites",
                 "vi_url": "/page/ascefj/vi/editorfavorites",
                 "date": "2025-01-24",
