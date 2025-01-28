@@ -3,6 +3,61 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Highlights from 2024",
+                "vi_url": "/page/cmatex/vi/highlights-2024",
+                "date": "2025-01-28",
+                "journals": [
+                    "cmatex"
+                ],
+                "type": "collection",
+                "long_blurb": "As we move into 2025, we look back at some of the excellent content published in <cite>Chemistry of Materials</cite> in 2024. This Collection showcases an excellent selection of highly cited and downloaded content, as well as papers that attracted wider media attention and some recommended reading from our editorial team. We hope you enjoy exploring the Collection and we encourage you to read the accompanying <a href=\"/doi/10.1021/acs.chemmater.4c03447?ref=vi_highlights-2024\">Editorial</a> written by Editor-in-Chief Professor Sara Skrabalak.",
+                "thumbnail_url": "/pb-assets/images/selects/cmatex/highlights-2024.png",
+                "thumbnail_alt_text": "Red, pink, blue, and green bubbles of varying sizes",
+                "short_blurb": "A new Collection from <cite>Chemistry of Materials</cite> highlighting a hand-picked selection of papers published in the journal in 2024 which received high levels of engagement.",
+                "related_subjects": [
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Influential Articles in Food Science from 2024",
+                "vi_url": "/page/vi/influential-articles-food-science-2024",
+                "date": "2025-01-28",
+                "journals": [
+                    "jafcau",
+                    "afsthl",
+                    "aastgj",
+                    "asrmcd",
+                    "esthag",
+                    "ascefj",
+                    "acsodf"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection showcases a selection of the most influential articles in food science published in ACS journals in 2024. The highlights include our most cited and downloaded content, as well as research that attracted media attention around the world and some recommended reading from our editorial team. We hope you enjoy exploring this Collection!",
+                "thumbnail_url": "/pb-assets/images/selects/influential-articles-food-science-2024.jpg",
+                "thumbnail_alt_text": "Illustration of pomegranates, grapes and almonds against a purple background",
+                "short_blurb": "This Collection showcases a selection of our most cited and downloaded content, research that attracted media attention, and some recommended reading from our editorial team.",
+                "related_subjects": [
+                    "agriculture-food-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Richard J. Saykally Festschrift: A Spectroscopic Panorama From Molecular Ions to Liquid Surfaces",
+                "vi_url": "/page/jpcafh/vsi/saykally-festschrift",
+                "date": "2025-01-28",
+                "journals": [
+                    "jpcafh"
+                ],
+                "type": "vsi",
+                "long_blurb": "Over his 45-year career at UC Berkeley, Richard J. Saykally has made ground-breaking and fundamental contributions to our understanding of the structure and spectroscopy of interstellar molecules and ions, hydrogen bonding in water and molecular complexes, and selective ion adsorption to air-water interfaces. Students, postdocs, and collaborators working with Rich have always been captivated by his endless enthusiasm for science and inspired by his creativity and motivated by his dogged pursuit of those problems that have the potential to rewrite textbooks. Many of these colleagues and former mentees have contributed to this Festschrift in his honor.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Saykally-Festschrift.png",
+                "thumbnail_alt_text": "A close up of molecules with background of spectroscopic features",
+                "short_blurb": "Richard J. Saykally has probed the structure and spectroscopy of molecules, ions, and complexes. This Festschrift features research by many of his colleagues and collaborators",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "chemistry-education"
+                ]
+            },
+            {
                 "vi_title": "Wildland Fires: Emissions, Chemistry, Contamination, Climate, and Human Health",
                 "vi_url": "/page/vi/wildland-fires",
                 "date": "2025-01-27",
@@ -294,6 +349,23 @@
                 "related_subjects": [
                     "energy",
                     "materials-science"
+                ]
+            },
+            {
+                "vi_title": "In Memory of Prof. Francis DiSalvo",
+                "vi_url": "/page/cmatex/vi/DiSalvo-2024",
+                "date": "2024-12-26",
+                "journals": [
+                    "cmatex"
+                ],
+                "type": "vsi",
+                "long_blurb": "Prof. Francis J. DiSalvo was a highly accomplished solid-state chemist and materials scientist who’s many research contributions had a profound impact across a wide range of topics, from superconductors and chalcogenide materials, to thermoelectrics and fuel cells. He was also a beloved husband, father, grandfather, friend, and mentor. This Virtual Special Issue from <cite>Chemistry of Materials</cite> celebrates his life, career, and scientific legacy following his sad passing in October 2023. It is a testament to the level of affection in which he was held that we have been able to compile a collection of over 50 articles reporting new and exciting innovations across a range of research topics which were so dear to him.  This Virtual Special Issue is led by an <a href=\"/doi/10.1021/acs.chemmater.4c03037?ref=vi_disalvo-2024\">Editorial</a> written by guest editors, Profs. Song Jin, Cora Lind-Kovacs, Jing Li, and Richard Dronskowski.",
+                "thumbnail_url": "/images/selects/cmatex/disalvo-2024.jpg",
+                "thumbnail_alt_text": "Photo of Francis DiSalvo",
+                "short_blurb": "A Special Issue from Chemistry of Materials celebrating the life, career, and scientific legacy of Prof. Francis DiSalvo following his recent passing.",
+                "related_subjects": [
+                    "materials-science",
+                    "inorganic-chemistry"
                 ]
             },
             {
