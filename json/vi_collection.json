@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Celebrating Women’s Authorship in ACS Infectious Diseases",
+                "vi_url": "/page/aidcbc/vi/women-authorship",
+                "date": "2025-01-29",
+                "journals": [
+                    "aidcbc"
+                ],
+                "type": "collection",
+                "long_blurb": "<cite>ACS Infectious Diseases</cite> is proud to acknowledge a cohort of women corresponding authors who have consistently published their impactful research in the journal since its launch in 2015. In this Collection, you can read the most recent publication from each of these women authors. We also invited these authors to share with us their thoughts on a career in the field of infectious diseases as a woman researcher.<br><br>\n    The articles in this Collection encompass a wide range of subject areas within the infectious diseases field of research. We hope that you will enjoy this Collection and accompanying editorial!",
+                "thumbnail_url": "/pb-assets/images/aidcbc/women-authorship-id.png",
+                "thumbnail_alt_text": "a collection of nondescript women",
+                "short_blurb": "<cite>ACS Infectious Diseases</cite> is pleased to introduce a Collection recognizing women corresponding authors with highly influential publications and have made major impacts on the field.",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Highlights from 2024",
                 "vi_url": "/page/cmatex/vi/highlights-2024",
                 "date": "2025-01-28",
@@ -55,6 +72,23 @@
                 "related_subjects": [
                     "physical-chemistry",
                     "chemistry-education"
+                ]
+            },
+            {
+                "vi_title": "Legacy and Future Impact of the Cambridge Structural Database: A Tribute to Dr. Olga Kennard",
+                "vi_url": "/page/cgdefu/vsi/olga-kennard",
+                "date": "2025-01-28",
+                "journals": [
+                    "cgdefu"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Virtual Special Issue of <cite>Crystal Growth & Design</cite> is dedicated to Olga Kennard, honoring her legacy and impact on the field of crystallography. Olga Kennard is most well-known as the founder of the Cambridge Crystallographic Data Centre and the Cambridge Structural Database, although she was also a founder member of the European Crystallographic Association and the British Crystallographic Association, and helped establish the Protein Data Bank.",
+                "thumbnail_url": "/pb-assets/images/cgdefu/cambridge-structural-database-kennard.png",
+                "thumbnail_alt_text": "Olga Kennard",
+                "short_blurb": "This Virtual Special Issue is dedicated to Olga Kennard, honoring her legacy and impact on the field of crystallography.",
+                "related_subjects": [
+                    "multidisciplinary",
+                    "physical-chemistry"
                 ]
             },
             {
