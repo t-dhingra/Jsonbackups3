@@ -3,6 +3,75 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "2024 Rising Stars in Measurement Science",
+                "vi_url": "/page/amachv/vi/2024-rising-stars",
+                "date": "2025-02-04",
+                "journals": [
+                    "amachv"
+                ],
+                "type": "vsi",
+                "long_blurb": "<cite>ACS Measurement Science Au</cite> recognizes early-career scientists from across the globe who are making significant contributions to the field of measurement science. This special issue features a collection of open-access peer-reviewed papers from nineteen outstanding researchers who are breaking new ground in spectroscopy, mass spectrometry, electrochemistry, and separations. These contributions demonstrate the importance of measurement science advancements in all fields of chemistry, biology, and materials science.",
+                "thumbnail_url": "/pb-assets/images/selects/amachv/2024-rising-stars.jpg",
+                "thumbnail_alt_text": "Image showing the faces of nineteen researchers highlighted as the 2024 Rising Stars in Measurement Science.",
+                "short_blurb": "This special issue features contributions nineteen outstanding early-career researchers and leaders in spectroscopy, mass spectrometry, electrochemistry, and separations.",
+                "related_subjects": [
+                    "analytical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Celebrating 40 Years of Excellence in Environmental Science and Technology at the School of Environment, Tsinghua University",
+                "vi_url": "/page/vi/school-environment-tsinghua-university",
+                "date": "2025-02-04",
+                "journals": [
+                    "esthag",
+                    "estlcu",
+                    "aeecco"
+                ],
+                "type": "collection",
+                "long_blurb": "As one of the leading institutions in the world for environmental research and education, the School of Environment at Tsinghua University in China commemorated 40 years in 2024. The school has been an important focal point for the advancement of many frontiers in environmental science, engineering, and policy. Research interests have included critical global issues such as air and water pollution control, climate change mitigation, sustainable development, and resource management. <br>\nThis retrospective collection of papers from 2005 to 2024 taken from <cite>ES&amp;T</cite>, <cite>ES&amp;T Letters</cite>, and <cite>ACS ES&amp;T Engineering</cite> by authors based at Tsinghua University showcases some of the highlights of the four-decade journey of environmental research excellence and impact at that institution. We hope this collection serves as an insight to the School's environmental research history, and also helps to foster continued global collaboration across joint research ventures in our shared ambition for environmental protection. We also hope this serves as inspiration to researchers, practitioners, and policymakers worldwide training the next generation of environmental leaders, and driving impactful research for a cleaner, healthier planet.\n<br>\nProfessor Shuxiao Wang<br>\nTsinghua University, China",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/40Yrs-Tsingua-Uni-Enviro.png",
+                "thumbnail_alt_text": "A hand points to a digital network sphere encompassing green leaves, set against a vibrant green background.",
+                "short_blurb": "Selected papers from 2005-2024 from the <cite>ES&T</cite> portfolio of journals showcasing environmental science and technology research excellence at Tsinghua University",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "analytical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Exploring the Use of AI/ML Technologies in Medicinal Chemistry and Drug Discovery",
+                "vi_url": "/page/amclct/vi/ai-ml-technologies-medicinal-chemistry",
+                "date": "2025-02-04",
+                "journals": [
+                    "amclct"
+                ],
+                "type": "vsi",
+                "long_blurb": "In this special issue in <cite>ACS Medicinal Chemistry Letters</cite>, you will find a collection of 14 publications which highlight significant successes made with artificial intelligence/machine learning (AI/ML) technologies including the use of deep generative models, transfer learning, and federated learning. <cite>ACS Medicinal Chemistry Letters</cite> hopes this special issue encourages our readers to take a greater interest in this rapidly accelerating field of AL/ML technologies within the context of drug discovery.<br><br><strong>Kelly Chibale</strong>, Editor-In-Chief, <cite>ACS Medicinal Chemistry Letters</cite>,<br>University of Cape Town, South Africa <br><strong>Sun Choi</strong>, Associate Editor, <cite>ACS Medicinal Chemistry Letters</cite>,<br>Ewha Womans University, Republic of Korea <br><strong>Ashley Adams</strong>, Editorial Advisory Board, <cite>ACS Medicinal Chemistry Letters</cite>,<br>Recursion, United States <br><strong>Michael Palovich</strong>, Guest Editor,<br>Recursion, United States",
+                "thumbnail_url": "/pb-assets/images/amclct/exploring-ai-ml-medicinal-chem-drug-discovery.jpg",
+                "thumbnail_alt_text": "abstract view of artificial intelligence",
+                "short_blurb": "<cite>ACS Medicinal Chemistry Letters</cite> is pleased to introduce a special issue featuring articles that highlight the growth and progression of AI/ML in medicinal chemistry and drug discovery.",
+                "related_subjects": [
+                    "medicinal-chemistry",
+                    "theoretical-computational-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Emerging Investigators in Crystal Engineering",
+                "vi_url": "/page/cgdefu/vi/emerging-investigators-2025",
+                "date": "2025-02-04",
+                "journals": [
+                    "cgdefu"
+                ],
+                "type": "collection",
+                "long_blurb": "<cite>Crystal Growth &amp; Design</cite> continues celebrating the innovation, ideas, creativity, and diversity of early-career research group leaders in crystal engineering who are making an impact on the world stage. This Collection features representative articles published in 2022 and 2023 by emerging investigators from around the world.",
+                "thumbnail_url": "/pb-assets/images/cgdefu/emerging-investigators-in-crystal-engineering.jpg",
+                "thumbnail_alt_text": "2025 Crystal Growth & Design emerging investigators",
+                "short_blurb": "A Collection of articles published in 2022 and 2023 by emerging investigators in crystal engineering from around the world.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Highlights from 2024",
                 "vi_url": "/page/amlcef/vi/highlights-2024",
                 "date": "2025-02-03",
