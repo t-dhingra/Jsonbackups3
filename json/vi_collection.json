@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Chemical Neuroscientists in Japan",
+                "vi_url": "/page/acncdm/vi/chemneurojapan",
+                "date": "2025-02-05",
+                "journals": [
+                    "acncdm"
+                ],
+                "type": "collection",
+                "long_blurb": "Japan has long been a leader in scientific discovery, and its contributions to the field of chemical neuroscience are no exception. From cutting-edge research on neurodegenerative diseases to the development of novel imaging agents, Japanese researchers have made significant strides, contributing to a deeper understanding of brain chemistry and function. A Collection of recent publications in <cite>ACS Chemical Neuroscience</cite> reflect the depth and impact of this work.",
+                "thumbnail_url": "/pb-assets/images/selects/acncdm/chemneurojapan.jpg",
+                "thumbnail_alt_text": "outline of Japan on orange background",
+                "short_blurb": "A Collection of recent publications in <cite>ACS Chemical Neuroscience</cite> highlighting key contributions from chemical neuroscientists in Japan.",
+                "related_subjects": [
+                    "chemical-biology",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "2024 Rising Stars in Measurement Science",
                 "vi_url": "/page/amachv/vi/2024-rising-stars",
                 "date": "2025-02-04",
