@@ -3,6 +3,39 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "2024 Rising Stars in Environmental Research",
+                "vi_url": "/page/aeacc4/vi/2024-rising-stars",
+                "date": "2025-02-06",
+                "journals": [
+                    "aeacc4"
+                ],
+                "type": "vsi",
+                "long_blurb": "In the face of today’s environmental challenges, outstanding early-career researchers are working to deepen our understanding of complex environmental issues and develop new technologies to solve or mitigate pollution at city, national, and global scales. In this special issue we are delighted to announce the 2024 Rising Stars in Environmental Research.",
+                "thumbnail_url": "/pb-assets/images/aeacc4/rising-stars-environmental.jpg",
+                "thumbnail_alt_text": "rising stars in environmental research",
+                "short_blurb": "These outstanding early-career researchers are working to deepen our understanding of complex environmental issues, and develop new technologies to mitigate pollution.",
+                "related_subjects": [
+                    "earth-space-environmntal-chemistry"
+                ]
+            },
+             {
+                "vi_title": "Recent Advances in CO2 Conversion to Chemicals and Fuels",
+                "vi_url": "/page/enfuem/vi/CO2-Chemicals-Fuels",
+                "date": "2025-02-06",
+                "journals": [
+                    "enfuem"
+                ],
+                "type": "vsi",
+                "long_blurb": "The rising of atmospheric CO2 levels is directly linked to climate change, making the development of new carbon management strategies a central focus of advanced scientific research in recent decades. Approaches like utilizing CO2 emissions from point sources and direct air capture are crucial for long-term environmental sustainability, as underground storage of these emissions will eventually be unsustainable. CO2 conversion aims to advance carbon management and achieve deep decarbonization by accelerating technologies that can directly transform CO2 into environmentally sustainable and economically valuable products. These innovations are essential for enabling low-carbon supply chains and meeting the goal of a decarbonized economy by 2050.This Special Issue highlights a series of cutting-edge original research and (mini)review papers that present timely perspectives on cooperative and bifunctional adsorbent-catalyst materials for direct CO2 capture and conversion, CO2 cycloaddition with epoxides, and CO2 electrocatalytic reduction reaction.",
+                "thumbnail_url": "/pb-assets/images/enfuem/conversion.jpg",
+                "thumbnail_alt_text": "recent advances in co2 conversion to chemicals and fuels",
+                "short_blurb": "This Special Issue highlights a series of cutting-edge original research and (mini)review papers that present timely perspectives on carbon capture, utilisation and storage.",
+                "related_subjects": [
+                    "energy",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Chemical Neuroscientists in Japan",
                 "vi_url": "/page/acncdm/vi/chemneurojapan",
                 "date": "2025-02-05",
@@ -17,6 +50,22 @@
                 "related_subjects": [
                     "chemical-biology",
                     "medicinal-chemistry"
+                ]
+            },
+            {
+                "vi_title": "2024 Industry Research: From Lab to Commercialization",
+                "vi_url": "/page/iecred/vi/industry-research-2024",
+                "date": "2025-02-05",
+                "journals": [
+                    "iecred"
+                ],
+                "type": "VSI",
+                "long_blurb": "We are excited to announce the release of the Special Issue, “2024 Industrial Research: From Lab to Commercialization” . This collection features contributions from global researchers, showcasing advancements in translating fundamental science into commercial technologies and applications.",
+                "thumbnail_url": "/pb-assets/images/selects/iecred/industry-research-2024.jpg",
+                "thumbnail_alt_text": "Glass lab equipment",
+                "short_blurb": "This SI features contributions highlighting the vital role of industrial research in driving innovation and developing products with commercial potential.",
+                "related_subjects": [
+                    "chemical-engineering-industrial-chemistry"
                 ]
             },
             {
