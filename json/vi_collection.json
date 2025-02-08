@@ -18,7 +18,7 @@
                     "earth-space-environmntal-chemistry"
                 ]
             },
-             {
+            {
                 "vi_title": "Recent Advances in CO2 Conversion to Chemicals and Fuels",
                 "vi_url": "/page/enfuem/vi/CO2-Chemicals-Fuels",
                 "date": "2025-02-06",
@@ -59,7 +59,7 @@
                 "journals": [
                     "iecred"
                 ],
-                "type": "VSI",
+                "type": "vsi",
                 "long_blurb": "We are excited to announce the release of the Special Issue, “2024 Industrial Research: From Lab to Commercialization” . This collection features contributions from global researchers, showcasing advancements in translating fundamental science into commercial technologies and applications.",
                 "thumbnail_url": "/pb-assets/images/selects/iecred/industry-research-2024.jpg",
                 "thumbnail_alt_text": "Glass lab equipment",
@@ -555,7 +555,7 @@
             },
             {
                 "vi_title": "Polymers for the Clean Energy Transition",
-                "vi_url": "https://pubs.acs.org/page/jaaucr/vi/Polymers-Clean-Energy-2024",
+                "vi_url": "/page/jaaucr/vi/Polymers-Clean-Energy-2024",
                 "date": "2024-12-23",
                 "journals": [
                     "jaaucr"
@@ -5019,7 +5019,7 @@
             },
             {
                 "vi_title": "New Energy Developments at IIT Roorkee, India",
-                "vi_url": "https://pubs.acs.org/page/enfuem/vi/iit-roorkee2023",
+                "vi_url": "/page/enfuem/vi/iit-roorkee2023",
                 "date": "2023-07-06",
                 "journals": [
                     "enfuem"
@@ -5309,7 +5309,7 @@
             },
             {
                 "vi_title": "Biosynthesis",
-                "vi_url": "https://pubs.acs.org/page/vi/jnprdf/biosynthesis",
+                "vi_url": "/page/vi/jnprdf/biosynthesis",
                 "date": "2023-06-05",
                 "journals": [
                     "jnprdf"
@@ -8930,7 +8930,7 @@
             },
             {
                 "vi_title": "Recent Innovations in Solid-State and Molecular Qubits for Quantum Information Applications",
-                "vi_url": "https://pubs.acs.org/page/vi/qubits",
+                "vi_url": "/page/vi/qubits",
                 "date": "2021-11-11",
                 "journals": [
                     "jpccck",
