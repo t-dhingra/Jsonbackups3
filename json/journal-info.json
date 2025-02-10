@@ -662,12 +662,17 @@
       },
       "acsodf": {
         "editor": {
-          "Editor-in-Chief": ["Krishna N. Ganesh"]
+          "Editor-in-Chief": ["Krishna N. Ganesh"],
+          "Deputy Editor": ["Sarbajit Banerjee"]
         },
         "editorInfo": {
           "Krishna N. Ganesh": {
             "imgUrl": "/pb-assets/images/acsodf/krishna-ganesh.jpg",
             "profileUrl": "/page/acsodf/profile.html"
+          },
+          "Sarbajit Banerjee": {
+            "imgUrl": "",
+            "profileUrl": "/page/acsodf/profile.html#deputy"
           }
         },
         "vanityUrl": "https://pubs.acs.org/acsomega",

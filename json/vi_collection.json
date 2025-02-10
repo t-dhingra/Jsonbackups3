@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Biotechnological and Nanotechnological Advancements in Water Sustainability",
+                "vi_url": "/page/aewcaa/vi/biotech-nanotech-advancements-in-water-sustainability",
+                "date": "2025-02-10",
+                "journals": [
+                    "aewcaa"
+                ],
+                "type": "collection",
+                "long_blurb": "Advancements in biotechnology and nanotechnology are revolutionizing the field of water sustainability. The technology is being applied to water treatment processes for the effective removal of contaminants and purification of water in a sustainable way. From engineered microorganisms capable of degrading hazardous pollutants to advanced nanomaterials that improve the efficiency of water purification, these advancements contribute to more sustainable and eco-friendly water management practices.<br><br>To highlight the transformative opportunities these new materials, processes and systems offer we have curated a retrospective collection of ACS ES&amp;T Water-published papers from 2020-2024. The papers showcase some of the most recent applications of biotechnological and nanotechnological innovations to water sustainability, including microbial bioremediation, nano-enabled water treatment systems, advanced membrane technologies, and the integration of nanomaterials with biological processes for enhanced contaminant removal.<br><br>Future challenges lie in scaling up these technologies to integrate into existing water purification systems while ensuring their safety and environmental compatibility. We anticipate that these innovative, interdisciplinary approaches will significantly advance water-related research and contribute to addressing one of the most critical global issues of our time. We hope this curated collection provides a valuable reference point and insights into the transformative potential of biotechnology and nanotechnology in promoting water sustainability, as well as inspiration for the next steps.<br><br><strong>José Ruben Morones-Ramírez</strong><br>Universidad Autónoma de Nuevo León, Mexico",
+                "thumbnail_url": "/pb-assets/images/aewcaa/biotech-nanotech-advancements-in-water-sustainability.png",
+                "thumbnail_alt_text": "A pollutant molecule structure suspended in water",
+                "short_blurb": "Highlighting the latest advancements using biotechnology and nanotechnology in sustainable water treatment",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "2024 Rising Stars in Environmental Research",
                 "vi_url": "/page/aeacc4/vi/2024-rising-stars",
                 "date": "2025-02-06",
