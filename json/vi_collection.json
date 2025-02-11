@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Stimuli-Responsive Polymers at the Interface with Biology",
+                "vi_url": "/page/bomaf6/vi/stimuli-responsive-polymers",
+                "date": "2025-02-11",
+                "journals": [
+                    "bomaf6"
+                ],
+                "type": "vsi",
+                "long_blurb": "Stimuli-responsive polymers play important roles in biological systems, where they can be used to control the release of therapeutics, modulate imaging signals, actuate movement, or direct the growth of cells. This Collection presents a selection of recent exciting developments in the field. Herein discussed: the most important stimuli relevant to biological applications; the growing importance of stimuli-responsive polysaccharides;  a variety of stimuli-responsive polymeric systems for the delivery of small molecule drugs and nucleic acids; switchable polymers for the emerging area of therapeutic response measurement in theranostics; the diverse functions that can be achieved using hydrogels cross-linked covalently; challenges and future perspectives for the field.",
+                "thumbnail_url": "/pb-assets/images/selects/bomaf6/stimuli-responsive-polymers.jpg",
+                "thumbnail_alt_text": "Blue and orange hexagons fade into a black background",
+                "short_blurb": "Highlighting state-of-the-art fundamental research concerning stimuli-responsive polymers, and considering their current and potential future applications.",
+                "related_subjects": [
+                    "polymer-science",
+                    "chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Biotechnological and Nanotechnological Advancements in Water Sustainability",
                 "vi_url": "/page/aewcaa/vi/biotech-nanotech-advancements-in-water-sustainability",
                 "date": "2025-02-10",
