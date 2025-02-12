@@ -3,6 +3,41 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "The Future of Plastics Sustainability",
+                "vi_url": "/page/chreay/vi/plastics_sustainability",
+                "date": "2025-02-12",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Plastics are affordable, versatile, and convenient for single-use applications, but they quickly turn into large quantities of waste that must be managed. In essence, plastics are indispensable yet problematic – we cannot live without them, yet living with them is also a serious concern. It is now evident that our reliance on plastics has reached a turning point, and continuing with the status quo is no longer a viable option.<br>The polymer community is actively striving to create more sustainable plastics – materials that are valuable in use, yet do not pose a threat to the planet and human health. In this Thematic Issue of <cite>Chemical Reviews</cite>, leading researchers report progress in some of these fundamental areas and share their latest results in this exciting area of polymer science.",
+                "thumbnail_url": "/pb-assets/images/chreay/plastics_sustainability_cover.jpg",
+                "thumbnail_alt_text": "The Future of Plastics Sustainability Cover Image",
+                "short_blurb": "",
+                "related_subjects": [
+                    "polymer-science",
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "Many Faces of Medicinal Chemistry",
+                "vi_url": "/page/si/many-faces-medicinal-chemistry",
+                "date": "2025-02-12",
+                "journals": [
+                    "amclct",
+                    "jmcmar"
+                ],
+                "type": "vsi",
+                "long_blurb": "In response to the 2024 <a href=\"https://pubsdiversity.acs.org/data/2024/index.html?utm_source=axial&amp;utm_medium=referral&amp;utm_campaign=IC002_ST0012R_T005783_1024_KLR_ACS_Publications_Diversity_Data_Report_2024&amp;src=IC002_ST0012R_T005783_1024_KLR_ACS_Publications_Diversity_Data_Report_2024&amp;_gl=1*mq7axk*_gcl_au*MTgzNzEzMzI5NS4xNzMxMzM3MDI3*_ga*MTQ2MjA5NDA1NC4xNzM0MDEzNjA3*_ga_XP5JV6H8Q6*MTczNzU1MDI5My4xMzAuMS4xNzM3NTUzODA3LjYwLjAuMA..\">Diversity Data Report</a> released by the American Chemical Society which analyzed the demographics of the ACS Publications community of Authors, Reviewers, Editors, and Editorial Advisory Board (EAB) members, we wanted to celebrate the diversity of our corresponding authors. This Special Issue features contributions from the <cite>Journal of Medicinal Chemistry</cite> and <cite>ACS Medicinal Chemistry Letters</cite> from every major continent. We highlight 40 contributions of medicinal chemistry research across the globe from both academic and industrial institutions. We hope our readers will enjoy this collection of research articles, perspectives, letters, and technical notes which pulls together the collective efforts of medicinal chemists worldwide.<br><br><strong>Lori Ferrins</strong>, Associate Editor, <cite>Journal of Medicinal Chemistry</cite><br>Northeastern University, United States<br><br><strong>Ashley Adams</strong>, Guest Editor, <cite>ACS Medicinal Chemistry Letters</cite><br>Recursion, United States<br><br><strong>Anna Junker</strong>, Topic Editor, <cite>ACS Medicinal Chemistry Letters</cite><br>University of Tübingen, Germany",
+                "thumbnail_url": "/pb-assets/images/virtual collections/many-faces-of-medicinal-chemistry.jpg",
+                "thumbnail_alt_text": "outline of faces",
+                "short_blurb": "In this Special Issue, we celebrate the contributions to the medicinal chemistry field from across the globe.",
+                "related_subjects": [
+                    "medicinal-chemistry",
+                    "biological-chemistry-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Stimuli-Responsive Polymers at the Interface with Biology",
                 "vi_url": "/page/bomaf6/vi/stimuli-responsive-polymers",
                 "date": "2025-02-11",
