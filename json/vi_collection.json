@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Proteoform Technology and Biology",
+                "vi_url": "/page/jprobs/vsi/proteoform-technology-biology",
+                "date": "2025-02-18",
+                "journals": [
+                    "jprobs"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue honors the 2024 recipient of the Donald F. Hunt Distinguished Contribution in Proteomics Award, Prof. Neil Kelleher (Northwestern University). Articles included in this Special Issue were authored by a diverse and growing group of international scientists who are generating a wave of innovation aligned with a collective belief in the importance of deciphering protein-level biology. We congratulate Prof. Kelleher on this Award and thank all of the authors for contributing to this Special Issue.",
+                "thumbnail_url": "/pb-assets/images/jprobs/proteoform-technology.jpg",
+                "thumbnail_alt_text": "proteoform technology and biology",
+                "short_blurb": "This Special Issue on Proteoform Technology and Biology honors the 2024 recipient of the Donald F. Hunt Distinguished Contribution in Proteomics Award, Prof. Neil Kelleher (Northwestern University).",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "biology-biological-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Darwin Day 2025",
                 "vi_url": "/page/vi/darwin-day-2025",
                 "date": "2025-02-15",
