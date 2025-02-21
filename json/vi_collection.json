@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Special Issue in Honor of Sheo Singh",
+                "vi_url": "/page/vsi/jnprdf/sheo-b-singh",
+                "date": "2025-02-21",
+                "journals": [
+                    "jnprdf"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue honors Dr. Sheo Singh and his contributions to natural products research. He has had an illustrious career spanning over 30 years, including 24 years at Merck Research Laboratories in Rahway, New Jersey. In this collection, many of Dr. Singh’s colleagues pay tribute to him through the submission and dedication of a diverse set of excellent articles.",
+                "thumbnail_url": "/pb-assets/images/jnprdf/sheo-singh.jpg",
+                "thumbnail_alt_text": "professor sheo singh",
+                "short_blurb": "",
+                "related_subjects": [
+                    "organic-chemistry",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Analytical Control Strategies for Process Chemists",
+                "vi_url": "/page/oprdfk/vsi/analytical-control-strategies-2025",
+                "date": "2025-02-21",
+                "journals": [
+                    "oprdfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Analytical control strategies play a major role in quality assurance and reaction monitoring in modern process chemistry. Real-time integrated systems utilizing a wide range of analytical instruments are key to future development. In this Special Issue entitled Analytical Control Strategies for Process Chemists, OPR&D features research articles, perspectives, and reviews of advances and trends in the field. OPR&D Topic Editor Lakshmikant Bajpai brought this Special Issue together with the support and expertise of Guest Editors Laura Blue, Amol Dikundwar, Zengping Chen, Scott A. Miller, and Caroline Maierhofer. We also thank Saranjit Singh for contributing the introductory editorial, framing the landscape for the Special Issue. Take a look at the cover art on OPR&D's second issue of volume 29 (https://pubs.acs.org/toc/oprdfk/29/1) which highlights this special issue!",
+                "thumbnail_url": "/pb-assets/images/selects/oprdfk/analytical-control-strategies-2025.jpg",
+                "thumbnail_alt_text": "Blue/green diagonal bars layered across a square",
+                "short_blurb": "",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "organic-and-organometallic"
+                ]
+            },
+            {
                 "vi_title": "TADF-Active Systems: Mechanism, Applications, and Future Directions",
                 "vi_url": "/page/jpccck/vsi/TADF",
                 "date": "2025-02-20",
@@ -16,6 +50,23 @@
                 "short_blurb": "Theoretical and experimental works on designing, characterizing, and implementing next-gen TADF chromophores.",
                 "related_subjects": [
                     "physical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Socio-Hydrology:  Bridging the Human-Water Divide",
+                "vi_url": "/page/aewcaa/vi/socio-hydrology-bridging-the-human-water-divide",
+                "date": "2025-02-20",
+                "journals": [
+                    "aewcaa"
+                ],
+                "type": "collection",
+                "long_blurb": "Socio-hydrology is a research field exploring the dynamic and interconnected relationship between people and water. The deep intertwinement of water systems and human societies necessitates more holistic and interdisciplinary approaches to find solutions in response to challenges around water management, supply and sanitation. The incorporation of environmental, economic, and social factors in decision-making enables greater understanding of the dynamics and co-evolution of coupled human-water systems and ultimately informs successful sustainable water management and governance.<br><br>This curated retrospective collection of papers showcases published <cite>ACS ES&amp;T Water</cite> articles from 2022 - 2025 that highlight the human aspect of the people-water system relationship and the socio-hydrological dynamics. The collection presents diverse research and perspectives across a variety of water-related topics and geographic regions. It is our hope that this special collection not only advances the field of socio-hydrology but also inspires researchers and practitioners to embrace interdisciplinarity in addressing the complex water challenges of our time. <br><br>Joon Chuah<br>Singapore University of Social Sciences",
+                "thumbnail_url": "/pb-assets/images/aewcaa/bridging-human-water-divide.png",
+                "thumbnail_alt_text": "Multiple hands reaching out to collect water from a running tap",
+                "short_blurb": "Highlighting the deep intertwinement of water systems and human societies in water supply and sanitation challenges.",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "agriculture-food-chemistry"
                 ]
             },
             {
