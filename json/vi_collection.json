@@ -3,6 +3,80 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Celebrating 5 Years of the ACS Au Journal Family",
+                "vi_url": "/page/vi/acs-au-5-years",
+                "date": "2025-02-25",
+                "journals": [
+                    "jaaucr",
+                    "aeacb3",
+                    "aeacc4",
+                    "amacgu",
+                    "amachv",
+                    "anaccx",
+                    "aoiab5",
+                    "apcach",
+                    "apaccd"
+                ],
+                "type": "collection",
+                "long_blurb": "2025 marks the fifth anniversary of the first published issues of <cite>JACS Au</cite> and the nine ACS Au community journals, collectively the ACS Au journal family. To celebrate this milestone, we present this joint Collection featuring a sample of the excellent work that has been published in the journals in the last five years, handpicked by the Editors-in-Chief and the Deputy Editors. We thank the numerous individuals and groups who have supported the journals over these formative years, including our authors, reviewers, readers, editors, and editorial Advisory Board members. We hope you enjoy exploring the Collection and we encourage you to read the accompanying <a href=\"/doi/10.1021/jacsau.5c00142?ref=vi_acs-au-5-years\">Editorial</a> written by Editors-in-Chief Professor Christopher W. Jones and Shelley D. Minteer.",
+                "thumbnail_url": "/pb-assets/images/selects/acs-au-5-years.png",
+                "thumbnail_alt_text": "Dark Blue background with a number 5 made out of journal front covers",
+                "short_blurb": "A new joint Collection marking the fifth anniversary of the ACS Au journal family.",
+                "related_subjects": [
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "The Future of Colloidal Semiconductor Nanocrystals",
+                "vi_url": "/page/cmatex/vi/Semiconductor-Nanocrystals-2025",
+                "date": "2025-02-25",
+                "journals": [
+                    "cmatex"
+                ],
+                "type": "collection",
+                "long_blurb": "The versatility and tunability of colloidal semiconductor nanocrystals have led to their application in technologies as diverse as photovoltaics, biomedical imaging, and quantum dot displays. Such is their anticipated significance in the future of nanotechnology, the 2023 Nobel Prize in Chemistry was awarded to the discovery and synthesis of quantum-confined semiconductor nanocrystals. This Collection from Chemistry of Materials highlights some recent contributions to this dynamic field as researchers continue to innovate in the pursuit of unlocking their full potential.  Leading the Collection is a <a href=\"/doi/10.1021/acs.chemmater.5c00023?ref=vi_semiconductor-nanocrystals-2025\">guest Editorial</a> written by Profs. Raffaella Buonsanti and Brandi Cossairt which discusses the future of the field, and an <a href=\"/doi/10.1021/acs.chemmater.5c00183?ref=vi_semiconductor-nanocrystals-2025\">Editorial</a> written by Editor-in-Chief Prof. Sara Skrabalak which provides an introduction to the featured articles.",
+                "thumbnail_url": "/pb-assets/images/selects/cmatex/semiconductor-nanocrystals-2025.png",
+                "thumbnail_alt_text": "Ball and stick clusters on a background of purple fading into cyan",
+                "short_blurb": "A new Collection from Chemistry of Materials highlighting some recent advances in design, synthesis, optimization, and applications of colloidal semiconductor nanocrystals, often hailed as the building blocks of next generation nanotechnology.",
+                "related_subjects": [
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Pioneers in Applied and Fundamental Interfacial Chemistry (PAFIC): Nicholas D. Spencer",
+                "vi_url": "/page/langd5/vi/PAFIC-Spencer",
+                "date": "2025-02-25",
+                "journals": [
+                    "langd5"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue is dedicated to Prof. Nicholas D. Spencer for his outstanding and pioneering contributions to the areas of micro- and nano-tribology, lubrication science, surface functionalization and patterning, advanced surface analysis, and biointerfaces.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Nicholas_Spencer.png",
+                "thumbnail_alt_text": "the headshot of Professor Nicholas Spencer from ETH Zurich, Switzerland",
+                "short_blurb": "This SI is dedicated to Prof. Nicholas D. Spencer for his pioneering contributions to the areas of micro- and nano-tribology, lubrication science, and surface functionalization.",
+                "related_subjects": [
+                    "materials-science",
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "Advanced Electrochemical Technologies for Water Treatment, Resource Recovery, and Sustainable Energy",
+                "vi_url": "/page/aeecco/vi/advanced-electrochemical-technologies",
+                "date": "2025-02-23",
+                "journals": [
+                    "aeecco"
+                ],
+                "type": "collection",
+                "long_blurb": "The use of electrochemistry to address environmental engineering challenges has expanded rapidly in the last 70 years. Examples include electrochemical solutions for wastewater treatment, fuel cell development, sustainable energy solutions, and the creation of electrochemical sensors for environmental monitoring.To shine a spotlight on the environmental protection and remediation opportunities offered by electrochemical research we have curated this collection of well-read and well-cited works published on electrochemistry in ACS ES&T Engineering since journal launch in June 2020. The papers chosen highlight current scientific directions and technological concepts in electrochemical environmental remediation, resource recovery, and sustainable energy research. The collection covers topics from water contaminant treatment to battery recycling, novel electrode materials, reaction optimization, and technology scale-up. The studies underscore the development of sustainable, cost-effective, and energy-efficient electrochemical processes for real-world applications, offering insights into future research directions and potential for large-scale. The research presented here not only advances our scientific understanding but also offers practical solutions for a more sustainable future, illustrating the transformative power of electrochemistry in environmental engineering and beyond. We hope you enjoy exploring these groundbreaking studies and consider how electrochemical approaches can be applied to solve further complex environmental and energy challenges.",
+                "thumbnail_url": "/pb-assets/images/aeecco/electrochemical.jpg",
+                "thumbnail_alt_text": "advanced electrochemical technologies",
+                "short_blurb": "This collection showcases new advances in electrochemical environmental remediation, resource recovery, and sustainable energy research.",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Special Issue in Honor of Sheo Singh",
                 "vi_url": "/page/vsi/jnprdf/sheo-b-singh",
                 "date": "2025-02-21",
