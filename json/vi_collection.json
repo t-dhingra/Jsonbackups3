@@ -3,6 +3,57 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "2024 Rising Stars in Materials Science",
+                "vi_url": "page/amacgu/vi/2024-Rising-Stars",
+                "date": "2025-02-26",
+                "journals": [
+                    "amacgu"
+                ],
+                "type": "vis",
+                "long_blurb": "ACS Materials Au recognizes early career scientists who represent the depth, breadth, diversity, and interconnectivity of materials science being conducted across the globe. This is the third in a series of Rising Stars in Materials Science featuring a collection of open-access peer-reviewed papers from 19 outstanding early-career researchers working in various areas of materials science, along with an accompanying Editorial (DOI: 10.1021/acsmaterialsau.5c00020) written by the Editors of ACS Materials Au.",
+                "thumbnail_url": "/pb-assets/images/amacgu/rising-stars-materials.jpg",
+                "thumbnail_alt_text": "2024 rising stars in materials science",
+                "short_blurb": "The 2024 Rising Stars in Materials Science Special Issue features a collection of papers by 19 outstanding early-career researchers that provide new insights and directions for advancing materials science research.",
+                "related_subjects": [
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Noncanonical Amino Acids",
+                "vi_url": "/page/chreay/vi/2025-noncanonical_amino_acids",
+                "date": "2025-02-26",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Twenty canonical amino acids exist in nature, encoded by the universal genetic code and translated by the proteins and RNA that make up the ribosomal machinery. Expansion of the genetic code to new amino acids outside of those twenty – noncanonical amino acids – presents a significant biochemical challenge but offers unique insight into information flow and evolutionary innovation. It also holds out the promise of synthetic cells with alternative life chemistry.<br>In this Thematic Issue, we gathered leading experts to present the latest advances in Noncanonical Amino Acids. These advances pave the way for new technologies to alter the fundamental language of life on earth, enabling the development of novel bio-based and bio-inspired technologies for the benefit of society.",
+                "thumbnail_url": "/pb-assets/images/chreay/noncanonical_amino_acids_cover.jpg",
+                "thumbnail_alt_text": "Noncanonical Amino Acids Cover",
+                "short_blurb": "",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "The Complex World of Disinfection Byproducts",
+                "vi_url": "/page/vi/disinfection-byproducts",
+                "date": "2025-02-26",
+                "journals": [
+                    "esthag",
+                    "estlcu"
+                ],
+                "type": "collection",
+                "long_blurb": "Disinfection byproducts (DBPs) are formed during the drinking water disinfection process through the reaction of disinfection chemicals with natural organic matter and other dissolved substances. The result is the production of hundreds to thousands of byproducts in drinking water, often with toxic properties, many of which remain unidentified, uncharacterized, and unregulated. The sources and mechanisms of DBP formation and the relative toxicity of different classes of DBPs (e.g. aromatic halogenated DBPs, halophenylacetamides, halonitromethanes, haloacetonitriles, and N-nitrosamines) towards cytotoxicity and developmental toxicity are of continued research interest. Understanding both the formation and health effects of DBPs is key to implementing more effective ways to reduce their presence and protect human health. <br><br>This curated collection of papers on the topic of the identification, formation and toxicity of disinfection byproducts from both <cite>Environmental Science &amp; Technology</cite> (<cite>ES&amp;T</cite>) and <cite>Environmental Science &amp; Technology Letters</cite> (<cite>ES&amp;T Letters</cite>) from 2020-2024 showcases some of the most recent interdisciplinary research in this area helping to understand and mitigate this urgent health issue. We hope you find this collection a useful reference source and that it provides insight and inspiration for the next steps of innovation in this research field. <br><br>Susan Richardson <br>University of South Carolina, USA",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Disinfection_Byproducts.png",
+                "thumbnail_alt_text": "Abstract purple/blue view of molecules suspended in water",
+                "short_blurb": "",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "analytical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Celebrating 5 Years of the ACS Au Journal Family",
                 "vi_url": "/page/vi/acs-au-5-years",
                 "date": "2025-02-25",
