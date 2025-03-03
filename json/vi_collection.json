@@ -3,6 +3,41 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Post-Lithium Battery Materials",
+                "vi_url": "/page/amlcef/vi/Post-Li-Batteries-2025",
+                "date": "2025-03-03",
+                "journals": [
+                    "amlcef"
+                ],
+                "type": "vsi",
+                "long_blurb": "Post-Lithium-ion batteries have a crucial role to play in the future of\n    electrochemical energy storage systems as the need for more robust, cheaper,\n    and safer alternatives to conventional lithium-ion batteries grows as a\n    consequence of factors such as global warming and the anticipated expansion\n    of the electric vehicle market. However, developing next-generation battery\n    technologies to replace or build on such an established and commercialized\n    technology is no easy task. This Special Issue from\n    <cite>ACS Materials Letters</cite> highlights some recent publications in\n    the journal contributing to the state-of-the-art materials research being\n    conducted in this area.<br /><br />This Special Issue is led by an\n    <a\n      href=\"/doi/10.1021/acsmaterialslett.5c00285?ref=vi_post-li-batteries-2025\"\n      >Editorial</a\n    >\n    written by Associate Editor Prof. Claire Villevieille which introduces the\n    featured publications and discusses the future of the field.",
+                "thumbnail_url": "/pb-assets/images/selects/amlcef/post-li-batteries-2025.jpg",
+                "thumbnail_alt_text": "Green battery icon on a dark blue background",
+                "short_blurb": "A Special Issue from ACS Material Letters highlighting a selection of recently published work in the fast-moving field of post-lithium battery technology.",
+                "related_subjects": [
+                    "materials-science",
+                    "energy"
+                ]
+            },
+            {
+                "vi_title": "Computational Methods in Drug Delivery",
+                "vi_url": "/page/vi/computational-methods-drug-delivery",
+                "date": "2025-03-03",
+                "journals": [
+                    "bcches",
+                    "mpohbp"
+                ],
+                "type": "vsi",
+                "long_blurb": "This joint special issue highlights the latest advancements in the field of drug delivery focusing on how computational methods are being utilized to overcome some of the most challenging obstacles. Drug delivery is constantly evolving, and computational methods have proven to be an invaluable tool. The outstanding work included in this special issue, encompassing work published in Bioconjugate Chemistry and Molecular Pharmaceutics, illustrates the energetic and innovative approaches by researchers working in this area.  An editorial written by the Guest Editors introduces the Special Issue.\n \nGuest Editors\nOuyang Defang, MP Guest Editor, University of Macau\nRafael Gomez-Bombarelli, BC Guest Editor, MIT\nPer Larsson, MP Guest Editor, University of Uppsala\nOlivia Merkel, MP Guest Editor, Ludwig Maximilian University of Munich\nSapna Sarupria, BC Guest Editor, University of Minnesota",
+                "thumbnail_url": "/pb-assets/images/selects/computational-methods-drug-delivery.jpg",
+                "thumbnail_alt_text": "",
+                "short_blurb": "This special issue highlights ways in which computational methods are being utilized to overcome challenging obstacles in drug delivery.",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Advanced Separation Materials and Processes",
                 "vi_url": "/page/cbehb5/vi/advanced-separation-materials-and-processes",
                 "date": "2025-02-28",
