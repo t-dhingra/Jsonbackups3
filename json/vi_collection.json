@@ -3,6 +3,48 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "World Tuberculosis Day 2025",
+                "vi_url": "/page/vi/world-tuberculosis-day-2025",
+                "date": "2025-03-04",
+                "journals": [
+                    "achre4",
+                    "amrcda",
+                    "abmcb8",
+                    "acscii",
+                    "acbcct",
+                    "aeacc4",
+                    "aeacd5",
+                    "aeecco",
+                    "aidcbc",
+                    "amclct",
+                    "acsodf",
+                    "aptsfn",
+                    "asbcd6",
+                    "bichaw",
+                    "bcches",
+                    "bomaf6",
+                    "chreay",
+                    "ehnea2",
+                    "esthag",
+                    "jaaucr",
+                    "jafcau",
+                    "jmcmar",
+                    "jnprdf",
+                    "jacsat",
+                    "langd5",
+                    "jpcbfk"
+                ],
+                "type": "collection",
+                "long_blurb": "Tuberculosis remains one of the world’s deadliest infectious diseases. World\n    Tuberculosis Day is recognized every year on March 24<sup>th</sup>, the date\n    in 1882 in which Robert Koch discovered\n    <em>Mycobacterium tuberculosis</em> as the bacterium that causes\n    tuberculosis. In this Collection, you will find contributions from 26 ACS\n    journals which highlight new insights and the latest advancements on\n    detection, prevention and treatment of this deadly disease. We hope our\n    readers are inspired by the collective research efforts from scientists\n    worldwide.",
+                "thumbnail_url": "/pb-assets/images/virtual collections/tuberculosis-day-2025.png",
+                "thumbnail_alt_text": "bacteria",
+                "short_blurb": "With this Collection, we recognize World Tuberculosis Day 2025 with a variety of publications highlighting recent advancements in tuberculosis research, including diagnosis, prevention, and treatment.",
+                "related_subjects": [
+                    "multidisciplinary",
+                    "biological-chemistry-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Post-Lithium Battery Materials",
                 "vi_url": "/page/amlcef/vi/Post-Li-Batteries-2025",
                 "date": "2025-03-03",
