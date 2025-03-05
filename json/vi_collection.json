@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Recent Advances in Gas Hydrate Technologies: An Update from ICGH10",
+                "vi_url": "/page/enfuem/vi/GasHydrate-ICGH10",
+                "date": "2025-03-05",
+                "journals": [
+                    "enfuem"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue is dedicated to the 10th International Conference on Gas Hydrates (ICGH10), a triennial conference series focusing on research and development in various gas hydrate-related fields held in Singapore on July 9th -14th, 2023.Here we present 28 articles authored by authors who presented at ICGH10 on topics relating to several aspects of gas hydrate research, such as gas hydrate fundamentals, gas hydrate technologies, exploration and recovery natural gas hydrates, flow assurance, and climate and geohazard environmental impacts, among others.",
+                "thumbnail_url": "/pb-assets/images/selects/amlcef/post-li-batteries-2025.jpg",
+                "thumbnail_alt_text": "Green battery icon on a dark blue background",
+                "short_blurb": "This Special Issue is dedicated to the 10th International Conference on Gas Hydrates (ICGH10), a triennial conference focusing on research and development in various gas hydra",
+                "related_subjects": [
+                    "chemical-engineering",
+                    "industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "World Tuberculosis Day 2025",
                 "vi_url": "/page/vi/world-tuberculosis-day-2025",
                 "date": "2025-03-04",
