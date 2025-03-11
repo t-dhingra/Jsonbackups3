@@ -3,19 +3,19 @@
         "year": "2025",
         "virtual_issues": [
             {
-                "vi_title": "Gold-Mediated Chemistry",
-                "vi_url": "/page/orlef7/vsi/gold-mediated-chemistry-2025",
-                "date": "2025-03-07",
+                "vi_title": "Software Tools and Resources 2025: Honoring Margaret Dayhoff",
+                "vi_url": "/page/jprobs/vsi/software-tools-2025",
+                "date": "2025-03-10",
                 "journals": [
-                    "orlef7"
+                    "jprobs"
                 ],
                 "type": "vsi",
-                "long_blurb": "The unique π-activation ability of gold has long served as the trademark for gold-catalyzed reactions. The broad reactivity platform exhibited by gold complexes exemplifies its potential for significant applications in total synthesis of highly functionalized compounds and even complex natural products. This Special Issue collects reports encompassing diverse aspects of gold chemistry. Associate Editor Belén Martín-Matute, with the support of Guest Editors Xiaodong (Michael) Shi, María Méndez, and Nitin T. Patil, brought this Special Issue together to celebrate the value of gold in organic transformations.",
-                "thumbnail_url": "/pb-assets/images/selects/orlef7/gold-mediated-chemistry-2025.png",
-                "thumbnail_alt_text": "generic organic reaction schemes where gold is used, overlaid by a golden hue",
-                "short_blurb": "",
+                "long_blurb": "The fourth biennial Software Tools and Resources Special Issue highlights many of the newest and significantly updated tools and resources for computational proteomics and metabolomics. These peer-reviewed analytical tools are highlighted here to demonstrate applicability, availability, and ease-of-use to the proteomics community, often in line with FAIR (Findable, Accessible, Interoperable, and Reusable) principles that have as much value to research software as they do to data. The Special Issue provides a confluence of novel research tools with recent advances in many of the tools that have become foundational in bioinformatic research. We are pleased to dedicate this Special Issue to Dr. Margaret Oakley Dayhoff in honor of her pioneering achievements in the field of bioinformatics on what would have been her 100th birthday.",
+                "thumbnail_url": "/pb-assets/images/jprobs/dayhoff.jpg",
+                "thumbnail_alt_text": "honoring margaret dayhoff",
+                "short_blurb": "The 2025 Software Tools and Resources Special Issue is dedicated to bioinformatics pioneer Margaret Dayhoff on what would have been her 100th birthday. This Special Issue was organized by JPR Associate Editor Magnus Palmblad and Guest Editors Michael Hoopmann and Viktoria Dorfer.",
                 "related_subjects": [
-                    "organic-and-organometallic"
+                    "analytical-chemistry"
                 ]
             },
             {
