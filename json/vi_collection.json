@@ -19,6 +19,23 @@
                 ]
             },
             {
+                "vi_title": "Functional Compartmentalized Polymeric Systems",
+                "vi_url": "/page/bomaf6/vi/polymersomes",
+                "date": "2025-03-10",
+                "journals": [
+                    "bomaf6"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue highlights recent progress in the field of polymersomes, i.e. functional, compartmentalized, polymeric systems. This project was inspired by, and is in honor of, Prof. Dr. Wolfgang Meier. \n\nOverall, this Special Issue shows the the rapidly expanding field of biomacromolecule-based artificial cells and organelles, which is gaining ground from all that has been learned over the past two decades from the self-assembly of amphiphilic block copolymers, the simple and complex coacervation of polymers, and the multicomponent and multiscale self-assembly of polymers, lipids, proteins and other building blocks. There's no doubt that Wolfgang's pioneering work will continue to inspire researchers in this field.",
+                "thumbnail_url": "/pb-assets/images/selects/bomaf6/polymersomes.jpg",
+                "thumbnail_alt_text": "",
+                "short_blurb": "Advancing artificial cells with Functional Compartmentalized Polymeric Systems in honor of, and inspired by, Wolfgang Meier: a pioneer.",
+                "related_subjects": [
+                    "polymer-science",
+                    "nanoscience"
+                ]
+            },
+            {
                 "vi_title": "Navigating Challenges and Charting Solutions of Water Issues in Southeast Asia",
                 "vi_url": "/page/aewcaa/vi/water-issues-southeast-asia",
                 "date": "2025-03-07",
@@ -2651,7 +2668,7 @@
                 "thumbnail_alt_text": "Profile image of Diane Bunce"
             },
             {
-                "vi_title": "Celebrating the 25th Anniversary of the Chemical Research Society in India",
+                "vi_title": "Celebrating the 25th Anniversary of the Chemical Research Society of India",
                 "vi_url": "/page/vi/25th-anniversary-chemical-research-society-india",
                 "date": "2024-07-03",
                 "journals": [
@@ -2678,10 +2695,10 @@
                 "related_subjects": [
                     ""
                 ],
-                "short_blurb": "",
-                "long_blurb": "This Special Collection in <cite>JACS</cite> aims to curate high-impact, significant contributions from India spanning a wide spectrum of interdisciplinary areas over the past 25 years. From Chemical Biology to Theoretical Chemistry, Supramolecular Chemistry to Materials Science, Energy, and Environment, these articles clearly point out the breadth and depth of Indian scientific ingenuity. We believe that initiatives like this strengthen the enduring partnership between the American Chemical Society and CRSI, fostering greater collaboration and synergy in advancing scientific knowledge and discovery.",
-                "thumbnail_url": "/pb-assets/images/selects/jacsat/chemical-research-society-india.jpg",
-                "thumbnail_alt_text": "Celebrating the 25th Anniversary of the Chemical Research Society in India"
+                "short_blurb": "ACS Publications presents this unique multi journal collaborative Special issue dedicated to the 25th anniversary of the Chemical Research Society of India (CRSI).",
+                "long_blurb": "The Chemical Research Society of India (CRSI) was established in 1999 with an objective to recognize, promote and inculcate the importance of quality research in chemistry and allied sciences. Over the years, the Society has hosted several conferences, seminars, workshops, symposia, and other programs to expand its reach and benefit the scientific community. In an endeavor to support the Society's initiatives towards scientific outreach and engagement, the American Chemical Society [ACS] joined in an alliance agreement with the CRSI in 2017. As CRSI celebrates its 25th year anniversary in 2024, it gives us immense pleasure to present this “Virtual Special Issue” [VSI] comprising of a collection of articles of researchers from India published in more than 35 ACS journals. We thank the CRSI and ACS Publications for this partnership and hope that you will enjoy reading some of the most exciting science from India featured in this VSI.  Sincerely wish that CRSI achieves many more milestones in the future.",
+                "thumbnail_url": "/pb-assets/images/selects/25th-anniversary-chemical-research-society-india.jpg",
+                "thumbnail_alt_text": ""
             },
             {
                 "vi_title": "Hot Topics in Pharmaceutical Research",
@@ -2732,20 +2749,20 @@
                 "thumbnail_alt_text": "This ACS Omega Virtual Special Issue highlights high-quality research in phytochemistry, with a focus on chemical characterization of phytochemicals."
             },
             {
-                "vi_title": "Celebrating the 25th Anniversary of the Chemical Research Society in India",
+                "vi_title": "Celebrating the 25th Anniversary of the Chemical Research Society of India (JACS)",
                 "vi_url": "/page/jacsat/vi/chemical-research-society-india",
                 "date": "2024-06-28",
                 "journals": [
                     "jacsat"
                 ],
                 "type": "collection",
+                "long_blurb": "This Special Collection in JACS aims to curate high-impact, significant contributions from India spanning a wide spectrum of interdisciplinary areas over the past 25 years. From Chemical Biology to Theoretical Chemistry, Supramolecular Chemistry to Materials Science, Energy, and Environment, these articles clearly point out the breadth and depth of Indian scientific ingenuity. We believe that initiatives like this strengthen the enduring partnership between the American Chemical Society and CRSI, fostering greater collaboration and synergy in advancing scientific knowledge and discovery.",
+                "thumbnail_url": "/pb-assets/images/selects/jacsat/chemical-research-society-india.jpg",
+                "thumbnail_alt_text": "Celebrating the 25th Anniversary of the Chemical Research Society in India",
+                "short_blurb": "",
                 "related_subjects": [
                     ""
-                ],
-                "short_blurb": "",
-                "long_blurb": "This Special Collection in <cite>JACS</cite> aims to curate high-impact, significant contributions from India spanning a wide spectrum of interdisciplinary areas over the past 25 years. From Chemical Biology to Theoretical Chemistry, Supramolecular Chemistry to Materials Science, Energy, and Environment, these articles clearly point out the breadth and depth of Indian scientific ingenuity. We believe that initiatives like this strengthen the enduring partnership between the American Chemical Society and CRSI, fostering greater collaboration and synergy in advancing scientific knowledge and discovery.",
-                "thumbnail_url": "/pb-assets/images/selects/jacsat/chemical-research-society-india.jpg",
-                "thumbnail_alt_text": "Celebrating the 25th Anniversary of the Chemical Research Society in India"
+                ]
             },
             {
                 "vi_title": "Highlights of the 4th International Symposium of Food Science and Nutrition Health in Dalian, China",
