@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Membrane Protein Simulations",
+                "vi_url": "/page/jpcbfk/vsi/membrane-protein-simulations",
+                "date": "2025-03-13",
+                "journals": [
+                    "jpcbfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Molecular dynamics (MD) simulations of membrane proteins cover a wide range of applications and specialized techniques. These techniques accurately combine two challenges into one: properly capturing the structure and dynamics of proteins as well as correctly representing the membrane environment in which they are embedded. Simulations of membrane proteins in realistic cellular contexts over multiple microseconds are now common. This special issue highlights recent applications of MD simulations to membrane protein function and dynamics. As the complexity of membrane and membrane protein simulations continues to increase, new tools will play a major role in ensuring their accessibility to both experts and novices alike.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Membrane-Protein-Simulations.png",
+                "thumbnail_alt_text": "A computational model of proteins embedded in a lipid bilayer",
+                "short_blurb": "Read the latest advances on MD simulations of membrane protein dynamics and membrane interactions.",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "physical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Software Tools and Resources 2025: Honoring Margaret Dayhoff",
                 "vi_url": "/page/jprobs/vsi/software-tools-2025",
                 "date": "2025-03-10",
