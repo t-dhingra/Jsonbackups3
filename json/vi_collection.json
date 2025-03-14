@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Honoring Professor Jagadese J. Vittal and his Contributions to Functional Molecular Crystals",
+                "vi_url": "/page/cgdefu/vsi/functional-molecular-crystals",
+                "date": "2025-03-14",
+                "journals": [
+                    "cgdefu"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue celebrates the remarkable contributions of Professor\n    Jagadese J. Vittal to crystal engineering and molecular materials. The\n    diverse range of articles, contributed by his peers, collaborators, and\n    students across generations, reflects the breadth of his influence and the\n    ongoing advancements in the field. From solid-state photochemistry to\n    multifunctional materials and coordination polymers, these works highlight\n    both the current progress and the challenges that lie ahead. We hope this\n    collection not only honors Prof. Vittal’s legacy but also inspires\n    researchers to build on his visionary work, addressing present challenges\n    and paving the way for future breakthroughs in crystal engineering and\n    materials science.",
+                "thumbnail_url": "/pb-assets/images/cgdefu/functional-molecular-crystals.jpg",
+                "thumbnail_alt_text": "A photograph of J.J. Vittal",
+                "short_blurb": "This special issue celebrates the remarkable contributions of Professor Jagadese J. Vittal to crystal engineering and molecular materials.",
+                "related_subjects": [
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Membrane Protein Simulations",
                 "vi_url": "/page/jpcbfk/vsi/membrane-protein-simulations",
                 "date": "2025-03-13",
