@@ -3,6 +3,41 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Predictive Safety Assessment Methodologies for Delivering Sustainable Crop Protection Solutions",
+                "vi_url": "/page/jafcau/vsi/predictive-safety-assessment-methodologies-sustainable-crop-protection-solutions",
+                "date": "2025-03-19",
+                "journals": [
+                    "jafcau"
+                ],
+                "type": "vsi",
+                "long_blurb": "The growing global needs for food and feed and the impact of climate change on agriculture demand innovative and sustainable solutions to protect against crop losses and to improve yields worldwide. To facilitate the timely discovery and development of new sustainable crop protection products with favorable human health and environmental safety profiles, the development of new approach methodologies (NAMs) is essential to predict potential risk and to perform safety assessment early in the discovery process. Significant advances in NAM research have been made in recent years. This Special Issue features high-quality research articles and reviews on the latest advances in emerging NAMs for predictive safety assessment in agrochemical research and development.",
+                "thumbnail_url": "/pb-assets/images/jafcau/JF_SPI_2-1742404913077.PNG",
+                "thumbnail_alt_text": "Human liver HepaRG cells stained with Tubulin Tracker Deep Red (TTDR; red) Wheat Germ Agglutinin (WGA; green) and Hoechst (blue)",
+                "short_blurb": "This Special Issue features high-quality research articles and reviews on the latest advances in emerging new approach methodologies for predictive safety assessment in agrochemical research and development.",
+                "related_subjects": [
+                    "agriculture-food-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Celebrating 10 Years of the Collaborative Innovation Center of Chemistry for Energy Materials (<i>i</i>ChEM)",
+                "vi_url": "/page/vsi/ichem-10th-anniversary",
+                "date": "2025-03-18",
+                "journals": [
+                    "jpccck",
+                    "jpclcd",
+                    "aelccp"
+                ],
+                "type": "vsi",
+                "long_blurb": "Special Issue dedicated to the Collaborative Innovation Center of Chemistry\n    for Energy Materials (iChEM), a consortium that integrates Xiamen University\n    (XMU), Fudan University (FDU), the University of Science and Technology of\n    China (USTC), and the Dalian Institute of Chemical Physics (DICP) of the\n    Chinese Academy of Sciences (CAS). <br /><br />This joint initiative brings\n    together 41 articles on energy materials and chemistry, published in The\n    <cite></cite>Journal of Physical Chemistry C,\n    <cite>The Journal of Physical Chemistry Letters</cite>, and\n    <cite>ACS Energy Letters</cite>, that showcase the excellence of the\n    research done at iChEM, reflecting the collaborative spirit that lies at the\n    core of this research center.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/10y-iCHeM.jpg",
+                "thumbnail_alt_text": "Abstract digital art with vibrant blue and purple lines and dots forming circular patterns on a dark background",
+                "short_blurb": "Special Issue dedicated to iCHeM, which focuses on optimal utilization of carbon resources, chemical energy storage and conversion, and solar energy conversion chemistry.",
+                "related_subjects": [
+                    "energy",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Honoring Professor Jagadese J. Vittal and his Contributions to Functional Molecular Crystals",
                 "vi_url": "/page/cgdefu/vsi/functional-molecular-crystals",
                 "date": "2025-03-14",
