@@ -3,6 +3,25 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Research at Predominately Undergraduate Institutions",
+                "vi_url": "/page/jpchax/vi/jpc-pui-2025",
+                "date": "2025-03-20",
+                "journals": [
+                    "jpcafh",
+                    "jpcbfk",
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "Research carried out by undergraduates at PUIs is extraordinary as it combines the advance of scientific knowledge with the training of undergraduates in the scientific method. Faculty at these institutions have no Ph.D. students, they typically teach multiple simultaneous courses, and their primary research is carried out by undergraduates. Yet it is the intensive mentor-apprentice relationship between the teacher and student that results in the two-fold outcomes of excellent scientific discovery and developing the next STEM workforce. The research below, from PUIs in the United States, exemplify these outstanding efforts.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/PUI.png",
+                "thumbnail_alt_text": "Students engaged by a speaker out of frame",
+                "short_blurb": "Read recently published papers by authors at PUIs, which play an important part in the US scientific infrastructure.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "chemistry-education"
+                ]
+            },
+            {
                 "vi_title": "Predictive Safety Assessment Methodologies for Delivering Sustainable Crop Protection Solutions",
                 "vi_url": "/page/jafcau/vsi/predictive-safety-assessment-methodologies-sustainable-crop-protection-solutions",
                 "date": "2025-03-19",
