@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Free Radical Chemistry in Environmental Engineering Systems",
+                "vi_url": "/page/aeecco/si/free-radical-chemistry",
+                "date": "2025-03-21",
+                "journals": [
+                    "aeecco"
+                ],
+                "type": "si",
+                "long_blurb": "The theoretical uncovering of free radical reactions in different environments can further accelerate our understanding of how they are interlinked across various environmental engineering systems and advance solutions for an array of current problems surrounding environmental pollution. This special issue focuses on the critical role of free radical chemistry in sustainable environmental engineering systems. It highlights innovative research and advancements in radical-driven technologies that address environmental pollution through advanced oxidation processes, combustion/pyrolysis, catalysis, and photochemical remediation.",
+                "thumbnail_url": "/pb-assets/images/aeecco/radical-chemistry.jpg",
+                "thumbnail_alt_text": "free radical chemistry in environmental engineering systems",
+                "short_blurb": "Explore free radical-driven technologies that bridge material innovation, mechanistic understanding, and process optimization to tackle environmental challenges effectively.",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Research at Predominately Undergraduate Institutions",
                 "vi_url": "/page/jpchax/vi/jpc-pui-2025",
                 "date": "2025-03-20",
