@@ -3,13 +3,62 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Precision Patterning",
+                "vi_url": "/page/cmatex/vi/precision-patterning-2025",
+                "date": "2025-03-25",
+                "journals": [
+                    "cmatex"
+                ],
+                "type": "vsi",
+                "long_blurb": "As electronic device technologies advance, driven by the ever-increasing demand for enhanced capacity, speed, and resolution, patterning has emerged as a crucial tool for increasing integration levels which facilitate the enhancement of device performance. This Special Issue from Chemistry of Materials showcases a selection of innovative research in patterning technology published in the journal in the past year. We hope the work featured inspires further advancements in this fast-moving field.\n\nThis collection is led by an Editorial written by Associate Editor Prof. Han-Bo-Ram Lee.",
+                "thumbnail_url": "/pb-assets/images/selects/cmatex/precision-patterning.jpg",
+                "thumbnail_alt_text": "Pink laser hitting blue circuit board on purple background",
+                "short_blurb": "A Special Issue from Chemistry of Materials highlighting some exciting recent developments in patterning technology.",
+                "related_subjects": [
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Celebrating Women in Energy Research",
+                "vi_url": "https://pubs.acs.org/page/enfuem/vi/women-energy-2025",
+                "date": "2025-03-25",
+                "journals": [
+                    "enfuem"
+                ],
+                "type": "vsi",
+                "long_blurb": "Women scientists make remarkable contributions to research and bring new perspectives and innovations to the energy industry. In celebration of International Women's Day 2025, Energy & Fuels highlights a special issue featuring contributions from 32 female researchers worldwide, covering a wide range of energy research topics. This issue includes reviews, original research articles, and a communication, expected to have a significant impact in the field.",
+                "thumbnail_url": "https://pubs.acs.org/pb-assets/images/enfuem/women-science.jpg",
+                "thumbnail_alt_text": "women in energy research",
+                "short_blurb": "With this special issue, Energy & Fuels wants to celebrate the significant contributions of women to the research fields of energy and fuels.",
+                "related_subjects": [
+                    "energy"
+                ]
+            },
+            {
+                "vi_title": "First-Principles Simulations of Molecular Optoelectronic Materials: Elementary Excitations and Spatiotemporal Dynamics",
+                "vi_url": "https://pubs.acs.org/page/jctcce/vi/optoelectronic-materials?",
+                "date": "2025-03-24",
+                "journals": [
+                    "jctcce"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue of The Journal of Chemical Theory and Computation aims to highlight the interdisciplinary nature of computational research in optoelectronic materials and its role in advancing new methodologies. The manuscripts in this issue feature a diverse range of methods, from electronic structure approaches to quantum dynamical and mixed quantum-classical simulations and their contributions to explore computational strategies that bridge different levels of description, such as mapping electronic structure data to effective lattice models, using machine-learned Hamiltonians combined with nonadiabatic molecular dynamics, and employing tensor network schemes for quantum dynamics based on first-principles parametrized multistate Hamiltonians.",
+                "thumbnail_url": "https://pubs.acs.org/pb-assets/images/jctcce/first-principles.jpg",
+                "thumbnail_alt_text": "first principles simulations of molecular materials",
+                "short_blurb": "This special issue of The Journal of Chemical Theory and Computation highlights the interdisciplinary nature of computational research in optoelectronic materials and its role",
+                "related_subjects": [
+                    "theoretical-computational-chemistry",
+                    "physical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Free Radical Chemistry in Environmental Engineering Systems",
                 "vi_url": "/page/aeecco/si/free-radical-chemistry",
                 "date": "2025-03-21",
                 "journals": [
                     "aeecco"
                 ],
-                "type": "si",
+                "type": "vsi",
                 "long_blurb": "The theoretical uncovering of free radical reactions in different environments can further accelerate our understanding of how they are interlinked across various environmental engineering systems and advance solutions for an array of current problems surrounding environmental pollution. This special issue focuses on the critical role of free radical chemistry in sustainable environmental engineering systems. It highlights innovative research and advancements in radical-driven technologies that address environmental pollution through advanced oxidation processes, combustion/pyrolysis, catalysis, and photochemical remediation.",
                 "thumbnail_url": "/pb-assets/images/aeecco/radical-chemistry.jpg",
                 "thumbnail_alt_text": "free radical chemistry in environmental engineering systems",
@@ -153,6 +202,22 @@
                 "short_blurb": "This special issue presents the latest research on the diversity & severity of water-related challenges in Southeast Asia along with innovative and context-specific solutions",
                 "related_subjects": [
                     "earth-space-environmental-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Gold-Mediated Chemistry",
+                "vi_url": "/page/orlef7/vsi/gold-mediated-chemistry-2025",
+                "date": "2025-03-07",
+                "journals": [
+                    "orlef7"
+                ],
+                "type": "vsi",
+                "long_blurb": "The unique π-activation ability of gold has long served as the trademark for gold-catalyzed reactions. The broad reactivity platform exhibited by gold complexes exemplifies its potential for significant applications in total synthesis of highly functionalized compounds and even complex natural products. This Special Issue collects reports encompassing diverse aspects of gold chemistry.\n\nAssociate Editor Belén Martín-Matute, with the support of Guest Editors Xiaodong (Michael) Shi, María Méndez, and Nitin T. Patil, brought this Special Issue together to celebrate the value of gold in organic transformations.",
+                "thumbnail_url": "/pb-assets/images/selects/orlef7/gold-mediated-chemistry-2025.png",
+                "thumbnail_alt_text": "generic organic reaction schemes where gold Au is used, overlaid by a golden hue",
+                "short_blurb": "The unique π-activation ability of gold has long served as the trademark for gold-catalyzed reactions. The broad reactivity platform exhibited by gold complexes exemplifies its potential for significant applications in total synthesis of highly functionalized compounds and even complex natural products. Organic Letters celebrates the value of gold in organic transformations with this Special Issue.",
+                "related_subjects": [
+                    "organic-and-organometallic"
                 ]
             },
             {
