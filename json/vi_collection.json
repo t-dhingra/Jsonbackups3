@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Synthetic Biology",
+                "vi_url": "/page/chreay/vi/2025-synthetic_biology",
+                "date": "2025-03-26",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "The 21st Century is the century of biology, and at the heart of many of the\n    groundbreaking discoveries in biotechnology over the past 25 years are\n    chemists, driven by a deep-rooted desired to understand molecules and design\n    new ones. In this Thematic Issues we highlight recent contributions by\n    chemists in engineering biological systems to develop tools and technologies\n    that deepen our understanding of nature while enabling new applications in\n    both basic research and medicine.",
+                "thumbnail_url": "/pb-assets/images/chreay/synthetic_biology_cover.jpg",
+                "thumbnail_alt_text": "synthetic biology cover image",
+                "short_blurb": "",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Precision Patterning",
                 "vi_url": "/page/cmatex/vi/precision-patterning-2025",
                 "date": "2025-03-25",
@@ -1031,6 +1048,23 @@
                 "short_blurb": "A new Collection from ACS Materials Letters highlighting a hand-picked selection of papers published in the journal in 2024 which received high levels of engagement.",
                 "related_subjects": [
                     "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Influential Articles in Agricultural Science from 2024",
+                "vi_url": "/page/vi/influential-articles-agricultural-science-2024",
+                "date": "2025-01-30",
+                "journals": [
+                    "jafcau",
+                    "aastgj"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection showcases a selection of the most influential articles in agricultural science published in ACS journals in 2024. The highlights include our most cited and downloaded content, as well as research that attracted media attention around the world and some recommended reading from our editorial team. We hope you enjoy exploring this Collection!\n\nSee here for a similar Collection of influential articles in food science from 2024.",
+                "thumbnail_url": "/pb-assets/images/selects/influential-agriculture.jpg",
+                "thumbnail_alt_text": "Aerial view of farm machinery working in a field of green crops.",
+                "short_blurb": "This Collection showcases a selection of our most cited and downloaded content, research that attracted media attention, and some recommended reading from our editorial team.",
+                "related_subjects": [
+                    "agriculture-food-chemistry"
                 ]
             },
             {
