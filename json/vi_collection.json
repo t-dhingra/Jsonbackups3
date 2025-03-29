@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Indoor Air Quality: Chemical Processes and Dynamics",
+                "vi_url": "https://pubs.acs.org/page/aeacd5/vi/indoor-air-quality",
+                "date": "2025-03-28",
+                "journals": [
+                    "aeacd5"
+                ],
+                "type": "collection",
+                "long_blurb": "ndoor air chemistry is a scientific field with direct links to our daily lives. Scientists working in this field seek to understand the sources of indoor air pollutants, chemical reactions that occur in the air and on surfaces, and the transport, fate, and effects of indoor chemicals and indoor aerosol particles. Chemicals such as wildfire smoke or combustion fumes can be transported indoors though open windows or through cracks or leaks in the building, but chemicals can also be generated indoors through activities like cleaning, cooking, smoking, and use of personal care products. Recent work has demonstrated that our buildings are also a source for pollutants outdoors, making indoor chemistry an important field of study for improving urban air pollution. This is a multidisciplinary field involving scientists working in chemistry, engineering, biology, epidemiology, and toxicology to name a few.\n\nThis retrospective collection of papers has been chosen from issues of ACS ES&T Air from January 2024 onwards. The collection showcases the latest understanding of the dynamics and complexity of indoor air chemistry and the health effects of key pollutants. The papers also clearly demonstrate the need for additional research to understand the identities, sources, concentrations, and impacts of chemicals and aerosol particles on human health.\n\nI hope this curated collection provides an insight on the current understanding of the field and highlights where the additional research challenges lie in this understudied area of air chemistry and human health.",
+                "thumbnail_url": "https://pubs.acs.org/pb-assets/images/aeacd5/indoor-air-quality.jpg",
+                "thumbnail_alt_text": "indoor air quality chemical process and dynamics",
+                "short_blurb": "Read the latest understanding of the dynamics and complexity of indoor air chemistry and the health effects of key pollutants",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "analytical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Synthetic Biology",
                 "vi_url": "/page/chreay/vi/2025-synthetic_biology",
                 "date": "2025-03-26",
