@@ -3,6 +3,56 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Breath Sensing",
+                "vi_url": "/page/ascefj/vsi/breath-sensing",
+                "date": "2025-04-01",
+                "journals": [
+                    "ascefj"
+                ],
+                "type": "vsi",
+                "long_blurb": "ACS Sensors' special issue on breath analysis was organized by Associate Editor Prof. Hee-Tae Jung and features cutting-edge research contributions covering materials engineering, biomarker identification, sensor technologies, signal processing, and systematic reviews. It addresses health monitoring applications for diseases like lung cancer, COVID-19, Parkinson’s disease, and diabetes through biomarker gas detection, and highlights advancements in sensor sensitivity and predictive accuracy. The issue aims to inspire further innovation and breakthroughs in breath analysis by welcoming novel ideas and addressing unresolved questions in this multidisciplinary field.",
+                "thumbnail_url": "/pb-assets/images/selects/ascefj/breath-sensing.jpg",
+                "thumbnail_alt_text": "breath analysis",
+                "short_blurb": "This Special Issue features state-of-the-art research contributions spanning materials engineering, mechanistic studies, biomarker identification, sensor technologies, signal processing, and systematic reviews from world-leading experts in breath analysis.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Pioneers in Applied and Fundamental Interfacial Chemistry (PAFIC): Janet Elliott",
+                "vi_url": "/page/langd5/vi/PAFIC-Elliott",
+                "date": "2025-04-01",
+                "journals": [
+                    "langd5"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue is dedicated to Prof. Janet Elliott for her outstanding and pioneering contributions to the areas of thermodynamics, colloids and surfaces, and cryobiology.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Elliott.png",
+                "thumbnail_alt_text": "a headshot of Prof. Janet A. W. Elliott, a University of Alberta Distinguished Professor",
+                "short_blurb": "This SI is dedicated to Prof. Janet Elliott for her pioneering contributions to the areas of thermodynamics, colloids and surfaces, and cryobiology.",
+                "related_subjects": [
+                    "materials-science",
+                    "biological-chemistry-chemical-biology"
+                ]
+            },
+            {
+                "vi_title": "Celebrating Mike Ward's Contributions to Molecular Crystal Growth and Engineering",
+                "vi_url": "/page/cgdefu/vsi/molecular-crystal-growth",
+                "date": "2025-03-31",
+                "journals": [
+                    "cgdefu"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue celebrates the prolific career of Professor Michael D.\n    Ward, who is well known for developing the electrochemical quartz crystal\n    microbalance, applying in situ atomic force microscopy to determine\n    molecular crystal growth mechanisms, innovating treatments to stop\n    pathological crystal growth, and bringing modularity and design to crystal\n    engineering in a large class of hydrogen-bonded frameworks, among many other\n    contributions. We hope this collection will inspire researchers to build on\n    Prof. Ward’s visionary work and lead to future breakthroughs in molecular\n    crystal growth and engineering.",
+                "thumbnail_url": "/pb-assets/images/cgdefu/cgd-mike-ward.jpg",
+                "thumbnail_alt_text": "A photograph of Mike Ward",
+                "short_blurb": "This Special Issue is dedicated to Prof. Michael Ward and his contributions to the field of molecular crystal growth and engineering",
+                "related_subjects": [
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Indoor Air Quality: Chemical Processes and Dynamics",
                 "vi_url": "/page/aeacd5/vi/indoor-air-quality",
                 "date": "2025-03-28",
