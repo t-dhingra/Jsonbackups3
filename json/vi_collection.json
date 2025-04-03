@@ -3,6 +3,24 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Alec M. Wodtke Festschrift: Advances in Chemical Dynamics for Surface Chemistry",
+                "vi_url": "/page/jpchax/vsi/alec-wodtke-festschrift",
+                "date": "2025-04-03",
+                "journals": [
+                    "jpcafh",
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Festschrift honors Prof. Alec Wodtke, celebrating his curiosity and intellectual leadership. Wodtke’s scientific originality – akin to following the road “less traveled by,” in the words of poet Robert Frost – has opened many new paths of scientific inquiry. In recognition of his lasting influence, ~80 esteemed scientists—including former students, post-docs, and close collaborators—have contributed original publications to this issue. Wodtke’s mentorship, guidance, and example have profoundly shaped many careers and enriched the scientific community. We hope you enjoy exploring this collection, offered in appreciation of Wodtke’s remarkable contributions to both science and mentoring those who worked alongside him.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Chem_Dynamics.jpg",
+                "thumbnail_alt_text": "Molecules approaching and moving away from an extended 2D surface",
+                "short_blurb": "This issue includes studies in spectroscopy, catalysis, and quantum chemistry, ranging from gas-phase reactions to materials interfaces.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "theoretical-computational-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Breath Sensing",
                 "vi_url": "/page/ascefj/vsi/breath-sensing",
                 "date": "2025-04-01",
