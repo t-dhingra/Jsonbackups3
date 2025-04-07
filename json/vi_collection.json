@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Flexible Electronics",
+                "vi_url": "/page/amlcef/vi/Flexible-Electronics-2025",
+                "date": "2025-04-07",
+                "journals": [
+                    "amlcef"
+                ],
+                "type": "collection",
+                "long_blurb": "The prospect of electronic devices which are not only resilient to mechanical stress, but which may also be designed to respond to such stimuli, is hugely appealing for materials scientists and it opens up a plethora of potential applications from power sources and circuitry to sensors and actuators. This Collection from ACS Materials Letters highlights some of the latest developments in the exciting area of flexible electronics recently published in the journal.\n\nWe hope you enjoy exploring the Collection and we encourage you to read the accompanying Editorial written by Associate Editor Prof. Natalie Banerji.",
+                "thumbnail_url": "/pb-assets/images/selects/amlcef/flexible-electronics-2025.png",
+                "thumbnail_alt_text": "Flexible circuit board image on a rainbow background",
+                "short_blurb": "A new Collection from ACS Materials Letters focusing on flexible electronics and their applications.",
+                "related_subjects": [
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Alec M. Wodtke Festschrift: Advances in Chemical Dynamics for Surface Chemistry",
                 "vi_url": "/page/jpchax/vsi/alec-wodtke-festschrift",
                 "date": "2025-04-03",
