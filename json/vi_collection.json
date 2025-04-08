@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Action for Climate Empowerment and the Contribution of Chemistry Education",
+                "vi_url": "/page/jceda8/vi/climate2025",
+                "date": "2025-04-08",
+                "journals": [
+                    "jceda8"
+                ],
+                "type": "vsi",
+                "long_blurb": "Assemble and post new VSI for Journal of Chemical Education titled “Action for Climate Empowerment and the Contribution of Chemistry Education” on regular issue posting date of 8 April 2025.\nLanding Page Caption\nThis Special Issue of the Journal of Chemical Education has been curated to bring into focus ways in which climate empowerment can be introduced into research and practice in chemistry education to help transition towards a more sustainable society.  An editorial written by the Editors introduces the VSI",
+                "thumbnail_url": "/pb-assets/images/jceda8/ED_Climate_Change.png",
+                "thumbnail_alt_text": "overhead view of a tree, bissected by a line where one half is verdant and the other half barren",
+                "short_blurb": "This SI introduces ways in which climate empowerment can be introduced into research and practice in chemistry education to help transition towards a more sustainable society.",
+                "related_subjects": [
+                    "chemistry-education"
+                ]
+            },
+            {
                 "vi_title": "Flexible Electronics",
                 "vi_url": "/page/amlcef/vi/Flexible-Electronics-2025",
                 "date": "2025-04-07",
