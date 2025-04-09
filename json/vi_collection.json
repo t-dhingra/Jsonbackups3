@@ -10,12 +10,47 @@
                     "jceda8"
                 ],
                 "type": "vsi",
-                "long_blurb": "Assemble and post new VSI for Journal of Chemical Education titled “Action for Climate Empowerment and the Contribution of Chemistry Education” on regular issue posting date of 8 April 2025.\nLanding Page Caption\nThis Special Issue of the Journal of Chemical Education has been curated to bring into focus ways in which climate empowerment can be introduced into research and practice in chemistry education to help transition towards a more sustainable society.  An editorial written by the Editors introduces the VSI",
+                "long_blurb": "This Special Issue of the Journal of Chemical Education has been curated to bring into focus ways in which climate empowerment can be introduced into research and practice in chemistry education to help transition towards a more sustainable society.  An editorial written by the Editors introduces the VSI",
                 "thumbnail_url": "/pb-assets/images/jceda8/ED_Climate_Change.png",
                 "thumbnail_alt_text": "overhead view of a tree, bissected by a line where one half is verdant and the other half barren",
                 "short_blurb": "This SI introduces ways in which climate empowerment can be introduced into research and practice in chemistry education to help transition towards a more sustainable society.",
                 "related_subjects": [
                     "chemistry-education"
+                ]
+            },
+            {
+                "vi_title": "Celebrating Earth Day 2025: Our Power, Our Planet",
+                "vi_url": "/page/vi/earth-day-2025",
+                "date": "2025-04-08",
+                "journals": [
+                    "esthag",
+                    "estlcu"
+                ],
+                "type": "collection",
+                "long_blurb": "To celebrate the 2025 Earth Day theme ‘Our Power, Our Planet', ES&T and ES&T Letters have created a curated collection of recent articles from both journals that showcase the latest research in the transition to renewable energies.  The research provides insights not only to the chemistry and mechanisms of renewable power technologies, but also the environmental impacts and implications of this renewable energy transition.",
+                "thumbnail_url": "/pb-assets/images/virtual%20collections/Earth_Day_2025.png",
+                "thumbnail_alt_text": "Interlinking cogs with renewable energy features such as wind turbines and solar panels on top of each cog signify a systems approach in the transition to renewable energy",
+                "short_blurb": "Earth Day 2025:  ‘Our Power, Our Planet'\nA curated collection of recent articles from ES&T and ES&T Letters focused on the transition to renewable energies.",
+                "related_subjects": [
+                    "earth-space-environmental-chemistry",
+                    "energy"
+                ]
+            },
+            {
+                "vi_title": "2024 Rising Stars in Biological, Medicinal, and Pharmaceutical Chemistry",
+                "vi_url": "/page/abmcb8/vi/2024-rising-stars",
+                "date": "2025-04-08",
+                "journals": [
+                    "abmcb8"
+                ],
+                "type": "vsi",
+                "long_blurb": "ACS Bio & Med Chem Au recognizes 18 outstanding early-career scientists who are leading the field in biological, medicinal, and pharmaceutical chemistry research. This Special Issue features the contributions of these researchers and highlights the diversity of the work being done to advance this field.",
+                "thumbnail_url": "/pb-assets/images/abmcb8/2024-rising-stars.png",
+                "thumbnail_alt_text": "images of rising stars",
+                "short_blurb": "In this Special Issue, we celebrate the 2024 Rising Stars in Biological, Medicinal, and Pharmaceutical Chemistry by featuring the work of 18 early-career researchers who are making significant impacts to the field.",
+                "related_subjects": [
+                    "medicinal-chemistry",
+                    "biological-chemistry-chemical-biology"
                 ]
             },
             {
