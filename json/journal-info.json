@@ -660,6 +660,22 @@
         "type": "oa",
         "indexAbstract": ["PubMed Central", "Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Portico"]
       },
+        "anmafm": {
+				"editor": {
+					"Editor-in-Chief": ["Xiaoyuan (Shawn) Chen"]
+				},
+				"editorInfo": {
+					"Xiaoyuan (Shawn) Chen": {
+						"imgUrl": "/pb-assets/images/anmafm/xiaoyuan-chen.png",
+						"profileUrl": ""
+					}
+				},
+				"vanityUrl": "https://pubs.acs.org/acsnanomed",
+				"issn": "",
+				"blurb": "ACS Nano Medicine publishes significant research breakthroughs in the application of nanoscience and nanotechnology to clinical diagnosis and therapeutics.",
+				"type": "hybrid",
+				"indexAbstract": []
+		},
       "acsodf": {
         "editor": {
           "Editor-in-Chief": ["Krishna N. Ganesh"],
