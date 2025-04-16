@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Advances in Energy Conversion and Storage at the Nanoscale",
+                "vi_url": "/page/anaccx/si/advances-in-energy-conversion-and-storage-at-nanoscale",
+                "date": "2025-04-16",
+                "journals": [
+                    "anaccx"
+                ],
+                "type": "vsi",
+                "long_blurb": "In this Special Issue, researchers around the world tackle some of these key areas of research spanning synthesis, characterization, and computation where nanoscience plays a front-and-center role in advancing the development, understanding, and applications of energy-related materials and phenomena. The contributions include plasmonic, semiconducting, catalytic, optical, and energy storage materials made of nanostructured metals, alloys, oxides, chalcogenides, and halides that span 0D, 1D, and 2D morphologies.",
+                "thumbnail_url": "/pb-assets/images/anaccx/energy-conversion.jpg",
+                "thumbnail_alt_text": "advances in energy conversion and storage at the nanoscale",
+                "short_blurb": "This Special Issue highlights the role of nanoscience and nanotechnology in recent developments in the field of energy conversion and storage",
+                "related_subjects": [
+                    "nanoscience",
+                    "energy"
+                ]
+            },
+            {
+                "vi_title": "Environmental Biotechnologies Enabling a Carbon-Neutral Circular Economy",
+                "vi_url": "/page/aeecco/vsi/biotech-for-circular-economy",
+                "date": "2025-04-15",
+                "journals": [
+                    "aeecco"
+                ],
+                "type": "vsi",
+                "long_blurb": "The circular economy marks a crucial departure from the traditional \"take-make-waste\" linear model, essential for sustainable development. This approach prioritizes long-lasting designs and emphasizes maintenance, repair, reuse, remanufacturing, refurbishing, and recycling.\n\nAchieving this shift requires fundamental changes towards more resilient, resource-efficient, and nature-positive engineering approaches. These changes are particularly important in productive sectors such as resource extraction, food and commodity systems, energy production, buildings and construction, transport and tourism, oceans and fisheries, health, procurement, and chemicals and waste management.\n\nCentral to this transformation are microbial and enzymatic systems, which are key components of environmental biotechnology. These systems are powerful tools in the circular economy, enabling the production of fuels and valuable products from waste, pollution remediation, and wastewater treatment.\n\nThis special issue highlights cutting-edge environmental biotechnologies driving these innovations. The articles present novel engineering approaches and provide deep mechanistic insights into these systems.",
+                "thumbnail_url": "/pb-assets/images/selects/biotech-for-circular-economy.jpg",
+                "thumbnail_alt_text": "Cover art for ES&T Engineering special issue on Environmental Biotechnologies enabling Circular Economy",
+                "short_blurb": "Explore innovative examples and practical applications of cutting-edge biotechnology systems driving a carbon-neutral circular economy for a sustainable future.",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "earth-space-environmental-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Action for Climate Empowerment and the Contribution of Chemistry Education",
                 "vi_url": "/page/jceda8/vi/climate2025",
                 "date": "2025-04-08",
