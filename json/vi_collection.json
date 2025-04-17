@@ -3,6 +3,70 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Wearable Nanodevices",
+                "vi_url": "/page/vi/wearable-nanodevices-25",
+                "date": "2025-04-18",
+                "journals": [
+                    "nalefd"
+                ],
+                "type": "collection",
+                "long_blurb": "Intimate, wearable devices enable real-time monitoring of physiological conditions. Through wearable nanodevices, healthcare is moving toward predictive and personalized patient monitoring, transforming how we detect, treat, and prevent diseases in everyday life.",
+                "thumbnail_url": "/pb-assets/images/ancac3/wearable_nanodevices-25-1744914630137.jpg",
+                "thumbnail_alt_text": "Wearable Nanodevices enable real-time monitoring of physiological conditions.",
+                "short_blurb": "Intimate, wearable devices enable real-time monitoring of physiological conditions.",
+                "related_subjects": [
+                    "nanoscience"
+                ]
+            },
+            {
+                "vi_title": "DNA & RNA Therapeutics",
+                "vi_url": "/page/vi/dna_rna_therapuetics_25",
+                "date": "2025-04-18",
+                "journals": [
+                    "ancac3"
+                ],
+                "type": "collection",
+                "long_blurb": "Nanoparticles are increasingly used as delivery systems for DNA and RNA therapeutics, enhancing their stability and efficiency. These carriers have the potential to advance gene therapies in areas such as cancer, genetic disorders, and infectious diseases.",
+                "thumbnail_url": "/pb-assets/images/virtual%20collections/Nano_Medicine_DNA_RNA-1744904075847.jpg",
+                "thumbnail_alt_text": "Nanoparticles as delivery systems for DNA and RNA therapeutics",
+                "short_blurb": "Nanoparticles are increasingly used as delivery systems for DNA and RNA therapeutics, enhancing their stability and efficiency.",
+                "related_subjects": [
+                    "nanoscience"
+                ]
+            },
+            {
+                "vi_title": "Nanotheranostics",
+                "vi_url": "/page/vi/nanotheranostics-25",
+                "date": "2025-04-18",
+                "journals": [
+                    "acsodf"
+                ],
+                "type": "collection",
+                "long_blurb": "Nanotheranostics - nanotechnology that combines diagnostic and therapeutic functionality - presents new frontiers for personalized medicine. New platforms in the field offer opportunities for guided focal therapy, including real-time monitoring of drug delivery to reduce side effects and increase efficacy.",
+                "thumbnail_url": "/pb-assets/images/ancac3/nanotheranostics-25-1744916292050.jpg",
+                "thumbnail_alt_text": "Nanotheranostics - nanotechnology that combines diagnostic and therapeutic functionality",
+                "short_blurb": "Nanotheranostics - nanotechnology that combines diagnostic and therapeutic functionality - presents new frontiers for personalized medicine.",
+                "related_subjects": [
+                    "nanoscience"
+                ]
+            },
+            {
+                "vi_title": "Nanorobotics",
+                "vi_url": "/page/vi/nanorobotics-25",
+                "date": "2025-04-18",
+                "journals": [
+                    "ancac3"
+                ],
+                "type": "collection",
+                "long_blurb": "Tiny machines that can move untethered throughout bodies present great potential in biomedicine. Recent advances in design and operation have increased usable applications for targeted drug delivery, precision diagnosis, and microsurgery, and even detoxification.",
+                "thumbnail_url": "/pb-assets/images/ancac3/nano_medicine_nanorobotics-1744916798933.jpg",
+                "thumbnail_alt_text": "Tiny machines that can move untethered throughout bodies",
+                "short_blurb": "Tiny machines that can move untethered throughout bodies present great potential in biomedicine.",
+                "related_subjects": [
+                    "nanoscience"
+                ]
+            },
+            {
                 "vi_title": "Advances in Energy Conversion and Storage at the Nanoscale",
                 "vi_url": "/page/anaccx/si/advances-in-energy-conversion-and-storage-at-nanoscale",
                 "date": "2025-04-16",
