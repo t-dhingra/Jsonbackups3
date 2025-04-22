@@ -3,6 +3,89 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Polymer-Drug Conjugate Materials",
+                "vi_url": "/page/cmatex/vi/polymer-drug-2025",
+                "date": "2025-04-22",
+                "journals": [
+                    "cmatex"
+                ],
+                "type": "vsi",
+                "long_blurb": "Polymer-drug conjugates, materials in which therapeutic agents are chemically bound to polymer chains, overcome many of the limitations associated with traditional drug-loaded systems and as such are seen as key candidates for future polymer-based therapeutic treatments. This Special Issue from Chemistry of Materials showcases some recent advances in this dynamic research area that were published in the journal over the last year.\n\nThis collection is led by an Editorial written by Associate Editor Prof. Julien Nicolas.",
+                "thumbnail_url": "/pb-assets/images/selects/cmatex/polymer-drug-2025.png",
+                "thumbnail_alt_text": "Interlocking blue structures on a dark blue background",
+                "short_blurb": "A Special Issue from Chemistry of Materials highlighting a selection of recent innovations in polymer-drug conjugates.",
+                "related_subjects": [
+                    "materials-science",
+                    "polymer-science"
+                ]
+            },
+            {
+                "vi_title": "Class of Influential Researchers 2024",
+                "vi_url": "/page/iecred/vi/influential-researchers-2024",
+                "date": "2025-04-22",
+                "journals": [
+                    "iecred"
+                ],
+                "type": "vsi",
+                "long_blurb": "The articles in this special issue report on innovative approaches and technologies aimed at reducing carbon emissions across various sectors. Key themes include advancements in CO2 capture and utilization, the development of sustainable aviation fuels, and the optimization of industrial processes through novel materials and operational strategies.",
+                "thumbnail_url": "/pb-assets/images/selects/iecred/influential-researchers-2024.png",
+                "thumbnail_alt_text": "Class of Influential Researchers 2024",
+                "short_blurb": "These articles underscore the critical role of top research and technological innovation in achieving decarbonization and addressing the challenge of climate change.",
+                "related_subjects": [
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Powering the Future",
+                "vi_url": "/page/vi/power-future/",
+                "date": "2025-04-22",
+                "journals": [
+                    "amrcda",
+                    "aaemcq",
+                    "aapmcd",
+                    "aeacb3",
+                    "amlccd",
+                    "acsodf",
+                    "apwdam",
+                    "bichaw",
+                    "chreay",
+                    "aeecco",
+                    "inocaj",
+                    "jacsat",
+                    "jaaucr",
+                    "jpccck",
+                    "jpclcd",
+                    "mamobx",
+                    "langd5"
+                ],
+                "type": "collection",
+                "long_blurb": "One of the greatest challenges in artificial photosynthesis is bridging the gap between stabilizing initial charge separation and achieving multi-electron, proton-coupled charge accumulation—critical for driving water-splitting and fuel catalysis. Read here the latest advancements across the ACS Publications portfolio!",
+                "thumbnail_url": "/pb-assets/images/amrcda/PLY_COL_Powering%20the%20Future_0425.png",
+                "thumbnail_alt_text": "Photovoltaic cell with a green hue",
+                "short_blurb": "ACS Publications highlights the very latest in artificial photosynthesis, water-splitting, fuel catalysis and charge separation stabilization.",
+                "related_subjects": [
+                    "energy",
+                    "polymer-science"
+                ]
+            },
+            {
+                "vi_title": "Editor Collections: Jinwoo Cheon",
+                "vi_url": "/page/achre4/jinwoo-cheon-collection",
+                "date": "2025-04-22",
+                "journals": [
+                    "achre4"
+                ],
+                "type": "collection",
+                "long_blurb": "Accounts of Chemical Research Editor Collections bring together hand-picked articles from the journal by each of our Senior Editors. In this collection, Jinwoo Cheon of Yonsei University and the Institute of Basic Science collects recent Accounts across nanotechnology, bioengineering, and nanomedicine. Check out what the leaders in these fields are working on in Accounts of Chemical Research!",
+                "thumbnail_url": "/pb-assets/images/achre4/Cheon_collection_cover.jpg",
+                "thumbnail_alt_text": "nano robotic arms handling atoms on a conveyer belt under the sea",
+                "short_blurb": "In this collection, Jinwoo Cheon of Yonsei University and the Institute of Basic Science collects recent Accounts across nanotechnology, bioengineering, and nanomedicine.",
+                "related_subjects": [
+                    "nanoscience",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Wearable Nanodevices",
                 "vi_url": "/page/vi/wearable-nanodevices-25",
                 "date": "2025-04-18",
