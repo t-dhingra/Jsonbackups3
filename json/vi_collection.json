@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Materials, Physics, and Chemistry of Neuromorphic Computing Systems",
+                "vi_url": "/page/jpclcd/vsi/neuromorphic-computing-systems",
+                "date": "2025-04-23",
+                "journals": [
+                    "jpclcd"
+                ],
+                "type": "vsi",
+                "long_blurb": "There is growing interest in developing memory and computational\n    functionalities inspired by neurological processes, achieved through a deep\n    understanding of physical and chemical phenomena. By precisely controlling\n    material properties and surfaces at the micro- and nanoscale, researchers\n    aim to replicate key biological mechanisms within advanced devices. One\n    crucial aspect is the ability to define these functionalities through\n    physical chemistry analysis of diverse material properties, enabling the\n    reproduction of biological behaviors such as synaptic plasticity. This, in\n    turn, facilitates the development of dynamic networks capable of fast\n    learning, akin to the brain’s adaptive processes. To achieve this, various\n    stimuli, including electricity and light, are employed across different\n    media—soft, hard, and liquid—enabling edge computation in diverse\n    environments. This issue presents a representative collection of material\n    platforms that contribute to this field, spanning key areas such as halide\n    perovskites, organic materials, metal oxides, fluidic systems, and\n    ferroelectrics. These materials offer unique properties that can be\n    harnessed for neuromorphic computing, helping bridge the gap between\n    artificial and biological intelligence.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Neuromorphic-Computing.png",
+                "thumbnail_alt_text": "An undulating landscape of parallel conduits meant to represent dynamic computing systems",
+                "short_blurb": "Advanced materials and devices for neuromorphic computational systems, mimicking synaptic plasticity for fast learning using diverse stimuli and media.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "theoretical-computational-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Polymer-Drug Conjugate Materials",
                 "vi_url": "/page/cmatex/vi/polymer-drug-2025",
                 "date": "2025-04-22",
@@ -83,6 +100,23 @@
                 "related_subjects": [
                     "nanoscience",
                     "medicinal-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Photosynthesis",
+                "vi_url": "/page/bichaw/vi/photosynthesis",
+                "date": "2025-04-22",
+                "journals": [
+                    "bichaw"
+                ],
+                "type": "collection",
+                "long_blurb": "Photosynthesis is fundamental to life on Earth, but challenging to study due to the intricate interactions between multiple pigments, proteins and cellular structures. The potential impact of increased mechanistic understanding, however, is enormous: Researchers can use these insights to develop more efficient agricultural practices, or to make advances in renewable energy applications. This Collection, curated by Biochemistry Editorial Advisory Board member Hiroshi Ishikita, and anchored by a new Review on the topic from Ishikita and Saito, highlights recent articles on Photosystems I and II, pathways and dynamics of energy transfer, environmental factors that influence photosynthetic processes, and much more.",
+                "thumbnail_url": "/pb-assets/images/selects/bichaw/photosynthesis.png",
+                "thumbnail_alt_text": "ferns",
+                "short_blurb": "Read up on Photosystems I and II, pathways and dynamics of energy transfer, environmental factors",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "earth-space-environmental-chemistry"
                 ]
             },
             {
