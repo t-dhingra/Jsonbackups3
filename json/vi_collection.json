@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Spectroscopic Techniques for Renewable Energy",
+                "vi_url": "/page/jpccck/vsi/renewable-energy",
+                "date": "2025-04-24",
+                "journals": [
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "In the face of escalating global energy demands and pressing environmental\n    concerns, the necessity for developing sustainable energy solutions has\n    become extremely urgent. Renewable energy sources, including hydrogen,\n    carbon conversion, rechargeable batteries, and photovoltaics, have emerged\n    as crucial components in achieving efficient energy conversion and storage.\n    The lack of clarity on the underlying mechanisms of catalytic reactions\n    significantly limits the advancement of efficiency and cost-effectiveness\n    catalysts, thus impeding future industrial applications. This special issue\n    highlights innovative approaches in electrocatalysis, energy storage,\n    photocatalysis and determining physical properties. These new methods and\n    novel catalyst materials are helping to pave the way for the future\n    innovations in energy catalysis.",
+                "thumbnail_url": "/pb-assets/images/jpccck/spectroscopic-techniques-for-renewable-energy.jpg",
+                "thumbnail_alt_text": "An artistic rendering of a mountain landscape created from spectroscopic readouts with renewable energy sources in the clouds and lake",
+                "short_blurb": "This issue includes advancements in understanding and improving catalytic processes for renewable energy.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "energy"
+                ]
+            },
+            {
                 "vi_title": "Materials, Physics, and Chemistry of Neuromorphic Computing Systems",
                 "vi_url": "/page/jpclcd/vsi/neuromorphic-computing-systems",
                 "date": "2025-04-23",
@@ -17,6 +34,23 @@
                 "related_subjects": [
                     "physical-chemistry",
                     "theoretical-computational-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Surface-Enhanced Raman Scattering: A Collection of Perspectives and Reviews",
+                "vi_url": "/page/ancac3/vi/sers",
+                "date": "2025-04-23",
+                "journals": [
+                    "ancac3"
+                ],
+                "type": "collection",
+                "long_blurb": "Surface-enhanced Raman scattering (SERS) turned 50 in 2024! On this occasion, ACS Nano received great contributions from the top experts in the field to highlight various aspects of the phenomenon and related techniques.\nThe discovery of SERS was made in 1974 and was initially studied in great detail by a handful of pioneers. However, recent progress in nanomaterials fabrication and theoretical modeling has promoted a tremendous interest in both fundamental aspects and analytical applications in various fields, such as biomedicine, environmental monitoring, and catalysis, just to name a few.\nTo celebrate the 50th anniversary of SERS, we invite our readers to go through these excellent contributions, which shape the current state of the field but, more importantly, draw emerging directions that should stimulate further research and development toward full implementation of related products in our daily lives.",
+                "thumbnail_url": "/pb-assets/images/ancac3/image-of-a-gold-particle-1745435133290.jpg",
+                "thumbnail_alt_text": "gold particle",
+                "short_blurb": "A comprehensive Collection of contributions on various aspects of SERS recently published in ACS Nano.",
+                "related_subjects": [
+                    "nanoscience",
+                    "materials-science"
                 ]
             },
             {
