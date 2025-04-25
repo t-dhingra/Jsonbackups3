@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Emerging Investigators 2025",
+                "vi_url": "/page/jnprdf/vi/emerging-investigators-2025",
+                "date": "2025-04-25",
+                "journals": [
+                    "jnprdf"
+                ],
+                "type": "collection",
+                "long_blurb": "In this Collection, the <cite>Journal of Natural Products</cite> celebrates\n    the contributions that emerging investigators have made and will continue to\n    make to the field. Twenty early-career researchers submitted information for\n    the Collection, including statements about their experiences in and\n    ambitions for natural products science. Readers are invited to be inspired\n    by these statements in this collection’s Editorial and through the research\n    and review articles listed below.",
+                "thumbnail_url": "/pb-assets/images/jnprdf/emerging.jpg",
+                "thumbnail_alt_text": "emerging investigators",
+                "short_blurb": "This Collection highlights the work and celebrates the contributions of 20 early-career investigators to the field of natural products research.",
+                "related_subjects": [
+                    "biological-chemistry-chemical-biology",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Spectroscopic Techniques for Renewable Energy",
                 "vi_url": "/page/jpccck/vsi/renewable-energy",
                 "date": "2025-04-24",
@@ -17,6 +34,25 @@
                 "related_subjects": [
                     "physical-chemistry",
                     "energy"
+                ]
+            },
+            {
+                "vi_title": "Fungal Pathogens – Life Cycle, Infection, Host Immunity and Drug Discovery",
+                "vi_url": "/page/si/fungal-pathogens",
+                "date": "2025-04-24",
+                "journals": [
+                    "aidcbc",
+                    "jmcmar",
+                    "amclct"
+                ],
+                "type": "vsi",
+                "long_blurb": "Until recently, fungal pathogens were not considered high priority when it\n    comes to the discovery of new interventions and therapeutic treatments to\n    fight the associated infections. This Special Issue features contributions\n    from <cite>ACS Infectious Diseases</cite>, the\n    <cite>Journal of Medicinal Chemistry</cite> and\n    <cite>ACS Medicinal Chemistry Letters</cite> on the latest developments in\n    fungal pathogen research including pathogen life cycle, successful\n    pathogenesis mechanisms, host interactions, and proposed therapeutic\n    antifungal strategies. We hope you are inspired by this collection of\n    articles, letters, perspectives, and reviews on the collective research\n    efforts from across the globe.<br /><br /><strong>Kaustuv Sanyal</strong>,\n    Guest Editor<br />Jawaharlal Nehru Centre for Advanced Scientific Research,\n    India<br /><br /><strong>Jayanta Haldar</strong>, Editor-in-Chief,\n    <cite>ACS Infectious Diseases</cite><br />Jawaharlal Nehru Centre for\n    Advanced Scientific Research, India<br /><br /><strong\n      >Craig W. Lindsley</strong\n    >, Editor-in-Chief, <cite>Journal of Medicinal Chemistry</cite\n    ><br />Vanderbilt University School of Medicine, United States<br /><br /><strong\n      >Kelly Chibale</strong\n    >, Editor-in-Chief, <cite>ACS Medicinal Chemistry Letters</cite\n    ><br />University of Cape Town, South Africa",
+                "thumbnail_url": "/pb-assets/images/virtual collections/fungal-pathogens.jpg",
+                "thumbnail_alt_text": "fungal pathogens on brown background",
+                "short_blurb": "In this Special Issue, we highlight the latest advancements in fungal infection research and intervention/therapeutic strategies.",
+                "related_subjects": [
+                    "medicinal-chemistry",
+                    "biological-chemistry-chemical-biology"
                 ]
             },
             {
