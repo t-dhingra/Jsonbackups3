@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Drug Annotation Series",
+                "vi_url": "/page/jmcmar/vi/drug-annotations",
+                "date": "2025-04-30",
+                "journals": [
+                    "jmcmar"
+                ],
+                "type": "collection",
+                "long_blurb": "Drug Annotations are comprehensive reports of the journey of a clinical\n    candidate beginning from its inception through phase I, II, or III clinical\n    trials. These manuscripts detail target selection, hit identification,\n    structure-activity-relationships (including target potency, drug metabolism,\n    and pharmacokinetics), pharmacology, and safety data. In this Collection,\n    you will find a selection of 20 Drug Annotations published between 2019 and\n    2025 which represent a broad range of therapeutic areas covering oncology,\n    immunology, neurodegeneration, infectious diseases, cardiovascular and\n    metabolic disorders. The <cite>Journal of Medicinal Chemistry</cite> hopes\n    this Collection will put a spotlight on the remarkable work of medicinal\n    chemistry and drug hunters from across the globe.<br /><br /><strong\n      >Wendy B. Young</strong\n    >, Drug Annotations Editor, <cite>Journal of Medicinal Chemistry</cite\n    ><br />BioPharma Discovery, United States",
+                "thumbnail_url": "/pb-assets/images/jmcmar/drug-annotations-series.png",
+                "thumbnail_alt_text": "computer and paper",
+                "short_blurb": "In this Collection, the <cite>Journal of Medicinal Chemistry</cite> celebrates the impactful contributions of medicinal chemists and drug discovery scientists worldwide.",
+                "related_subjects": [
+                    "medicinal-chemistry",
+                    "biological-chemistry-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Emerging Investigators 2025",
                 "vi_url": "/page/jnprdf/vi/emerging-investigators-2025",
                 "date": "2025-04-25",
