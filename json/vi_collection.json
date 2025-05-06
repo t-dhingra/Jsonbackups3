@@ -3,6 +3,24 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Liquid Biopsy",
+                "vi_url": "/page/vi/liquid-biopsy",
+                "date": "2025-05-06",
+                "journals": [
+                    "ascefj",
+                    "ancham"
+                ],
+                "type": "collection",
+                "long_blurb": "The liquid biopsy is a promising tool in cancer diagnosis and treatment, allowing for early detection and monitoring of cancer progression through biomarkers in fluids like blood and urine. This method offers minimal discomfort compared to traditional tissue biopsies and enables molecular-level monitoring of treatment impact. However, challenges include identifying relevant biomarkers, understanding their changes in relation to treatment, and detecting them at very low concentrations. Recent research highlighted in the Collection focuses on overcoming these challenges, particularly through the detection of extracellular vesicles and the development of ultrasensitive sensors. These advancements not only aid in cancer management but also pave the way for improved sensors in other applications.",
+                "thumbnail_url": "/pb-assets/images/selects/liquid-biopsy.png",
+                "thumbnail_alt_text": "liquid droplet",
+                "short_blurb": "Articles included in this Collection highlight papers published in ACS Sensors and Analytical Chemistry in the last few years that have advanced liquid biopsy technologies.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Advancing Organic Chemistry in China: Sustainability, Precision, and Empowerment",
                 "vi_url": "/page/orlef7/vsi/organic-chemistry-china-2025",
                 "date": "2025-05-02",
