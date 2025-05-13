@@ -3,6 +3,28 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Celebrating the 50th Anniversary of the Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences",
+                "vi_url": "/page/vi/eco-environmental-sciences-50years",
+                "date": "2025-05-13",
+                "journals": [
+                    "esthag",
+                    "estlcu",
+                    "ehnea2",
+                    "aeecco",
+                    "aewcaa",
+                    "aeacd5"
+                ],
+                "type": "collection",
+                "long_blurb": "The Research Center for Eco-Environmental Sciences, Chinese Academy of\n    Sciences (RCEES, CAS) has reached a 50-year milestone in 2025 since its\n    establishment in 1975. To celebrate and to extend our thanks to all those\n    domestic and international collaborators whose exceptional contributions\n    have been instrumental in shaping the trajectory of RCEES over the last 50\n    years, we have curated a collection of papers published from 2005 onwards\n    across the environmental portfolio of journals at the American Chemical\n    Society (<cite>Environmental Science &amp; Technology</cite>\n    (<cite>ES&amp;T</cite>), <cite>ES&amp;T Letters</cite>,\n    <cite>ACS ES&amp;T Water</cite>, <cite>ACS ES&amp;T Engineering</cite>,\n    <cite>ACS ES&amp;T Air</cite>, and <cite>Environment and Health</cite>) by\n    authors from RCEES. <br /><br />RCEES hopes to continue inspire young\n    researchers to advance scientific and technological innovations ecological\n    and environmental science by fostering a vibrant academic environment where\n    diverse ideas can compete and flourish. We hope you enjoy this collection\n    and look forward to welcoming more collaborative research at The Research\n    Center for Eco-Environmental Sciences, Chinese Academy of Sciences in the\n    future years to come. <br /><br /><strong\n      >Yuan Zhuang, Qian Liu, Maoyong Song, Hong He, Guibin Jiang, and Yong-Guan\n      Zhu<br />Research Center for Eco-Environmental Sciences, Chinese Academy\n      of Sciences, Beijing, China</strong>",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/50Years-RCEES.png",
+                "thumbnail_alt_text": "circular insets showing parts of the environment",
+                "short_blurb": "A collection to celebrate the 50-year anniversary of the Research Center for Eco-Environmental Sciences (RCEES), Chinese Academy of Sciences by authors from that institution.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Liquid Biopsy",
                 "vi_url": "/page/vi/liquid-biopsy",
                 "date": "2025-05-06",
