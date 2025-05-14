@@ -3,6 +3,24 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Recent Advances in Solid-State Batteries",
+                "vi_url": "/page/vi/jacs-nz-solidstate-batteries",
+                "date": "2025-05-14",
+                "journals": [
+                    "jacsat",
+                    "aelccp"
+                ],
+                "type": "collection",
+                "long_blurb": "The Journal of the American Chemical Society (JACS) and ACS Energy Letters are present this joint Collection that gathers recent publications of these journals on solid-state batteries. This Collection showcases the latest advancements in solid electrolyte materials -including metal-organic frameworks, polymers, oxides, sulfides, and halides-, promising materials -like oxyhalides, known for their exceptional ionic conductivities and mechanical properties-, and it addresses key challenges such as achieving high ionic conductivities, ensuring thermodynamic stability, and preventing chemo-mechanical damage. \nWithin this Collection, you can dive into the latest breakthroughs that are pushing the boundaries of energy storage, and discover how researchers are tackling challenges to pave the way for the next generation of batteries. Join us on this exciting journey and be part of the future of energy storage technology!",
+                "thumbnail_url": "/pb-assets/images/selects/jacs-nz-solidstate-batteries.jpg",
+                "thumbnail_alt_text": "a solid state battery with its typical layers",
+                "short_blurb": "Joint Collection between JACS and ACS Energy Letters that showcases advancements in solid electrolyte materials to drive the future of energy storage technologies.",
+                "related_subjects": [
+                    "energy",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Celebrating the 50th Anniversary of the Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences",
                 "vi_url": "/page/vi/eco-environmental-sciences-50years",
                 "date": "2025-05-13",
@@ -341,6 +359,24 @@
                 "related_subjects": [
                     "analytical-chemistry",
                     "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "Excellence in Industrial Organic Synthesis 2024",
+                "vi_url": "/page/vsi/excellence-in-industrial-organic-synthesis-2024",
+                "date": "2025-04-18",
+                "journals": [
+                    "joceah",
+                    "oprdfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Advances in industrial organic synthesis are essential for the successful commercialization of novel, efficient, and reliable chemical processes. Through application of new technologies and collaboration across disciplines, as noted on the cover of this joint Special Issue from JOC and OPR&D, organic chemists are accelerating the conversion of molecules to many useful products that improve human health and quality of life.\n\nThis 2024 edition of the Excellence in Industrial Organic Synthesis Special Issue was made possible by the contributions and support of Guest Editors Fener Chen, Yining Chen, James Murray, Bernd Schaefer, and Shashank Shekhar. Bernd, Shashank, and James introduce this year’s Special Issue with an editorial published jointly in JOC and OPR&D that highlights the history and vision of industrial organic synthesis.",
+                "thumbnail_url": "/pb-assets/images/joceah/excellence-in-industrial-organic-synthesis-2024.png",
+                "thumbnail_alt_text": "A web of process chemistry related images tied together with gray overlay.",
+                "short_blurb": "Advances in industrial organic synthesis are essential for the successful commercialization of novel, efficient, and reliable chemical processes. Through application of new technologies and collaboration across disciplines organic chemists are accelerating the conversion of molecules to many useful products that improve human health and quality of life.",
+                "related_subjects": [
+                    "organic-chemistry",
+                    "chemical-engineering-industrial-chemistry"
                 ]
             },
             {
