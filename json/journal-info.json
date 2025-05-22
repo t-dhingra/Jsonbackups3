@@ -3,7 +3,13 @@
     "publisher": {
       "acs": {
         "doi_prefix": "10.1021",
-        "copyright": [{ "start": "1940", "end": "1996", "statement": "© American Chemical Society" }]
+        "copyright": [
+          {
+            "start": "1940",
+            "end": "1996",
+            "statement": "© American Chemical Society"
+          }
+        ]
       }
     },
     "journal": {
@@ -21,7 +27,16 @@
         "issn": "1520-4898",
         "blurb": "Accounts of Chemical Research publishes short, concise and critical articles offering easy-to-read overviews of basic research and applications in all areas of chemistry.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "CABI", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "CABI",
+          "Portico"
+        ]
       },
       "aamick": {
         "editor": {
@@ -42,7 +57,14 @@
         "issn": "1944-8252",
         "blurb": "ACS Applied Materials & Interfaces is for chemists, engineers, physicists and biologists researching materials and interfacial processes for specific applications.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "aabmcb": {
         "editor": {
@@ -63,7 +85,14 @@
         "issn": "2576-6422",
         "blurb": "ACS Applied Bio Materials is an interdisciplinary journal publishing research articles covering all aspects of biomaterials, biointerfaces, and applications.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science ESCI", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "aaemcq": {
         "editor": {
@@ -84,7 +113,13 @@
         "issn": "2574-0962",
         "blurb": "An interdisciplinary journal publishing research articles on materials, engineering, chemistry, physics and biology relevant to energy applications.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "aanmf6": {
         "editor": {
@@ -126,7 +161,13 @@
         "issn": "2637-6105",
         "blurb": "ACS Applied Polymer Materials covers all aspects of engineering, chemistry, physics, and biology relevant to applications of polymers.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "aaembp": {
         "editor": {
@@ -147,7 +188,13 @@
         "issn": "2637-6113",
         "blurb": "ACS Applied Electronic Materials is an interdisciplinary journal covering all aspects of electronic materials and applications.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "aaemdr": {
         "editor": {
@@ -189,7 +236,13 @@
         "issn": "2771-9855",
         "blurb": "ACS Applied Optical Materials reports chemistry, materials, engineering, and physics research in optical & photonic materials and applications.",
         "type": "hybrid",
-        "indexAbstract": ["CAS", "INSPEC", "Portico", "Scopus", "Web of Science SCIE"]
+        "indexAbstract": [
+          "CAS",
+          "INSPEC",
+          "Portico",
+          "Scopus",
+          "Web of Science SCIE"
+        ]
       },
       "aastgj": {
         "editor": {
@@ -210,7 +263,13 @@
         "issn": "2692-1952",
         "blurb": "ACS Agricultural Science & Technology reports high quality research across agricultural science, technology, and engineering.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science ESCI", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "abmcb8": {
         "editor": {
@@ -231,7 +290,14 @@
         "eissn": "2694-2437",
         "blurb": "ACS Bio & Med Chem Au covers the chemical, physical, biological, mechanistic, and structural basis of biological function.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Scopus", "CAS", "Web of Science ESCI", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Scopus",
+          "CAS",
+          "Web of Science ESCI",
+          "DOAJ",
+          "Portico"
+        ]
       },
       "abseba": {
         "editor": {
@@ -247,7 +313,13 @@
         "issn": "2373-9878",
         "blurb": " ACS Biomaterials Science & Engineering covers biomaterials science, technology and engineering research and applications to biomedicine, bioengineering and clinical translation.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "accacs": {
         "editor": {
@@ -284,7 +356,14 @@
         "issn": "2374-7951",
         "blurb": "ACS Central Science publishes the most compelling discoveries with exceptional impact in the physical and life sciences in which chemistry has a central role.",
         "type": "central",
-        "indexAbstract": ["PubMed", "PubMed Central", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "PubMed Central",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "acbcct": {
         "editor": {
@@ -300,7 +379,14 @@
         "issn": "1554-8937",
         "blurb": "ACS Chemical Biology reports research on cellular processes using in vitro, cellular or whole organism studies at the chemical and biological interface.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "achsc5": {
         "editor": {
@@ -332,7 +418,16 @@
         "issn": "1948-7193",
         "blurb": "ACS Chemical Neuroscience reports chemical, biological, biophysical, and bioengineering research on the nervous system and neurological disorders.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "acsccc": {
         "editor": {
@@ -382,7 +477,14 @@
         "eissn": "2694-2518",
         "blurb": "ACS Environmental Au covers environmental science, technology and green chemistry including experimental and theoretical methods.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico"
+        ]
       },
       "aeacd5": {
         "editor": {
@@ -414,7 +516,13 @@
         "issn": "2690-0645",
         "blurb": "ACS ES&T Engineering reports high-impact research in all areas of environmental technology and engineering.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science ESCI", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "aeclc7": {
         "editor": {
@@ -462,7 +570,14 @@
         "issn": "2380-8195",
         "blurb": "ACS Energy Letters reports breakthrough findings on energy materials, storage and conversion, solar cells and fuels, supercapacitors, LEDs, photosynthesis and biofuels, and photovoltaics.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "aewcaa": {
         "editor": {
@@ -478,7 +593,13 @@
         "issn": "2690-0637",
         "blurb": "ACS ES&T Water reports research and policy spanning all aspects of water quality, chemistry, treatment, protection, and sustainable use/reuse and supply.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science E", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science E",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "afsthl": {
         "editor": {
@@ -499,7 +620,13 @@
         "issn": "2692-1944",
         "blurb": "ACS Food Science & Technology reports high quality research across food science, technology, engineering, and nutrition.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science ESCI", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "aidcbc": {
         "editor": {
@@ -515,7 +642,14 @@
         "issn": "2373-8227",
         "blurb": "ACS Infectious Diseases highlights the role of chemistry in the multidisciplinary and collaborative field of infectious diseases.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "amacgu": {
         "editor": {
@@ -536,7 +670,14 @@
         "eissn": "2694-2461",
         "blurb": "ACS Materials Au publishes fundamental and applied materials science at the interface between materials and chemistry, engineering and biology.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico"
+        ]
       },
       "amlcef": {
         "editor": {
@@ -573,7 +714,14 @@
         "issn": "2161-1653",
         "blurb": "ACS Macro Letters publishes urgent communications of polymer and biopolymer science.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "amachv": {
         "editor": {
@@ -589,7 +737,14 @@
         "eissn": "2694-250X",
         "blurb": "ACS Measurement Science Au publishes measurement and analytical science from sampling and measurement to data analysis to improve chemical and biological measurement procedures.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico"
+        ]
       },
       "amclct": {
         "editor": {
@@ -605,7 +760,13 @@
         "issn": "1948-5875",
         "blurb": "ACS Medicinal Chemistry Letters reports new findings in drug discovery, compound design and optimization, biological evaluation, drug delivery, imaging agents, and pharmacology.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "amrcda": {
         "editor": {
@@ -637,7 +798,16 @@
         "issn": "1936-086X",
         "blurb": "ACS Nano reports breakthrough studies on nanostructure synthesis, assembly and characterization, nanoscience theory, tools and methods, nanobiotechnology and nanofabrication.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Nature Index", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Nature Index",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "anaccx": {
         "editor": {
@@ -658,24 +828,52 @@
         "eissn": "2694-2496",
         "blurb": "ACS Nanoscience Au reports nanoscience & nanotechnology research at the interfaces of chemistry, biology, materials science, physics, and engineering.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico"
+        ]
       },
-        "anmafm": {
-				"editor": {
-					"Editor-in-Chief": ["Xiaoyuan (Shawn) Chen"]
-				},
-				"editorInfo": {
-					"Xiaoyuan (Shawn) Chen": {
-						"imgUrl": "/pb-assets/images/anmafm/xiaoyuan-chen.png",
-						"profileUrl": ""
-					}
-				},
-				"vanityUrl": "https://pubs.acs.org/acsnanomed",
-				"issn": "",
-				"blurb": "ACS Nano Medicine publishes significant research breakthroughs in applying nanoscience and nanotechnology for clinical diagnosis and development of therapeutics.",
-				"type": "hybrid",
-				"indexAbstract": []
-		},
+      "anmafm": {
+        "editor": {
+          "Editor-in-Chief": ["Xiaoyuan (Shawn) Chen"]
+        },
+        "editorInfo": {
+          "Xiaoyuan (Shawn) Chen": {
+            "imgUrl": "/pb-assets/images/anmafm/xiaoyuan-chen.png",
+            "profileUrl": ""
+          }
+        },
+        "vanityUrl": "https://pubs.acs.org/acsnanomed",
+        "issn": "",
+        "blurb": "ACS Nano Medicine publishes significant research breakthroughs in applying nanoscience and nanotechnology for clinical diagnosis and development of therapeutics.",
+        "type": "hybrid",
+        "indexAbstract": []
+      },
+      "ansadg": {
+        "editor": {
+          "Editor-in-Chief": ["Thomas F. Hofmann"],
+          "Deputy Editor": ["Jaume Amengual"]
+        },
+        "editorInfo": {
+          "Thomas F. Hofmann": {
+            "imgUrl": "/pb-assets/images/ansadg/thomas_hofmann.jpg",
+            "profileUrl": ""
+          },
+          "Jaume Amengual": {
+            "imgUrl": "/pb-assets/images/ansadg/amengual.jpg",
+            "profileUrl": ""
+          }
+        },
+        "vanityUrl": "https://pubs.acs.org/ansadg",
+        "issn": "3067-6037",
+        "blurb": "ACS Nutrition Science publishes significant research breakthroughs in nutrition science, technology and engineering that contribute to human welfare.",
+        "type": "hybrid",
+        "indexAbstract": []
+      },
       "acsodf": {
         "editor": {
           "Editor-in-Chief": ["Krishna N. Ganesh"],
@@ -695,7 +893,15 @@
         "issn": "2470-1343",
         "blurb": "ACS Omega is an open access, broad-scope journal focused on original chemical insight, sound scientific principles, and robust experimentation rather than immediate significance.",
         "type": "oa",
-        "indexAbstract": ["PubMed", "PubMed Central", "Web of Science SCIE", "Scopus", "CAS", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "PubMed Central",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico"
+        ]
       },
       "aoiab5": {
         "editor": {
@@ -716,7 +922,14 @@
         "eissn": "2694-247X",
         "blurb": "ACS Organic & Inorganic Au covers experimental and theoretical studies on organic, inorganic, catalytic, organometallic & natural product chemistry, and crystallography.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico"
+        ]
       },
       "aptsfn": {
         "editor": {
@@ -746,7 +959,14 @@
         "issn": "2330-4022",
         "blurb": "ACS Photonics reports interdisciplinary physics, chemical, and engineering research in photonics science and technology.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "apcach": {
         "editor": {
@@ -767,7 +987,14 @@
         "eissn": "2694-2445",
         "blurb": "ACS Physical Chemistry Au reports experimental, theoretical & computational physical chemistry and chemical physics across molecules, matter, clusters, energy, materials and catalysis.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Portico"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico"
+        ]
       },
       "apaccd": {
         "editor": {
@@ -788,7 +1015,14 @@
         "eissn": "2694-2453",
         "blurb": "ACS Polymers Au publishes polymer, macromolecular and soft matter science covering synthesis, properties, self-assembly, supramolecular chemistry, biomaterials, and sustainability.",
         "type": "oa",
-        "indexAbstract": ["PubMed Central", "Web of Science ESCI", "CAS", "DOAJ", "Portico", "Scopus"]
+        "indexAbstract": [
+          "PubMed Central",
+          "Web of Science ESCI",
+          "CAS",
+          "DOAJ",
+          "Portico",
+          "Scopus"
+        ]
       },
       "ascefj": {
         "editor": {
@@ -804,7 +1038,14 @@
         "issn": "2379-3694",
         "blurb": "ACS Sensors publishes sensor science that yields substantial advances in the detection of chemical or biological species or processes.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Portico"
+        ]
       },
       "ascecg": {
         "editor": {
@@ -857,7 +1098,14 @@
         "issn": "2161-5063",
         "blurb": "ACS Synthetic Biology is the premier publication forum for research in synthetic biology.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "ancham": {
         "editor": {
@@ -873,7 +1121,18 @@
         "issn": "1520-6882",
         "blurb": "Analytical Chemistry publishes compelling research articles advancing chemical measurement science from significant fundamentals to innovative applications.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Nature Index", "Proquest", "EBSCOHost", "CABI", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Nature Index",
+          "Proquest",
+          "EBSCOHost",
+          "CABI",
+          "Portico"
+        ]
       },
       "apwdam": {
         "editor": {
@@ -904,7 +1163,16 @@
         "issn": "1520-4995",
         "blurb": "Biochemistry publishes exceptional, rigorous, high-impact research across all of biological chemistry.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "bcches": {
         "editor": {
@@ -920,7 +1188,16 @@
         "issn": "1520-4812",
         "blurb": "Bioconjugate Chemistry covers bioconjugate science, including preparation, properties and applications of biomolecular conjugates.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "bomaf6": {
         "editor": {
@@ -936,7 +1213,15 @@
         "issn": "1526-4602",
         "blurb": "Biomacromolecules publishes cutting-edge research articles at the interface of polymer science and biology.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "bipret": {
         "editor": {
@@ -966,7 +1251,16 @@
         "issn": "1520-5010",
         "blurb": "Chemical Research in Toxicology reports ground-breaking research on the chemical and molecular basis of toxicology for intelligent solutions to human and environmental health and safety.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "CABI", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "CABI",
+          "Portico"
+        ]
       },
       "chreay": {
         "editor": {
@@ -982,7 +1276,18 @@
         "issn": "1520-6890",
         "blurb": "Chemical Reviews publishes comprehensive, authoritative, critical reviews of important advances in organic, inorganic, physical, analytical, theoretical, and biological chemistry.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Web of Science ESCI", "Scopus", "CAS", "INSPEC", "Proquest", "EBSCOHost", "CABI", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Proquest",
+          "EBSCOHost",
+          "CABI",
+          "Portico"
+        ]
       },
       "cbehb5": {
         "editor": {
@@ -997,7 +1302,13 @@
         "vanityUrl": "https://pubs.acs.org/ChemBioEng",
         "issn": "2836-967X",
         "blurb": "Chem & Bio Engineering is a peer-reviewed, open-access journal that publishes significant advances in all aspects of chemical and biological engineering.",
-        "indexAbstract": ["Chemical Abstracts Service (CAS)", "Engineering Village (Compendex)", "DOAJ", "Scopus", "PubMed Central"]
+        "indexAbstract": [
+          "Chemical Abstracts Service (CAS)",
+          "Engineering Village (Compendex)",
+          "DOAJ",
+          "Scopus",
+          "PubMed Central"
+        ]
       },
       "cbihbp": {
         "editor": {
@@ -1013,7 +1324,14 @@
         "eissn": "2832-3637",
         "blurb": "Chemical & Biomedical Imaging publishes cutting-edge, open access papers on all aspects of chemical and biomedical imaging.",
         "type": "oa",
-        "indexAbstract": ["CAS", "DOAJ", "Portico", "Scopus", "Web of Science ESCI", "PubMed Central"]
+        "indexAbstract": [
+          "CAS",
+          "DOAJ",
+          "Portico",
+          "Scopus",
+          "Web of Science ESCI",
+          "PubMed Central"
+        ]
       },
       "cmatex": {
         "editor": {
@@ -1029,7 +1347,14 @@
         "issn": "1520-5002",
         "blurb": "Chemistry of Materials reports fundamental research at the interface of chemistry, chemical engineering, and materials science.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "INSPEC", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "cgdefu": {
         "editor": {
@@ -1045,7 +1370,14 @@
         "issn": "1528-7505",
         "blurb": "Crystal Growth & Design shares new scientific & engineering knowledge of crystal growth, crystal engineering, and application of crystalline materials.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "enfuem": {
         "editor": {
@@ -1061,7 +1393,13 @@
         "issn": "1520-5029",
         "blurb": "Energy & Fuels reports advances in batteries and energy storage, fuel cells, solar energy, light conversion, bioenergy, fossil fuels, carbon capture, carbon-free fuels, and more.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "ehnea2": {
         "editor": {
@@ -1077,7 +1415,14 @@
         "issn": "2833-8278",
         "blurb": "Environment & Health, an open access journal, explores relationships between the environment and the health of individuals and communities.",
         "type": "oa",
-        "indexAbstract": ["CAS", "Portico", "Scopus", "DOAJ", "Web of Science ESCI", "PubMed Central"]
+        "indexAbstract": [
+          "CAS",
+          "Portico",
+          "Scopus",
+          "DOAJ",
+          "Web of Science ESCI",
+          "PubMed Central"
+        ]
       },
       "esthag": {
         "editor": {
@@ -1093,7 +1438,16 @@
         "issn": "1520-5851",
         "blurb": "Environmental Science & Technology reports impactful, groundbreaking, world-class research across a diverse range of environmentally relevant topics.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "CABI", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "CABI",
+          "Portico"
+        ]
       },
       "estlcu": {
         "editor": {
@@ -1109,7 +1463,13 @@
         "issn": "2328-8930",
         "blurb": "Environmental Science & Technology Letters shares timely, urgent and high-quality communications on pure and applied environmental science and technology.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "iechad": {
         "editor": {
@@ -1132,7 +1492,14 @@
         "issn": "1541-5724",
         "blurb": "Industrial & Engineering Chemistry Research reports experimental, computational, or theoretical research on applied chemistry, and chemical and biomolecular engineering.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "inocaj": {
         "editor": {
@@ -1148,7 +1515,15 @@
         "issn": "1520-510X",
         "blurb": "Inorganic Chemistry reports experimental and theoretical studies on coordination chemistry, main-group chemistry, catalysis, inorganic materials, and bioinorganic chemistry.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Nature Index", "Proquest", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Nature Index",
+          "Proquest",
+          "Portico"
+        ]
       },
       "jaaucr": {
         "editor": {
@@ -1164,7 +1539,14 @@
         "issn": "2691-3704",
         "blurb": "JACS Au, an open access journal, reports research across analytical, physical, inorganic, organic, medicinal, environmental, catalytic, and theoretical chemistry.",
         "type": "oa",
-        "indexAbstract": ["PubMed", "Scopus", "CAS", "DOAJ", "Portico", "Web of Science ESCI"]
+        "indexAbstract": [
+          "PubMed",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Portico",
+          "Web of Science ESCI"
+        ]
       },
       "jacsat": {
         "editor": {
@@ -1181,7 +1563,18 @@
         "issn": "1520-5126",
         "blurb": "The flagship journal of the American Chemical Society, JACS publishes significant, highly cited articles with broad interest across all chemical science.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Nature Index", "Proquest", "EBSCOHost", "OVID", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Nature Index",
+          "Proquest",
+          "EBSCOHost",
+          "OVID",
+          "Portico"
+        ]
       },
       "jafcau": {
         "editor": {
@@ -1197,7 +1590,15 @@
         "issn": "1520-5118",
         "blurb": "Journal of Agricultural and Food Chemistry publishes cutting-edge studies and reviews on the chemistry and biochemistry of agriculture and food.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "CABI", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "CABI",
+          "Portico"
+        ]
       },
       "jamsef": {
         "editor": {
@@ -1214,7 +1615,14 @@
         "partnerLink": "/page/jamsef/asms-acs-partnership",
         "blurb": "Journal of the American Society for Mass Spectrometry covers mass spectrometry research, and scientific inquiry in which mass spectrometry plays a role.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Portico"],
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ],
         "copyright": [
           {
             "start": "1940",
@@ -1255,7 +1663,15 @@
         "issn": "1520-5134",
         "blurb": "Journal of Chemical & Engineering Data reports relevant, comprehensive, and robust thermophysical properties and phase equilibria for well-defined chemical systems obtained from experiment or computation.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "jceda8": {
         "editor": {
@@ -1271,7 +1687,13 @@
         "issn": "1938-1328",
         "blurb": "Journal of Chemical Education advances chemistry teaching and learning, and chemistry education research addressing laboratory experiments, curricula, and pedagogies.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Portico"],
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ],
         "copyright": [
           {
             "start": "1940",
@@ -1294,7 +1716,13 @@
         "issn": "1549-960X",
         "blurb": "Journal of Chemical Information and Modeling reports cutting-edge new methodologies and applications in chemical informatics and molecular modeling.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "jctcce": {
         "editor": {
@@ -1326,7 +1754,16 @@
         "issn": "1520-4804",
         "blurb": "Journal of Medicinal Chemistry reports research relationships between molecular structure and biological activity or mode of action in drug discovery and development.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "CABI", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "CABI",
+          "Portico"
+        ]
       },
       "jnprdf": {
         "editor": {
@@ -1342,7 +1779,15 @@
         "issn": "1520-6025",
         "blurb": "Journal of Natural Products reports research on the chemistry or biochemistry of naturally occurring compounds or the biology of their living systems and environments.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "Portico"],
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "Portico"
+        ],
         "copyright": [
           {
             "start": "1940",
@@ -1365,7 +1810,18 @@
         "issn": "1520-6904",
         "blurb": "The Journal of Organic Chemistry reports novel synthetic methods and mechanisms in organic, natural product and medicinal chemistry, biochemistry and chemical biology.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "Proquest", "EBSCOHost", "CABI", "OVID", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "Proquest",
+          "EBSCOHost",
+          "CABI",
+          "OVID",
+          "Portico"
+        ]
       },
       "jpcafh": {
         "editor": {
@@ -1386,7 +1842,15 @@
         "issn": "1520-5215",
         "blurb": "The Journal of Physical Chemistry A reports experimental, theoretical, and computational research on the physical chemistry of molecules, clusters, and aerosols.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "jpcbfk": {
         "editor": {
@@ -1407,7 +1871,15 @@
         "issn": "1520-5207",
         "blurb": "The Journal of Physical Chemistry B reports experimental, theoretical and computational research articles in biophysics, biomaterials, liquids, and soft matter.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "jpccck": {
         "editor": {
@@ -1444,7 +1916,15 @@
         "issn": "1948-7185",
         "blurb": "The Journal of Physical Chemistry Letters rapidly disseminates high-quality communications at the forefront of physical chemistry.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Nature Index", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Nature Index",
+          "Portico"
+        ]
       },
       "jprobs": {
         "editor": {
@@ -1460,7 +1940,14 @@
         "issn": "1535-3907",
         "blurb": "Journal of Proteome Research reports on global protein analysis and function, including genomics, spatio-temporal proteomics, metabonomics and metabolomics, and clinical proteomics.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Portico"
+        ]
       },
       "langd5": {
         "editor": {
@@ -1476,7 +1963,16 @@
         "issn": "1520-5827",
         "blurb": "Langmuir highlights the science and application of systems and materials in which the interface dominates structure and function.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "mamobx": {
         "editor": {
@@ -1492,7 +1988,16 @@
         "issn": "1520-5835",
         "blurb": "Macromolecules publishes research articles at the cutting-edge of polymer science.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "Nature Index", "EBSCOHost", "CABI", "OVID", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Nature Index",
+          "EBSCOHost",
+          "CABI",
+          "OVID",
+          "Portico"
+        ]
       },
       "mpohbp": {
         "editor": {
@@ -1508,7 +2013,18 @@
         "issn": "1543-8392",
         "blurb": "Molecular Pharmaceutics publishes findings on the molecular mechanistic understanding of drug delivery and drug delivery systems.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "CABI", "OVID", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "CABI",
+          "OVID",
+          "Portico"
+        ]
       },
       "nalefd": {
         "editor": {
@@ -1530,7 +2046,16 @@
         "issn": "1530-6992",
         "blurb": "Nano Letters is the global home for communications in nanoscience and nanotechnology.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "INSPEC", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "INSPEC",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "orlef7": {
         "editor": {
@@ -1546,7 +2071,16 @@
         "issn": "1523-7052",
         "blurb": "Organic Letters rapidly publishes short reports on creative, innovative organic synthesis, from catalysis to natural products to functional materials.",
         "type": "hybrid",
-        "indexAbstract": ["PubMed", "MEDLINE", "Web of Science SCIE", "Scopus", "CAS", "Nature Index", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "PubMed",
+          "MEDLINE",
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Nature Index",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "oprdfk": {
         "editor": {
@@ -1562,7 +2096,13 @@
         "issn": "1520-586X",
         "blurb": "Organic Process Research & Development reports research on safe, environmentally benign and economical synthesis and manufacture of organic compounds at industrial scale.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "EBSCOHost", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "EBSCOHost",
+          "Portico"
+        ]
       },
       "orgnd7": {
         "editor": {
@@ -1578,7 +2118,15 @@
         "issn": "1520-6041",
         "blurb": "Organometallics reports research in organic and inorganic chemistry on the synthesis, structure, reactivity and applications of novel organometallic compounds.",
         "type": "hybrid",
-        "indexAbstract": ["Web of Science SCIE", "Scopus", "CAS", "Proquest", "EBSCOHost", "CABI", "Portico"]
+        "indexAbstract": [
+          "Web of Science SCIE",
+          "Scopus",
+          "CAS",
+          "Proquest",
+          "EBSCOHost",
+          "CABI",
+          "Portico"
+        ]
       },
       "pcrhej": {
         "editor": {
@@ -1594,7 +2142,14 @@
         "issn": "2771-9316",
         "blurb": "Precision Chemistry reports fundamental, applied and interdisciplinary research towards precision calculation, design, synthesis, manipulation, measurement and manufacturing.",
         "type": "oa",
-        "indexAbstract": ["Web of Science ESCI", "Scopus", "CAS", "DOAJ", "Sherpa Romeo", "PubMed Central"]
+        "indexAbstract": [
+          "Web of Science ESCI",
+          "Scopus",
+          "CAS",
+          "DOAJ",
+          "Sherpa Romeo",
+          "PubMed Central"
+        ]
       },
       "psabav": {
         "editor": {

@@ -3,6 +3,39 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Recent Advances in Flow Through Porous Media for Energy Exploitation",
+                "vi_url": "/page/enfuem/vi/flow-porous-media",
+                "date": "2025-05-22",
+                "journals": [
+                    "enfuem"
+                ],
+                "type": "vsi",
+                "long_blurb": "The global energy landscape is undergoing profound transformations, with an increasing focus on sustainable development and the efficient utilization of resources. Key critical frontiers in energy research have shifted to the exploration and development of unconventional oil and gas resources, their optimized utilization, and the safety of geological CO2 sequestration. Unconventional reservoirs, such as shale oil, shale gas, and tight sandstone formations, exhibit highly heterogeneous pore structures, where both natural and artificially induced fractures play a crucial role in fluid migration.\n\nThis Special Issue is dedicated to the study of flow in porous media, focusing on the key scientific and technological challenges associated with unconventional reservoir exploration and CO2 sequestration. It highlights original research and (mini)review papers that advance our understanding of complex flow dynamics in unconventional reservoirs and provide critical theoretical and technological foundations for sustainable energy extraction and the safe, long-term storage of CO2.",
+                "thumbnail_url": "/pb-assets/images/selects/enfuem/flow-porous-media.png",
+                "thumbnail_alt_text": "Fractured underground porous materials for CO2 sequestration",
+                "short_blurb": "Cutting-edge research on flow dynamics in unconventional reservoirs, focused on hydrocarbon recovery, CO2 sequestration strategies, and reservoir management optimization.",
+                "related_subjects": [
+                    "energy",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
+                "vi_title": "AI/ML in Chemical Engineering",
+                "vi_url": "/page/iecred/vi/ai-ml-in-chemical-engineering",
+                "date": "2025-05-22",
+                "journals": [
+                    "iecred"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue of Industrial & Engineering Chemistry Research showcases innovative approaches that address challenges while demonstrating the breadth and depth of AI/ML applications across chemical engineering domains.",
+                "thumbnail_url": "/pb-assets/images/selects/iecred/ai-ml-in-chemical-engineering.png",
+                "thumbnail_alt_text": "AI/ML in Chemical Engineering",
+                "short_blurb": "We showcase innovative approaches that address challenges while demonstrating the breadth and depth of AI/ML applications across chemical engineering domains.",
+                "related_subjects": [
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Recent Advances in Solid-State Batteries",
                 "vi_url": "/page/vi/jacs-nz-solidstate-batteries",
                 "date": "2025-05-14",
