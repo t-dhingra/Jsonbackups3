@@ -3,6 +3,57 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Keeping Carbon from Plastics in Play",
+                "vi_url": "/page/aapmcd/vi/keeping-carbon-from-plastics-in-play",
+                "date": "2025-05-23",
+                "journals": [
+                    "aapmcd"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue highlights emerging routes to improve the end-of-life for existing plastic waste, including mechanical and chemical recycling, compatibilization, novel separation methods, functionalization, and reactive processing.",
+                "thumbnail_url": "/pb-assets/images/selects/aapmcd/keeping-carbon-from-plastics-in-play.png",
+                "thumbnail_alt_text": "blocks",
+                "short_blurb": "Read 14 contributions of emerging routes to improve the end-of-life for existing plastic waste.",
+                "related_subjects": [
+                    "polymer-science-and-macromolecular-chemistry",
+                    "environmental-and-sustainable-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Wearable Sensors",
+                "vi_url": "/page/ascefj/vsi/wearable-sensors",
+                "date": "2025-05-23",
+                "journals": [
+                    "ascefj"
+                ],
+                "type": "vsi",
+                "long_blurb": "Wearable sensors are compact, non-invasive devices that continuously monitor biological and environmental data, offering real-time insights through seamless integration with daily wearables. These sensors have evolved from single-parameter tools to advanced, AI-powered systems capable of multimodal sensing and self-sustaining operation, with applications ranging from healthcare and industrial safety to human-machine interaction. Despite their transformative potential, challenges such as signal fidelity, energy autonomy, data fusion complexity, and scalability continue to be significant barriers to widespread adoption. Ongoing interdisciplinary research, highlighted in this Special Issue, showcases innovations in materials, algorithms, and applications, aiming to enhance functionality, comfort, and societal acceptance of next-generation wearable technologies.",
+                "thumbnail_url": "/pb-assets/images/selects/ascefj/wearable-sensors.png",
+                "thumbnail_alt_text": "Runner wearing a wearable device",
+                "short_blurb": "Wearable sensors are smart, non-invasive devices designed to monitor health and environment in real time. See the Special Issue highlighting these advances.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "The Georgia Wildland-Fire Simulation Experiment (G-WISE)",
+                "vi_url": "/page/vsi/g-wise",
+                "date": "2025-05-23",
+                "journals": [
+                    "aeacd5"
+                ],
+                "type": "vsi",
+                "long_blurb": "The Georgia Wildland-fire Simulation Experiment (G-WISE) is a collaborative research project investigating smoke production in both prescribed fires and wildfires, including investigating both emission quantities and intensive physicochemical properties. Unplanned wildland fires play a crucial role in maintaining the ecological health of many forest types but can quickly escalate out of control with significant economic, environmental, and human health consequences. Prescribed fires are wildland fires that are ignited intentionally to rejuvenate fire-dependent ecosystems in a controlled manner and to prevent larger-scale wildfires by consuming highly ignitable fuels. This important utility of prescribed fires has recently received increased recognition both in the United States and globally. However, smoke emissions are often a barrier for the implementation of prescribed fires. The G-WISE project seeks to understand how smoke production in a prescribed fire differs from smoke production in a wildfire in the same region.\n\nWe hope you enjoy this ongoing rolling collection of research coming out of this exciting and timely research study. Dr. Rawad Saleh, University of Georgia, USA.",
+                "thumbnail_url": "/pb-assets/images/aeacd5/G-Wise_202505.png",
+                "thumbnail_alt_text": "controlled burn with a line of fire snaking between trees with an orange and pink gradient",
+                "short_blurb": "This rolling collection highlights the Georgia Wildland-fire Simulation Experiment (G-WISE) investigating smoke production from prescribed vs wildland fires.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry",
+                    "analytical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Recent Advances in Flow Through Porous Media for Energy Exploitation",
                 "vi_url": "/page/enfuem/vi/flow-porous-media",
                 "date": "2025-05-22",
