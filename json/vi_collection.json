@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Multidisciplinary Advances in Battery Research",
+                "vi_url": "/page/jaaucr/vi/Batteries-2025",
+                "date": "2025-05-27",
+                "journals": [
+                    "jaaucr"
+                ],
+                "type": "collection",
+                "long_blurb": "As the demand for high-performance and durable energy storage systems grows, battery research is becoming increasingly multidisciplinary, relying on collaborations between chemistry, physics, materials science, computer science, and engineering to develop next-generation systems to facilitate the transition toward sustainable energy storage. This Collection from JACS Au showcases some recent contributions to this field which emphasize the power of interdisciplinary approaches to solving the various challenges in the field of battery research.\n\nLeading the Collection is an Editorial written by Associate Editor Prof. Prof. Hyunjoo Lee which provides an introduction to the featured articles.",
+                "thumbnail_url": "/pb-assets/images/selects/jaaucr/batteries-2025.png",
+                "thumbnail_alt_text": "Green battery resting on top of some other batteries",
+                "short_blurb": "A new Collection from JACS Au highlighting some recent advances in battery research published in the journal.",
+                "related_subjects": [
+                    "energy",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Keeping Carbon from Plastics in Play",
                 "vi_url": "/page/aapmcd/vi/keeping-carbon-from-plastics-in-play",
                 "date": "2025-05-23",
