@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Neuromorphic Materials",
+                "vi_url": "/page/chreay/vi/2025-neuromorphic_materials",
+                "date": "2025-05-28",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Neuromorphic computing replaces the binary, transistor-based ON/OFF logic gates and separate logic and memory functionalities employed in digital computing, with a new paradigm inspired by animal brains that use interconnected synapses and neurons to perform processing, storage and transmission of information at the same location, while consuming significantly less power.\n\nIn this thematic issue of Chemical Reviews, we include contributions from leading researchers engaged in advancing neuromorphic computing by focusing on the materials used to make neuromorphic hardware, the special mechanisms that enable computational primitives, their advantages in terms of efficiency and latency, and the challenges to making these new computing paradigms broadly applicable.",
+                "thumbnail_url": "/pb-assets/images/selects/chreay/2025-neuromorphic_materials.png",
+                "thumbnail_alt_text": "",
+                "short_blurb": "",
+                "related_subjects": [
+                    "materials-science",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Multidisciplinary Advances in Battery Research",
                 "vi_url": "/page/jaaucr/vi/Batteries-2025",
                 "date": "2025-05-27",
@@ -14,6 +31,23 @@
                 "thumbnail_url": "/pb-assets/images/selects/jaaucr/batteries-2025.png",
                 "thumbnail_alt_text": "Green battery resting on top of some other batteries",
                 "short_blurb": "A new Collection from JACS Au highlighting some recent advances in battery research published in the journal.",
+                "related_subjects": [
+                    "energy",
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Metal-Hydrogen Systems",
+                "vi_url": "/page/aaemcq/vi/metal-hydrogen-systems",
+                "date": "2025-05-27",
+                "journals": [
+                    "aaemcq"
+                ],
+                "type": "vsi",
+                "long_blurb": "Since the first observations on the formation of hydrides with palladium, the potential of metal-hydrogen interactions to lead to advanced materials to catalyse the production of hydrogen and enable better means to purify/separate, compress and store hydrogen has been widely reported. This special issue of <cite>ACS Applied Energy Materials</cite> reports on these innovations and showcases the presentations of the 18th International Symposium on Metal-Hydrogen Systems, MH2024, which was held from May 26 to May 31, 2024 in Saint-Malo, France. This series of symposiums started in 1977 and has grown beyond metal hydrides. It now encompasses areas of fundamental research, materials preparation and applications of ionic hydrides, complex hydrides, chemical/organic hydrides, and nanoporous materials. At MH2024, global experts and researchers from 39 countries have contributed to more than 400 abstracts. We selected 25 manuscripts from these high-quality studies to assemble this special issue summarising recent breakthroughs and provide an overview of the state of art in material-hydrogen systems.",
+                "thumbnail_url": "/pb-assets/images/aaemcq/metal-hydrogen-systems.JPG",
+                "thumbnail_alt_text": "Metal-Hydrogen Systems cover image",
+                "short_blurb": "This special issue showcases the selected hydrogen storage materials research papers from the 18th International Symposium on Metal-Hydrogen Systems in France.",
                 "related_subjects": [
                     "energy",
                     "materials-science"
