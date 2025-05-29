@@ -1,11 +1,12 @@
 {
 	"relatedJournals": [
 			{
-			"coden": ["jafcau", "afsthl", "aastgj"],
+			"coden": ["jafcau", "afsthl", "aastgj", "ansadg"],
 			"journ_name": [
 				"Journal of Agricultural and Food Chemistry | jafcau",
 				"ACS Food Science & Technology | afsthl",
-				"ACS Agricultural Science & Technology | aastgj"
+				"ACS Agricultural Science & Technology | aastgj",
+                "ACS Nutrition Science | ansadg"
 			]
 		},
 		{
