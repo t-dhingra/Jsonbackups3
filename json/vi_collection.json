@@ -3,6 +3,39 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "2023 PBBM Workshop for Drug Product Quality",
+                "vi_url": "/page/mpohbp/vi/pbbm2023",
+                "date": "2025-06-02",
+                "journals": [
+                    "mpohbp"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue documents important learnings from a 3-day workshop held in August 2023 on Physiology Based Biopharmaceutics Modelling (PBBM). An accompanying editorial by workshop organizers introduces the issue.",
+                "thumbnail_url": "/pb-assets/images/selects/mpohbp/pbbm2023.png",
+                "thumbnail_alt_text": "",
+                "short_blurb": "This Special Issue documents important learnings from a 3-day workshop held in August 2023 on Physiology Based Biopharmaceutics Modelling (PBBM).",
+                "related_subjects": [
+                    "medicinal-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Pioneers in Applied and Fundamental Interfacial Chemistry (PAFIC): Santanu Bhattacharya",
+                "vi_url": "/page/langd5/vi/pafic-bhattacharya",
+                "date": "2025-06-02",
+                "journals": [
+                    "langd5"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue is dedicated to Prof. Santanu Bhattacharya for his outstanding and pioneering contributions to the fields of Supramolecular Chemistry and Biomaterials Science.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Santanu-Bhattacharya.png",
+                "thumbnail_alt_text": "Prof. Santanu Bhattacharya headshot",
+                "short_blurb": "This SI is dedicated to Prof. Santanu Bhattacharya for his pioneering contributions to the fields of supramolecular chemistry and biomaterials science.",
+                "related_subjects": [
+                    "materials-science",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Emerging Investigators in Materials Science",
                 "vi_url": "/page/amlcef/vi/Emerging-Investigators-2025",
                 "date": "2025-05-30",
