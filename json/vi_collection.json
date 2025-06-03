@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Skeletal and Stereochemical Editing",
+                "vi_url": "/page/achre4/2025-skeletal_editing",
+                "date": "2025-06-03",
+                "journals": [
+                    "achre4"
+                ],
+                "type": "vsi",
+                "long_blurb": "Can we develop chemical reactions that represent direct analogs to common design strategies? The answer to this question has created a movement of “molecular editing,” with distinct forms of optimization-mimicry developing into subfields in their own right: C–H functionalization, functional group interconversion, stereochemical modulation, and skeletal modification.\n\nIn this Special Issue, cutting edge research that embodies this movement is surveyed across a wide range of chemical modalities and application spaces – transition metal catalysis, photochemistry, and reagent development. These methods have been applied from small molecules; to total synthesis; to polymers. Together, these approaches enable useful and often surprising transformations.",
+                "thumbnail_url": "/pb-assets/images/selects/achre4/2025-skeletal_editing.jpg",
+                "thumbnail_alt_text": "",
+                "short_blurb": "In this Special Issue, cutting edge research that embodies this movement is surveyed across a wide range of chemical modalities and application spaces.",
+                "related_subjects": [
+                    "organic-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "2023 PBBM Workshop for Drug Product Quality",
                 "vi_url": "/page/mpohbp/vi/pbbm2023",
                 "date": "2025-06-02",
