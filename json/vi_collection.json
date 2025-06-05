@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Electrochemical Explorations in Organic and Inorganic Chemistry",
+                "vi_url": "/page/aoiab5/vi/electrochemical-explorations-in-organic-and-inorganic-chemistry",
+                "date": "2025-06-04",
+                "journals": [
+                    "aoiab5"
+                ],
+                "type": "vsi",
+                "long_blurb": "Electrochemistry research has enabled breakthroughs in chemical synthesis, catalysis, energy and fuel production, as well as the myriad of interfacing fields. Developments in electrochemistry revolutionised traditional organic and inorganic chemistry, and new research is making progress in improving sustainability and reducing the need for precious metal electrodes. To shine a spotlight on innovative advances in electrochemistry on the interface with inorganic, organic and organometallic chemistry, ACS Organic & Inorganic Au is launching a new Special Issue on Electrochemical Explorations in Organic and Inorganic Chemistry.\nThis Special Issue is led by an Editorial written by Editor-in-Chief Prof. Shelley Minteer.",
+                "thumbnail_url": "/pb-assets/images/aoiab5/electrochemical_explorations.jpg",
+                "thumbnail_alt_text": "A sustainable & environment friendly electrochemical synthesis of phenylacetic acid using nickel/iron-based catalysts and carbon electrodes.",
+                "short_blurb": "This Special Issue shines spotlight on innovative advances in electrochemistry at the interface of inorganic, organic and organometallic chemistry.",
+                "related_subjects": [
+                    "organic-chemistry",
+                    "inorganic-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Skeletal and Stereochemical Editing",
                 "vi_url": "/page/achre4/2025-skeletal_editing",
                 "date": "2025-06-03",
