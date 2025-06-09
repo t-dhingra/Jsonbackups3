@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Fundamental and Applied Reviews in Analytical Chemistry 2025",
+                "vi_url": "/page/ancham/vsi/reviews2025",
+                "date": "2025-06-09",
+                "journals": [
+                    "ancham"
+                ],
+                "type": "vsi",
+                "long_blurb": "This year's Reviews Special Issue highlights the expanding role of analytical chemistry in diverse real-world applications, from pharmaceutical development to environmental monitoring and point-of-care diagnostics. It features 39 comprehensive Reviews covering cutting-edge techniques such as liquid chromatography, microfluidics, mass spectrometry, NMR, vibrational spectroscopy, and advanced imaging methods. The themes throughout this issue emphasize the importance of sample preparation, integration of artificial intelligence, and the development of portable, high-throughput, and sensitive analytical tools. The Reviews also explore emerging technologies like CRISPR-based biosensing, digital immunoassays, and the use of ionic liquids, reflecting the field’s shift toward automation, miniaturization, and personalized healthcare.",
+                "thumbnail_url": "/pb-assets/images/selects/ancham/reviews2025.png",
+                "thumbnail_alt_text": "ion channels",
+                "short_blurb": "Our Annual Reviews Special Issue is live!",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Electrochemical Explorations in Organic and Inorganic Chemistry",
                 "vi_url": "/page/aoiab5/vi/electrochemical-explorations-in-organic-and-inorganic-chemistry",
                 "date": "2025-06-04",
