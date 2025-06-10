@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Maria Oliver-Hoyo Festschrift",
+                "vi_url": "/page/jceda8/vi/oliver-hoyo-festschrift",
+                "date": "2025-06-10",
+                "journals": [
+                    "jceda8"
+                ],
+                "type": "collection",
+                "long_blurb": "This collection of The Journal of Chemical Education marks the ninth Festschrift since the program was begun in 2021. This Festschrift collects 48 articles from leading authors in Chemistry Education that touch on themes in the teaching and learning of chemistry that have been advanced by the scholarship of Professor Maria Oliver-Hoyo of North Carolina State University. The articles are organized along a variety of themes demonstrating the breadth of interests and scholarship that Prof. Oliver-Hoyo pursued throughout her career. The first section addresses writing and the role of critical thinking in chemistry. The second section considers CER studies on the effects of implementing different active learning environments. The third area of scholarship lies in connecting chemistry to broader contexts with real-world applications. The fourth and fifth areas explore how students interact with the abstract idea of molecules, in terms of the senses they use and ways to represent molecules with models with which students can engage. In addition to articles about studies from her own research group, her contributions to the Journal of Chemical Education include serving as the chair of the Board of Publication for the Journal. The Journal is happy to have the ability to honor Prof. Oliver-Hoyo for her contributions to CER and implementation of evidence-based strategies for teaching and learning chemistry.",
+                "thumbnail_url": "/pb-assets/images/selects/jceda8/oliver-hoyo-festschrift.png",
+                "thumbnail_alt_text": "Maria Oliver-Hoyo photo",
+                "short_blurb": "This Festschrift collects articles that touch on themes in the teaching and learning of chemistry that have been advanced by the scholarship of Prof. Maria Oliver-Hoyo.",
+                "related_subjects": [
+                    "chemistry-education"
+                ]
+            },
+            {
                 "vi_title": "Fundamental and Applied Reviews in Analytical Chemistry 2025",
                 "vi_url": "/page/ancham/vsi/reviews2025",
                 "date": "2025-06-09",
