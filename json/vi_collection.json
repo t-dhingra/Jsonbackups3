@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Soft Robotics",
+                "vi_url": "/page/chreay/vi/2025-soft_robotics",
+                "date": "2025-06-11",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Biological systems are capable of dexterous and adaptable behaviors across length scales. Replicating these behaviors in human-made machines thus requires drawing inspiration from nature. In recent years, roboticists have identified compliance as a key design feature of biological sensors and actuators, enabling closed-loop control of complex behaviors such as locomotion, feeding, and manipulation that are central to life—a collection of traits known as “soft robotics”. In this thematic issue, we highlight emerging frontiers in compliant sensing and actuation, novel materials and manufacturing techniques for fabricating soft bioinspired and biohybrid systems, and real-world applications of compliant machines. The reviews collected here outline an exciting vision for the future of soft robotics that promise to advance the safety, reliability, and sustainability of autonomous machines.",
+                "thumbnail_url": "/pb-assets/images/chreay/soft-robotics.jpg",
+                "thumbnail_alt_text": "Soft Robotics Cover",
+                "short_blurb": "",
+                "related_subjects": [
+                    "multidisciplinary",
+                    "environmental-and-sustainable-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Maria Oliver-Hoyo Festschrift",
                 "vi_url": "/page/jceda8/vi/oliver-hoyo-festschrift",
                 "date": "2025-06-10",
