@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Photothermal and Non-Fluorescent Imaging in Microscopy and Spectroscopy",
+                "vi_url": "/page/jpccck/vsi/photothermal-imaging",
+                "date": "2025-06-12",
+                "journals": [
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "Photothermal microscopy harnesses the natural non-radiative heat release in the environment of an optical absorber upon irradiation and the absorption of photons generates a cascade of interactions between electrons and phonons on a broad range of times. Transient pump-probe spectroscopy is often used to study the initial ultrafast electron-phonon dynamics, whereas photothermal heating of the environment, being slower, is better suited to photothermal imaging. Taken together, the contributions to this Special Issue paint a surprisingly wide landscape of new ideas and unexpected observations of the complexity and variety of phenomena triggered at micro- to nano-scales by photothermal heating.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Non-Fluorescent-Imaging.png",
+                "thumbnail_alt_text": "A heat map",
+                "short_blurb": "This issue covers recent progress in photothermal and non-fluorescent microscopy and spectroscopy.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Soft Robotics",
                 "vi_url": "/page/chreay/vi/2025-soft_robotics",
                 "date": "2025-06-11",
