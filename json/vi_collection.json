@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Emerging Application of poly(ionic liquid)s: The Enabling Materials",
+                "vi_url": "/page/aapmcd/vi/emerging-application-of-polyionic-liquids",
+                "date": "2025-06-16",
+                "journals": [
+                    "aapmcd"
+                ],
+                "type": "vsi",
+                "long_blurb": "New ionic polymers, known as poly(ionic liquid)s, have been developed over the last two decades, surpassing the properties of classical polyelectrolytes. This Special issue presents a great collection of articles that showcase this burgeoning field in the synthesis, characterization, and emerging applications of ionic polymers.",
+                "thumbnail_url": "/pb-assets/images/selects/aapmcd/emerging-application-of-polyionic-liquids.png",
+                "thumbnail_alt_text": "Emerging Application of poly(ionic liquid)s: The Enabling Materials",
+                "short_blurb": "We present an authoritative list of articles that showcase this field in the synthesis, characterization, and emerging applications of ionic polymers.",
+                "related_subjects": [
+                    "polymer-science-and-macromolecular-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Photothermal and Non-Fluorescent Imaging in Microscopy and Spectroscopy",
                 "vi_url": "/page/jpccck/vsi/photothermal-imaging",
                 "date": "2025-06-12",
