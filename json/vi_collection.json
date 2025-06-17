@@ -3,6 +3,59 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Emerging Nano-Enabled Technologies for Sustainable Food and Agriculture",
+                "vi_url": "/page/vi/nano-technologies-sustainable-food-agriculture",
+                "date": "2025-06-17",
+                "journals": [
+                    "aastgj",
+                    "jafcau",
+                    "afsthl"
+                ],
+                "type": "vsi",
+                "long_blurb": "Nanotechnology is revolutionizing the way we approach food safety, crop protection, and agricultural sustainability. As global challenges such as food security, environmental stresses, and agricultural efficiency demand innovative solutions, nano-enabled technologies have emerged as powerful tools to address these pressing issues. This joint special issue published across Journal of Agricultural and Food Chemistry, ACS Agricultural Science and Technology and ACS Food Science & Technology aims to highlight nanotechnology's latest advancements and applications in sustainable food and agriculture, fostering interdisciplinary collaboration and accelerating the adoption of these cutting-edge innovations. The contributions in this special issue span a diverse range of applications, highlighting how nanotechnology is redefining the agricultural and food sciences.",
+                "thumbnail_url": "/pb-assets/images/selects/nano-technologies-sustainable-food-agriculture.jpg",
+                "thumbnail_alt_text": "Green seedlings with overlay of digital network graphics, representing the intersection of plant growth and technology",
+                "short_blurb": "Featuring cutting-edge advancements in nanotechnology that support the global agenda for food security and environmental conservation.",
+                "related_subjects": [
+                    "agriculture-food-chemistry",
+                    "nanoscience"
+                ]
+            },
+            {
+                "vi_title": "Drug Delivery",
+                "vi_url": "/page/bichaw/vsi/drugdelivery",
+                "date": "2025-06-17",
+                "journals": [
+                    "bichaw"
+                ],
+                "type": "vsi",
+                "long_blurb": "Advancements in drug delivery are revolutionizing the way therapeutics are administered, enhancing efficacy and precision and extending our reach to tackle known disorders in new ways. This Special Issue brings together insights and innovations focusing on targeted delivery, controlled release, new assembly methods, and much more. These studies highlight the essential role of biochemical thinking, approaches, and expertise in modern drug delivery research.",
+                "thumbnail_url": "/pb-assets/images/selects/bichaw/drugdelivery.jpg",
+                "thumbnail_alt_text": "Chemical delivery vehicles approach cells",
+                "short_blurb": "This Special Issue highlights the essential role of biochemistry in establishing innovative solutions to modern drug delivery research.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Breakthrough Technologies in Diagnosis and Therapy of Chronic Wounds",
+                "vi_url": "/page/aptsfn/vsi/chronic-wounds-breakthrough-technologies",
+                "date": "2025-06-17",
+                "journals": [
+                    "aptsfn"
+                ],
+                "type": "vsi",
+                "long_blurb": "Chronic wounds, which result from conditions like diabetes, venous insufficiency, or prolonged pressure, significantly impact quality of life when healing is delayed. These wounds fail to progress through normal healing stages—inflammation, repair, and remodeling—becoming persistent health challenges. To address the persistent challenges of chronic wound care, the Special Issue “Breakthrough Technologies in Diagnosis and Therapy of Chronic Wounds” in ACS Pharmacology & Translational Science and ACS Applied Bio Materials highlights innovative strategies that redefine wound diagnosis and treatment.",
+                "thumbnail_url": "/pb-assets/images/aptsfn/ACS-5531_PT_CFP_Chronic_Wounds.jpg",
+                "thumbnail_alt_text": "knee with red circle on the knee, contained within a circle against a purple background",
+                "short_blurb": "Chronic wounds from diabetes, venous insufficiency, or pressure impair healing, impacting quality of life. This Special Issue explores innovative strategies for treatment.",
+                "related_subjects": [
+                    "materials-science",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Emerging Application of poly(ionic liquid)s: The Enabling Materials",
                 "vi_url": "/page/aapmcd/vi/emerging-application-of-polyionic-liquids",
                 "date": "2025-06-16",
