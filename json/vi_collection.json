@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "3rd International Symposium on Bioactive Peptides",
+                "vi_url": "/page/jafcau/vsi/3rd-international-symposium-bioactive-peptides",
+                "date": "2025-06-24",
+                "journals": [
+                    "jafcau"
+                ],
+                "type": "vsi",
+                "long_blurb": "Interest in food-derived bioactive peptides is on the rise. In 2023, the 3rd International Symposium on Bioactive Peptides (ISBP) was held in Niagara Falls, Canada, to provide a platform for knowledge exchange, networking, and collaboration among researchers in this field. This special issue showcases a selection of articles from contributions at the 3rd ISBP and provides a high-level overview of the key progress and emerging trends in bioactive peptides.",
+                "thumbnail_url": "/pb-assets/images/selects/jafcau/3rd-international-symposium-bioactive-peptides.png",
+                "thumbnail_alt_text": "A blue and pink gradient background featuring an array of colorful spheres symbolizing molecular structures",
+                "short_blurb": "This special issue showcases a selection of articles from contributions at the 3rd ISBP and provides a high-level overview of the key progress and emerging trends in bioactive peptides.",
+                "related_subjects": [
+                    "agriculture-food-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Rodney J. Bartlett Festschrift: Many-Body Theory for Chemistry",
                 "vi_url": "/page/jpchax/vsi/rodney-bartlett-festschrift",
                 "date": "2025-06-20",
