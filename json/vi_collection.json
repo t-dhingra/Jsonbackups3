@@ -3,6 +3,44 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Advances in Magnetic Resonance Imaging",
+                "vi_url": "/page/vi/advances-in-mri",
+                "date": "2025-06-26",
+                "journals": [
+                    "cbihbp",
+                    "ascefj",
+                    "ancham"
+                ],
+                "type": "collection",
+                "long_blurb": "The joint collection of Chemical & Biomedical Imaging, ACS Sensors, and Analytical Chemistry celebrates the cutting-edge developments in magnetic resonance imaging, featuring contributions from global scholars. Its topics span from probe development to clinical trials, emphasizing how the integration of molecular probes, nanotechnology, and computational analytics continues to improve diagnostic precision and therapeutic monitoring in global healthcare.",
+                "thumbnail_url": "/pb-assets/images/selects/advances-in-mri.jpg",
+                "thumbnail_alt_text": "sound waves and brain",
+                "short_blurb": "This Collection features articles published in ACS Sensors, Chemical & Biomedical Imaging, and Analytical Chemistry that highlight recent advances in MR imaging.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "Exploring Covalent Modulators in Drug Discovery and Chemical Biology",
+                "vi_url": "/page/si/covalent-modulators-drug-discovery",
+                "date": "2025-06-26",
+                "journals": [
+                    "amclct",
+                    "jmcmar",
+                    "acbcct"
+                ],
+                "type": "vsi",
+                "long_blurb": "In recent years, there has been a surge in interest in covalent therapy technologies. This cross-thematic Special Issue features contributions from the <cite>Journal of Medicinal Chemistry</cite>, <cite>ACS Medicinal Chemistry Letters</cite>, and <cite>ACS Chemical Biology</cite> in the form of original research articles, drug annotations, editorials, perspectives, reviews, and technical notes. The field of covalent modulators in medicinal chemistry and drug discovery is rapidly evolving and with this Special Issue we aimed to capture the latest advancements. We highlight 45 contributions of medicinal chemistry and chemical biology research spanning across the globe. We hope this collection will inspire future research on how covalent modulators can be used to guide drug discovery efforts.<br><br>\n<strong>Lori Ferrins</strong>, Associate Editor, <cite>Journal of Medicinal Chemistry</cite><br>\nNortheastern University, United States<br><br>\n\n<strong>Ashley Adams</strong>, Guest Editor, <cite>ACS Medicinal Chemistry Letters</cite><br>\nRecursion, United States",
+                "thumbnail_url": "/pb-assets/images/virtual collections/exploring-covalent-modulators-in-drug-discovery-and-chemical-biology.jpg",
+                "thumbnail_alt_text": "peptides and proteins",
+                "short_blurb": "In this Special Issue, we highlight covalent modulators, and the role they play in medicinal chemistry and drug discovery.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "3rd International Symposium on Bioactive Peptides",
                 "vi_url": "/page/jafcau/vsi/3rd-international-symposium-bioactive-peptides",
                 "date": "2025-06-24",
