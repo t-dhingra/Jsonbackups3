@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Highlights of the In Vino Analytica Scientia Symposium 2024",
+                "vi_url": "/page/jafcau/vsi/in-vino-analytica-scientia-symposium-2024",
+                "date": "2025-06-27",
+                "journals": [
+                    "jafcau"
+                ],
+                "type": "vsi",
+                "long_blurb": "Since 1997, the In Vino Analytica Scientia symposia (IVAS) have provided an international platform for researchers to present novel analytical science relevant to grapes, wines, and spirits. This special issue highlights a selection of articles from presentations at the 2024 meeting. The special issue preface outlines the symposium history and provides details of the 2026 edition of IVAS.",
+                "thumbnail_url": "/pb-assets/images/selects/jafcau/in-vino-analytica-scientia-symposium-2024.png",
+                "thumbnail_alt_text": "Abstract digital wave pattern with a gradient of red and purple hues, featuring connected dots and lines forming a grid on a dark background",
+                "short_blurb": "",
+                "related_subjects": [
+                    "agriculture-food-chemistry",
+                    "analytical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Optoelectronic Characterization of Halide Perovskites and Organic Devices",
+                "vi_url": "/page/jpclcd/vsi/optoelectronics",
+                "date": "2025-06-27",
+                "journals": [
+                    "jpclcd"
+                ],
+                "type": "vsi",
+                "long_blurb": "The continued advancement of organic and perovskite electronic and energy devices represents one of the most dynamic frontiers in materials science and applied physics. Realizing their full potential hinges not merely on the discovery of new materials, but on a rigorous and nuanced understanding of how these devices function under operational conditions.\n  <br><br>\n  This special issue is dedicated to showcasing the latest research that unravels the complexities of halide perovskite devices through detailed analysis by advanced characterization methods. The collection highlights advanced optical, electrical, and electrochemical techniques to investigate perovskite device physics. We highlight the importance of combining experimental methodologies with theoretical and computational models to elucidate fundamental processes such as charge transport, recombination, interface dynamics, and degradation pathways. Photoluminescence imaging and ligand passivation reveal insights into transport and stability. Studies critically assess SCLC, explore electron diffusion, ion conductivity, and SAM interfaces. Electrochemical and impedance methods track degradation, while precursor aging is analyzed chemically to understand impacts on device performance. By bringing together these diverse methodologies, the research featured in this issue contributes to a more nuanced and mechanistic view of halide perovskite device operation which facilitates optimizing performance but also guiding the design of next-generation materials and device architectures that are more efficient, stable, and scalable.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/optoelectronics.jpg",
+                "thumbnail_alt_text": "Close-up of a computer microchip on a circuit board with blue electrical pathways and connections visible around it",
+                "short_blurb": "This special issue provides a platform for interdisciplinary work in functional understanding of halide perovskites devices, using advanced optoelectronic techniques.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Advances in Magnetic Resonance Imaging",
                 "vi_url": "/page/vi/advances-in-mri",
                 "date": "2025-06-26",
