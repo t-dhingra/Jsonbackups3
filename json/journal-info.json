@@ -406,12 +406,12 @@
       },
       "acncdm": {
         "editor": {
-          "Editor-in-Chief": ["Jacob M. Hooker"]
+          "Interim Editor-in-Chief": ["Michael Kassiou"]
         },
         "editorInfo": {
-          "Jacob M. Hooker": {
-            "imgUrl": "/pb-assets/images/acncdm/HookerJacob.jpg",
-            "profileUrl": ""
+          "Michael Kassiou": {
+            "imgUrl": "",
+            "profileUrl": "https://www.sydney.edu.au/science/chemistry/~kassiou/index.html"
           }
         },
         "vanityUrl": "https://pubs.acs.org/acschemneuro",
@@ -542,11 +542,11 @@
       },
       "aesccq": {
         "editor": {
-          "Editor-in-Chief": ["Joel D. Blum"]
+          "Editor-in-Chief": ["Patricia Forbes"]
         },
         "editorInfo": {
-          "Joel D. Blum": {
-            "imgUrl": "/pb-assets/images/aesccq/blum.jpg",
+          "Patricia Forbes": {
+            "imgUrl": "/pb-assets/images/aesccq/Patricia Forbes.jpg",
             "profileUrl": ""
           }
         },
@@ -1307,6 +1307,7 @@
           "Engineering Village (Compendex)",
           "DOAJ",
           "Scopus",
+          "Web of Science ESCI",
           "PubMed Central"
         ]
       },
