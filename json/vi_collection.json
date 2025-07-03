@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Computational Biochemistry — Bridging the Gaps Between Experiments and Molecular Insights",
+                "vi_url": "/page/bichaw/vsi/computational-biochemistry",
+                "date": "2025-07-03",
+                "journals": [
+                    "bichaw"
+                ],
+                "type": "vsi",
+                "long_blurb": "Computational modeling and machine learning have transformed our understanding of biomolecular structure and function, explaining enzyme mechanisms, elucidating the dynamic behaviors of biological molecules and systems, and predicting the structures and functions of proteins and other macromolecules. This Special Issue, organized by Associate Editor Yu-Shan Lin and Guest Editor Xuhui Huang, highlights how computational methods continue to drive breakthroughs and provide new insights into our understanding of biochemical processes.",
+                "thumbnail_url": "/pb-assets/images/selects/bichaw/computational-biochemistry.jpg",
+                "thumbnail_alt_text": "computer chip",
+                "short_blurb": "",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "theoretical-computational-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Juneteenth",
                 "vi_url": "/page/abmcb8/vi/2025-juneteenth",
                 "date": "2025-06-30",
