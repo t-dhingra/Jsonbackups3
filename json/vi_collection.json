@@ -3,6 +3,41 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Raman Imaging: Unveiling the Invisible",
+                "vi_url": "/page/vi/raman-imaging-unveiling-the-invisible",
+                "date": "2025-07-07",
+                "journals": [
+                    "ancham",
+                    "ascefj",
+                    "cbihbp"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection highlights cutting-edge papers published over the past three years in Analytical Chemistry, Chemical & Biomedical Imaging, and ACS Sensors, each contributing novel insights or methodologies that advance the field of Raman imaging. These works collectively underscore the growing importance of Raman-based techniques in biomedical research, diagnostics and materials science.",
+                "thumbnail_url": "/pb-assets/images/selects/raman-imaging-unveiling-the-invisible.jpg",
+                "thumbnail_alt_text": "",
+                "short_blurb": "This Collection features articles published in ACS Sensors, Chemical & Biomedical Imaging, and Analytical Chemistry that highlight cutting-edge research in Raman imaging.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "Recent Developments in Transdermal Microneedle Drug Delivery",
+                "vi_url": "/page/mpohbp/vi/microneedle",
+                "date": "2025-07-07",
+                "journals": [
+                    "mpohbp"
+                ],
+                "type": "vsi",
+                "long_blurb": "his Special Issue is dedicated to research on various applications of transdermal microneedles.  Microneedles are minimally invasive novel devices with a broad range of pharmaceutical and biomedical applications. An accompanying editorial by the Guest Editors introduces the issue.",
+                "thumbnail_url": "/pb-assets/images/mpohbp/MP_AWA_CFP_Microneedle-1751488120850.jpg",
+                "thumbnail_alt_text": "Abstract orange and yellow triangles with a circular inset showing a detailed close-up of texture.",
+                "short_blurb": "This Special Issue is dedicated to the research on various applications of transdermal microneedle.",
+                "related_subjects": [
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Computational Biochemistry — Bridging the Gaps Between Experiments and Molecular Insights",
                 "vi_url": "/page/bichaw/vsi/computational-biochemistry",
                 "date": "2025-07-03",
