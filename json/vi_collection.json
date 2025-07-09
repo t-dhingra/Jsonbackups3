@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "The Dynamic Structure of the Lipid Bilayer and Its Modulation by Small Molecules",
+                "vi_url": "/page/jpcbfk/vsi/structure-lipid-bilayer",
+                "date": "2025-07-09",
+                "journals": [
+                    "jpcbfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Cellular membranes are nature’s most important interface and play a critical role in many biological processes. It is widely recognized that there are numerous membrane proteins responsible for many different functions in the cell; however, there is an equally complex number of lipid molecules involved in providing the membrane’s bilayer structure. For most lipids, the biological role beyond providing the basic membrane structure is still unknown. This Special Issue highlights physical properties of cell membranes and how small molecules and peptides interact with them. Elucidating these membrane-molecule interactions are fundamental to deciphering cellular physiology, pathological mechanisms, and therapeutic interventions.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Bilayer.jpg",
+                "thumbnail_alt_text": "A lipid bilayer interacting with a variety of small molecules, peptides and proteins",
+                "short_blurb": "",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
+                "vi_title": "Mark Ediger Festschrift: Adventures in Supercooled Liquids and Glasses",
+                "vi_url": "/page/jpcbfk/vsi/ediger-festschrift",
+                "date": "2025-07-09",
+                "journals": [
+                    "jpcbfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Professor Mark Ediger has made seminal and ground-breaking contributions to our understanding of liquids and glasses. His pioneering work on dynamical heterogeneity revealed that rotational dynamics can become decoupled from translational diffusion in supercooled liquids—a striking demonstration that these systems are not merely slowed-down versions of ordinary liquids. Equally influential is his group’s development of vapor-deposited glasses, which are exceptionally stable—akin to having aged for millions of years. This work showed that glass structure can be imprinted during deposition via the free surface, enabling the creation of novel glassy and liquid-crystalline packings. He has also worked on understanding dynamical heterogeneity in stressed glasses and glass crystallization. This Festschrift includes contributions from his colleagues and students, who continue this work.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Ediger.jpg",
+                "thumbnail_alt_text": "Colorful glass-like waves",
+                "short_blurb": "",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Raman Imaging: Unveiling the Invisible",
                 "vi_url": "/page/vi/raman-imaging-unveiling-the-invisible",
                 "date": "2025-07-07",
