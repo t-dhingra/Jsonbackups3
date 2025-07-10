@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Catalytic Peroxide Activation for Water Treatment",
+                "vi_url": "/page/aeecco/si/advanced-catalytic-peroxides",
+                "date": "2025-07-10",
+                "journals": [
+                    "aeecco"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue of ACS ES&T Engineering highlights cutting-edge research on advanced oxidation processes (AOPs) for the degradation and detoxification of aquatic pollutants. As concerns grow over persistent contaminants such as pharmaceuticals, microplastics, and PFAS, peroxide activation has emerged as a powerful strategy for generating reactive oxidants. The issue features innovations in redox-active carbon-based and metal-carbon composite activators, as well as their integration with complementary technologies like membrane filtration, microbial degradation, and anodic oxidation—offering new insights into sustainable water treatment solutions.",
+                "thumbnail_url": "/pb-assets/images/selects/advanced-catalytic-peroxides.png",
+                "thumbnail_alt_text": "Header image for ACS EST Engineering Special Issue showcasing advances in catalytic peroxides for water treatment.",
+                "short_blurb": "Explore the latest advances in catalytic peroxides in AOPs for water treatment—featuring novel activators and integrated technologies to combat PFAS, microplastics, and more.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "The Dynamic Structure of the Lipid Bilayer and Its Modulation by Small Molecules",
                 "vi_url": "/page/jpcbfk/vsi/structure-lipid-bilayer",
                 "date": "2025-07-09",
