@@ -3,6 +3,27 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Honoring Dr. Ashutosh Sharma's Contributions to Materials Science and Chemical Engineering Research",
+                "vi_url": "/page/vi/honoring-ashutosh-sharma",
+                "date": "2025-07-11",
+                "journals": [
+                    "aabmcb",
+                    "aamick",
+                    "iecred",
+                    "aapmcd",
+                    "aaemcq"
+                ],
+                "type": "collection",
+                "long_blurb": "This collection honors Dr. Ashutosh Sharma, Institute Chair Professor of Chemical Engineering at IIT Kanpur, on the occasion of his retirement. Dr. Sharma’s pioneering work in soft matter, interfacial science, and nanomaterials has significantly advanced both fundamental research and practical applications. His decade-long service as editor of ACS Applied Materials & Interfaces was marked by visionary leadership and a commitment to excellence.\n\nThe collection showcases selected publications by Dr. Sharma from the ACS AMI family of journals and Industrial & Engineering Chemistry Research, reflecting the depth and diversity of his scientific contributions. ACS extends its gratitude for his lasting impact on materials science and engineering and invites readers to explore this tribute to his remarkable career.",
+                "thumbnail_url": "/pb-assets/images/selects/honoring-ashutosh-sharma.jpg",
+                "thumbnail_alt_text": "Ashutosh Sharma photo",
+                "short_blurb": "A tribute to Dr. Ashutosh Sharma, honoring his research in materials science, chemical engineering, and his editor career with a selection of his impactful ACS publications.",
+                "related_subjects": [
+                    "materials-science",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Catalytic Peroxide Activation for Water Treatment",
                 "vi_url": "/page/aeecco/si/advanced-catalytic-peroxides",
                 "date": "2025-07-10",
