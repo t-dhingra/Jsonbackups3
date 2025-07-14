@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Peptide Materials",
+                "vi_url": "/page/bomaf6/vi/peptide-materials",
+                "date": "2025-07-14",
+                "journals": [
+                    "bomaf6"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue, Peptide Materials, showcases the forefront of research in the design, synthesis, and application of peptide-based materials with diverse functionalities. Peptides, due to structural versatility and tunable properties, have emerged as powerful building blocks for creating advanced materials that interface biology, chemistry, and materials science.\n\nThe Special Issue highlights a wide spectrum of innovations, from thermoresponsive and redox-sensitive hydrogels, to supramolecular assemblies with antimicrobial, immunomodulatory, and drug delivery capabilities. Contributions explore the self-assembly of peptide amphiphiles, elastin-like polypeptides, and β-sheet-forming sequences, revealing how subtle modifications such as charge patterning, aromatic interactions, or glycosylation can dramatically influence material behavior and biological performance.\n\nTogether, these works underscore the transformative potential of peptide materials in creating smart, multifunctional systems for next-generation biomedical and technological solutions.",
+                "thumbnail_url": "/pb-assets/images/selects/bomaf6/peptide-materials.jpg",
+                "thumbnail_alt_text": "A blue helical peptide over a black background",
+                "short_blurb": "Innovative peptide-based materials for biomedical, bioinspired, and functional applications.",
+                "related_subjects": [
+                    "polymer-science-and-macromolecular-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Honoring Dr. Ashutosh Sharma's Contributions to Materials Science and Chemical Engineering Research",
                 "vi_url": "/page/vi/honoring-ashutosh-sharma",
                 "date": "2025-07-11",
