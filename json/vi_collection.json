@@ -58,6 +58,30 @@
                 ]
             },
             {
+                "vi_title": "Tutorials: Open Access Guides for Advanced Research Techniques",
+                "vi_url": "/page/vi/Au-Tutorials",
+                "date": "2025-07-10",
+                "journals": [
+                    "abmcb8",
+                    "aeacb3",
+                    "aeacc4",
+                    "amacgu",
+                    "amachv",
+                    "anaccx",
+                    "aoiab5",
+                    "apaccd"
+                ],
+                "type": "collection",
+                "long_blurb": "Tutorials in the Au Community journals are free-to-read resources for researchers, students, and instructors in advanced under-graduate or graduate courses, to learn more about new or unfamiliar research topics and methods.",
+                "thumbnail_url": "/pb-assets/images/aeacb3/OPN-0725-NPQ-Tutorials.jpg",
+                "thumbnail_alt_text": "chemistry lab with a green overlay",
+                "short_blurb": "Tutorials in the Au Community journals are free-to-read resources for researchers to learn more about new or unfamiliar research topics and methods.",
+                "related_subjects": [
+                    "multidisciplinary",
+                    "chemistry-education"
+                ]
+            },
+            {
                 "vi_title": "The Dynamic Structure of the Lipid Bilayer and Its Modulation by Small Molecules",
                 "vi_url": "/page/jpcbfk/vsi/structure-lipid-bilayer",
                 "date": "2025-07-09",
