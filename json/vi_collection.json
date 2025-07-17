@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Charles L. Brooks III Festschrift: Biomolecular Dynamics and Interactions",
+                "vi_url": "/page/jpcbfk/vsi/charles-l-brooks-festschrift",
+                "date": "2025-07-17",
+                "journals": [
+                    "jpcbfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Charles L. Brooks III has profoundly shaped generations of biophysicists. The papers by his colleagues presented in this Festschrift span a wide range of topics, including biomolecular dynamics, protein interactions, ligand studies, lipid membranes, as well as developments in force fields. This breadth illustrates his role in providing foundations for research that has branched off in many different directions. In addition, his close collaboration with experimentalists to ensure that computational efforts remain directly relevant to laboratory findings has had far-reaching influence in the community.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Brooks.jpg",
+                "thumbnail_alt_text": "Balls connected by lines, meant to approximate the atomic details of a larger biomolecule.",
+                "short_blurb": "Honoring outstanding contributions to the field of computational biophysics by Charles L. Brooks III.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Peptide Materials",
                 "vi_url": "/page/bomaf6/vi/peptide-materials",
                 "date": "2025-07-14",
