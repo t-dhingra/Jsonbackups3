@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Spectroscopy of Flexible PVC",
+                "vi_url": "/page/vi/flexible-pvc/",
+                "date": "2025-07-22",
+                "journals": [
+                    "mamobx"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection marks 50 years since Tabb and Koenig’s pivotal FTIR study on PVC plasticization. Their discovery that crystalline PVC domains resist plasticizer penetration remains central to understanding plasticizer retention and performance. The Collection features modern research that builds on this foundation, using advanced techniques to explore structure-property relationships and guide the development of safer, more effective flexible PVC materials.",
+                "thumbnail_url": "/pb-assets/images/selects/flexible-pvc.png",
+                "thumbnail_alt_text": "Colorful topographic-style layers in cool tones create a dynamic, flowing composition",
+                "short_blurb": "The development of PVC, plasticization, and plasticization development and innovation, all published in Macromolecules.",
+                "related_subjects": [
+                    "polymer-science-and-macromolecular-chemistry",
+                    "environmental-and-sustainable-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Charles L. Brooks III Festschrift: Biomolecular Dynamics and Interactions",
                 "vi_url": "/page/jpcbfk/vsi/charles-l-brooks-festschrift",
                 "date": "2025-07-17",
