@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Drugging the Undruggable",
+                "vi_url": "/page/chreay/vi/2025-drugging_undruggable",
+                "date": "2025-07-23",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Undruggable targets define the most exciting challenges for chemical researchers – biomolecules that are of paramount importance to human diseases yet remain chemically intractable.<br><br>\nDrugging the undruggable often requires challenging paradigms and breaking empirical rules.  In this Thematic Issue of <cite>Chemical Reviews</cite>, field leaders discuss the latest progress in new chemical technologies and insights that inspire and empower our continued efforts in conquering the “undruggable”.",
+                "thumbnail_url": "/pb-assets/images/chreay/drugging-the-undruggable.png",
+                "thumbnail_alt_text": "Drugging the Undruggable Cover Image",
+                "short_blurb": "",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Spectroscopy of Flexible PVC",
                 "vi_url": "/page/vi/flexible-pvc/",
                 "date": "2025-07-22",
@@ -147,6 +164,24 @@
                 "related_subjects": [
                     "physical-chemistry",
                     "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Heterogeneous Drivers of Ice Formation",
+                "vi_url": "/page/vsi/drivers-of-ice-formation",
+                "date": "2025-07-08",
+                "journals": [
+                    "cgdefu",
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "Ice is rarely found as a homogenous medium, but rather, as a mixture of water and countless other substances. These heterogeneous factors influence ice formation and dynamics and therefore the field of ice science and engineering encompasses the fields of chemistry, biology, geology, physics, as well as civil, mechanical, and materials engineering. This Special Issue, published in both The Journal of Physical Chemistry C and Crystal Growth & Design, seeks to develop a deeper understanding of ice formation mechanisms in heterogenous systems and be a resource on ice science and engineering for new researchers. Whether the scenario involves ice as an adversary or a resource, this unique material has a role to play in a wide range of applications that span the boundaries of scientific disciplines.",
+                "thumbnail_url": "/pb-assets/images/JY_CG_0625_NPQ_Ice_Nucleation.png",
+                "thumbnail_alt_text": "Extended ice crystals on glass",
+                "short_blurb": "This Special Issue showcases ice nucleation, interfaces, phase transitions, ice-binding proteins, and cryoprotectants.",
+                "related_subjects": [
+                    "materials-science",
+                    "physical-chemistry"
                 ]
             },
             {
