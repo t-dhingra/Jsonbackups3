@@ -3,6 +3,25 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Computational Sciences from Africa and the African Diaspora",
+                "vi_url": "/page/jpchax/vsi/computational-sciences-africa",
+                "date": "2025-07-24",
+                "journals": [
+                    "jpcafh",
+                    "jpcbfk",
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue is dedicated to the specific contributions of computational physicists and chemists working from different parts of Africa or who started their research careers there. Computational sciences and scientific computing research on the African continent has developed substantially and will continue to grow over the next decades. The articles here include contributions on a wide range of atomistic modeling approaches such as electronic structure, molecular dynamics and data-driven approaches to study a breadth of physical conditions ranging from solid-state materials to biological systems.",
+                "thumbnail_url": "/pb-assets/images/selects/virtual-issues/Africa.jpg",
+                "thumbnail_alt_text": "Superimposed graphene lattices with atomic vectors suggesting computational analysis",
+                "short_blurb": "",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "theoretical-computational-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Drugging the Undruggable",
                 "vi_url": "/page/chreay/vi/2025-drugging_undruggable",
                 "date": "2025-07-23",
