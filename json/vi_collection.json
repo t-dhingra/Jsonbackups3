@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "National Laboratories’ Safety Successes, Challenges, Research, and Approaches",
+                "vi_url": "/page/achsc5/vi/national-lab-safety-successes-challenges-research-approaches",
+                "date": "2025-07-28",
+                "journals": [
+                    "achsc5"
+                ],
+                "type": "vsi",
+                "long_blurb": "Today’s world faces increasing volatility, uncertainty, complexity, and ambiguity – termed VUCA in the 1980s to describe challenging and rapidly changing environments.\n\n“In chemical safety, VUCA is embodied in the conditions we often work: shifting hazards, evolving technologies, complex systems, and incomplete information. Acknowledging VUCA in our work encourages us to seek more flexible, proactive approaches to risk assessment, safety planning, and decision-making because the science of today is quickly outpaced by scientific advancement.\n\nThe National Laboratories strive to be at the forefront of scientific research and deliver on this dynamic demand for advancement. They are, collectively, building the nation’s safety capacity to be resilient in the face of VUCA. The articles accepted for this Special Issue share a glimpse of that effort… [and] join the insights published in ACS Chemical Health & Safety from the U. S. National Labs previously.”\n\nRead more in the editorial below introducing this VSI.\n\nCheryl MacKenzie, Editorial Board Member, Sandia National Laboratories",
+                "thumbnail_url": "/pb-assets/images/selects/achsc5/national-lab-safety.jpg",
+                "thumbnail_alt_text": "orange abstract image",
+                "short_blurb": "U.S. National Labs are advancing safety through innovative research, practical solutions, and collaborative strategies to meet today’s evolving scientific challenges.",
+                "related_subjects": [
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Computational Sciences from Africa and the African Diaspora",
                 "vi_url": "/page/jpchax/vsi/computational-sciences-africa",
                 "date": "2025-07-24",
