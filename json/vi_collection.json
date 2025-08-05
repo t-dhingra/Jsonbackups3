@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Celebrating 10 Years of ACS Omega",
+                "vi_url": "/page/acsodf/vi/10-year-celebration-acsomega",
+                "date": "2025-08-05",
+                "journals": [
+                    "acsodf"
+                ],
+                "type": "collection",
+                "long_blurb": "As ACS Omega enters its 10th year, we’re reflecting on a decade of inclusive, quality research. This anniversary collection features 20 carefully selected articles that showcase the journal’s multidisciplinary scope, scientific rigor, and global reach. These papers span diverse areas of chemistry and the related fields, and are among the journal’s most read and most cited, highlighting their significance and influence. Thank you to our authors, reviewers, and readers for their support over the past decade. We look forward to the next chapter.",
+                "thumbnail_url": "/pb-assets/images/selects/acsodf/10-year-celebration-acsomega.png",
+                "thumbnail_alt_text": "Image of the number ten filled with scientific visuals like cells, molecules, DNA, representing the 10 year anniversary of ACS Omega",
+                "short_blurb": "Highlighting a decade of quality sound science research in the chemical sciences, to celebrate ACS Omega’s 10th anniversary.",
+                "related_subjects": [
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Pioneers in Applied and Fundamental Interfacial Chemistry (PAFIC): Shaoyi Jiang",
                 "vi_url": "/page/langd5/vi/PAFIC-Jiang",
                 "date": "2025-07-29",
