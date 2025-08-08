@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Massimo Olivucci Festschrift: Advanced Computational Models for Photochemical and Photobiological Questions",
+                "vi_url": "/page/jpcbfk/vsi/olivucci-festschrift",
+                "date": "2025-08-08",
+                "journals": [
+                    "jpcbfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Using advanced multiconfigurational electronic structure methods, Prof. Olivucci studied several “canonical” organic chemistry photo-induced reactions. Thanks to numerous multidisciplinary collaborations with scientists working in other fields, from physicists to biologists, he expanded the knowledge about the chemical consequences of light-matter interactions in retinal proteins and in molecular motors. To address the needs of the greater scientific community, he standardized QM/MM Rhodopsin models. The so-called ARM (for Automatic Rhodopsin Modeling) approach can now be applied routinely to virtually any Rhodopsin, including their mutants, opening the way to large scale digital screening. With ARM, computational photochemistry is ready for entering biochemistry and bioengineering laboratories.",
+                "thumbnail_url": "/pb-assets/images/jpcbfk/olivucci-festschrift.jpg",
+                "thumbnail_alt_text": "A gel with biomolecules detected",
+                "short_blurb": "This Festschrift highlights fundamental mechanisms and applications in chemistry, biology and light-responsive technologies.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Celebrating 10 Years of ACS Omega",
                 "vi_url": "/page/acsodf/vi/10-year-celebration-acsomega",
                 "date": "2025-08-05",
