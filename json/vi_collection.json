@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Fundamentals of Polymer Colloids",
+                "vi_url": "/page/bomaf6/vi/fundamentals-polymer-colloids",
+                "date": "2025-08-11",
+                "journals": [
+                    "bomaf6"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue on the Fundamentals of Polymer Colloids brings together cutting-edge research that deepens our understanding of the synthesis, structure, dynamics, and functionality of polymer colloidal systems. Polymer colloids, dispersions of polymer particles in a continuous medium, are foundational to a wide range of applications, from coatings and adhesives to drug delivery and nanomedicine.\n\nThis Special Issue highlights advances in emulsion, miniemulsion, and dispersion polymerization techniques, including the use of controlled radical polymerization (e.g., RAFT, MADIX) and bio-derived monomers. Several studies explore the role of surfactants, stabilizers, and macromonomers in tuning colloidal stability, morphology, and film-forming behavior. The integration of renewable materials such as cellulose nanocrystals, starch, and terpene-based monomers reflects a growing emphasis on sustainability in colloid design.\n\nTogether, these works provide a comprehensive view of the evolving landscape of polymer colloids, bridging fundamental science with real-world applications.",
+                "thumbnail_url": "/pb-assets/images/selects/bomaf6/fundamentals-polymer-colloids.jpg",
+                "thumbnail_alt_text": "Oil water separation, showing bubbles with a rainbow hue",
+                "short_blurb": "Exploring the chemistry, physics, and applications of polymer colloids in modern biopolymer science.",
+                "related_subjects": [
+                    "polymer-science-and-macromolecular-chemistry",
+                    "physical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Forum on Polyoxometalate and Metal-Oxo Chemistry",
+                "vi_url": "/page/inocaj/vi/forum-on-polyoxometalate-and-metal-oxo-chemistry",
+                "date": "2025-08-11",
+                "journals": [
+                    "inocaj"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue features outstanding contributions that reflect the growing breadth and impact of polyoxometalate (POM) chemistry across disciplines. From structural design to functional applications, the articles in this Special Issue showcase innovative developments in the synthesis, reactivity, and utility of POM-based systems. The global authorship reflects the international momentum driving the field. Together, these studies offer a rich and timely snapshot of where POM research stands today – and where it is headed next.\n\nThis Special Issue is led by an Editorial written by Guest Editors Prof. Ulrich Kortz and Prof. Craig L. Hill.",
+                "thumbnail_url": "/pb-assets/images/selects/inocaj/forum-on-polyoxometalate-and-metal-oxo-chemistry.jpg",
+                "thumbnail_alt_text": "This image represents bonds in metal-oxo compounds",
+                "short_blurb": "This Special Issue features outstanding contributions that reflect the growing breadth and impact of polyoxometalate (POM) chemistry across disciplines.",
+                "related_subjects": [
+                    "inorganic-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Massimo Olivucci Festschrift: Advanced Computational Models for Photochemical and Photobiological Questions",
                 "vi_url": "/page/jpcbfk/vsi/olivucci-festschrift",
                 "date": "2025-08-08",
