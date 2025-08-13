@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Electric Fields in Chemistry and Biology",
+                "vi_url": "/page/chreay/vi/2025-electric_fields",
+                "date": "2025-08-13",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "All molecular matter can be compactly described by electric fields that arise from electron density organizations due to intra- and intermolecular interactions such as polarization, charge transfer, Pauli repulsion, and dispersion. A balance among these basic electronic processes creates local electric fields that reach sufficient magnitudes to influence catalytic processes in enzymes and surface affinities, binding thermodynamics, and chemical reactivity across chemical, geological, or biochemical systems. The idea that inherent electric fields exist naturally leads to the creation and application of external electric fields to manipulate molecules and materials to create new synthetic catalysts and functional devices. The articles in this Thematic Issue span this divide between local electric fields and externally applied electric fields and their influence on a rich array of properties and functional outcomes for biological, chemical and materials systems.",
+                "thumbnail_url": "/pb-assets/images/chreay/electric-fields-in-chemistry-and-biology.jpg",
+                "thumbnail_alt_text": "Electric Fields in Chemistry and Biology Cover Image",
+                "short_blurb": "",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Fundamentals of Polymer Colloids",
                 "vi_url": "/page/bomaf6/vi/fundamentals-polymer-colloids",
                 "date": "2025-08-11",
