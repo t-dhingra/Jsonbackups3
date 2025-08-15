@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "IWBDA 2023",
+                "vi_url": "/page/asbcd6/vi/2023iwbda",
+                "date": "2025-08-15",
+                "journals": [
+                    "asbcd6"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue presents research from the 2023 International Workshop on Biodesign Automation (IWBDA), held in Boston, Massachusetts. Highlighting advances in computational and experimental frameworks for engineering biological systems, including genetic circuit design, model-driven development, and automation tools. Emphasizing scalable, reproducible workflows, the featured studies reflect IWBDA’s interdisciplinary mission to integrate synthetic biology with design automation, enabling more efficient, programmable, and robust biological engineering.",
+                "thumbnail_url": "/pb-assets/images/selects/asbcd6/2023iwbda.png",
+                "thumbnail_alt_text": "cubes",
+                "short_blurb": "A look back at the research discussed at IWBDA 2023, held in Boston.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Electric Fields in Chemistry and Biology",
                 "vi_url": "/page/chreay/vi/2025-electric_fields",
                 "date": "2025-08-13",
