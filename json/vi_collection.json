@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Advances in Small Molecule Activation Towards Sustainable Chemical Transformations",
+                "vi_url": "/page/jaaucr/vi/small-molecule-activation-2025",
+                "date": "2025-08-25",
+                "journals": [
+                    "jaaucr"
+                ],
+                "type": "vsi",
+                "long_blurb": "With global challenges such as climate change and the increasing need for energy sustainability and resource efficiency, small molecule activation has become a cornerstone of chemical innovation. Small molecules such as N2, O2, CO2 are part of the air we breathe, while others such as H2, CO, NH3, CH4 are produced or converted in nature or as part of industrial processes. As such, they are readily accessible and relatively inexpensive, making them highly desirable for the synthesis of value-added products or to use them as reservoirs of chemical energy (fuels). However, their thermodynamic and kinetic stability present challenges in their utilization, which often requires an activation step.This Special Issue from JACS Au is dedicated to cutting-edge research on the activation of small molecules and simple unsaturated hydrocarbons, focusing on their transformation into valuable products.\n\nLeading the Special Issue is an Editorial written by Associate Editor Prof. Carole Duboc and Guest Editors Profs. Christian Limberg and Jaeheung Cho.",
+                "thumbnail_url": "/pb-assets/images/selects/jaaucr/small-molecule-activation-2025.jpg",
+                "thumbnail_alt_text": "Navy Blue background with ball and stick images of small molecules",
+                "short_blurb": "A new Collection from JACS Au highlighting some recent advances in battery research published in the journal.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry",
+                    "inorganic-chemistry"
+                ]
+            },
+            {
                 "vi_title": "IWBDA 2023",
                 "vi_url": "/page/asbcd6/vi/2023iwbda",
                 "date": "2025-08-15",
