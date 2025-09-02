@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "3D Structures in Medicinal Chemistry and Chemical Biology",
+                "vi_url": "/page/acsodf/vi/3d-structures-in-medicinal-chemistry-and-chemical-biology",
+                "date": "2025-09-02",
+                "journals": [
+                    "acsodf"
+                ],
+                "type": "vsi",
+                "long_blurb": "The collection of articles in this special issue reflects the rich intersection of three-dimensional (3D) structural biology with computational and chemical methods for advancing chemical biology and medicinal chemistry. A prominent theme across several studies is the use of in silico modeling and molecular docking to predict and analyze binding affinities, conformational dynamics, and functional interactions of small molecules, peptides, and proteins. Several of these works focus on molecular dynamics simulations, residue interaction networks, and competitive binding assays to interpret how compounds influence protein structure and, ultimately, function at the atomic level. Other articles delve deeper into protein structural characterization and dynamics through experimental or hybrid protocols, often incorporating computational methods.\nDiverse studies emphasize how tertiary and quaternary structures govern biological activity and stability. Techniques such as cryo-EM-based secondary structure detection (cryoSSESeg) and structure-based QSAR modeling underscore the growing role of high-resolution structural interpretation in chemical biology. Meanwhile, methods like STD-NMR assays demonstrate how small molecular changes or design tweaks can be rationalized through 3D structural understanding to enhance therapeutic targeting or experimental precision. Collectively, these articles illustrate the critical role of 3D structural insights in guiding modern chemical biology and therapeutic innovation.",
+                "thumbnail_url": "/pb-assets/images/selects/acsodf/3d-structures-in-medicinal-chemistry-and-chemical-biology.jpg",
+                "thumbnail_alt_text": "Image of a DNA superimposed over a magnified image of cell membrane",
+                "short_blurb": "This special issue reflects the rich intersection of 3D structural biology with computational and chemical methods for advancing chemical biology and medicinal chemistry.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Vicki H. Grassian Festschrift: A Panoply of Physical and Environmental Chemistry",
                 "vi_url": "/page/jpcafh/vsi/vicki-h-grassian-festschrift",
                 "date": "2025-08-28",
