@@ -362,7 +362,8 @@
           "Web of Science SCIE",
           "Scopus",
           "CAS",
-          "Portico"
+          "Portico",
+          "OAJ"
         ]
       },
       "acbcct": {
@@ -900,7 +901,8 @@
           "Scopus",
           "CAS",
           "DOAJ",
-          "Portico"
+          "Portico",
+          "OAJ"
         ]
       },
       "aoiab5": {
@@ -1546,7 +1548,8 @@
           "CAS",
           "DOAJ",
           "Portico",
-          "Web of Science ESCI"
+          "Web of Science ESCI",
+          "OAJ"
         ]
       },
       "jacsat": {
