@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Pioneer Accounts",
+                "vi_url": "/page/achre4/vi/pioneer-accounts",
+                "date": "2025-09-09",
+                "journals": [
+                    "achre4"
+                ],
+                "type": "collection",
+                "long_blurb": "Pioneer Accounts are unique Accounts written by researchers at the pinnacle of the chemical enterprise. These researchers provide key primary research advances from their incredible careers and give unique insight into the past, present, and future of their work to inspire readers at every career level.",
+                "thumbnail_url": "/pb-assets/images/selects/achre4/vi_first-accounts.png",
+                "thumbnail_alt_text": "Chemical structures and terms on a purple-to-teal gradient background",
+                "short_blurb": "Pioneer Accounts are unique Accounts written by researchers at the pinnacle of the chemical enterprise.",
+                "related_subjects": [
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "3D Structures in Medicinal Chemistry and Chemical Biology",
                 "vi_url": "/page/acsodf/vi/3d-structures-in-medicinal-chemistry-and-chemical-biology",
                 "date": "2025-09-02",
