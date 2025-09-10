@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Catalyzed Enantioselective Organic Synthesis",
+                "vi_url": "/page/acscii/vi/catalyzed-enantioselective-organic-synthesis",
+                "date": "2025-09-10",
+                "journals": [
+                    "acscii"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection highlights the latest cutting-edge research in catalyzed enantioselective organic synthesis published in ACS Central Science. It emphasizes how innovations in chiral catalyst design, mechanistic understanding, and computational tools are shaping the future of the field. Showcasing modern synthetic strategies that achieve excellent stereochemical control through chiral catalysis, the Collection underscores the central role of enantioselectivity in the development of chiral pharmaceuticals, agrochemicals, and advanced materials.",
+                "thumbnail_url": "/pb-assets/images/acscii/catalyzed-enantioselective-organic-synthesis.png",
+                "thumbnail_alt_text": "",
+                "short_blurb": "This Collection showcases modern synthetic strategies that achieve excellent stereochemical control through chiral catalysis, published in ACS Central Science.",
+                "related_subjects": [
+                    "organic-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
+                "vi_title": "Cellulose and Lignin Polymers",
+                "vi_url": "/page/bomaf6/vi/cellulose-lignin-polymers",
+                "date": "2025-09-10",
+                "journals": [
+                    "bomaf6"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection brings together pioneering research on cellulose, lignin, and their derivatives, focusing on their structural properties, chemical modifications, functionalization strategies, and roles in advanced materials. These renewable biopolymers are at the forefront of sustainable innovation, offering pathways to reduce reliance on fossil-based resources and enabling applications in packaging, energy, biomedicine, and environmental remediation. As global demand for sustainable materials accelerates, cellulose and lignin-based polymers represent a critical intersection of green chemistry, materials science, and circular economy principles, making this topic both timely and impactful.",
+                "thumbnail_url": "/pb-assets/images/selects/bomaf6/cellulose-lignin-polymers.png",
+                "thumbnail_alt_text": "A zoomed in image of a leaf, with drops of water attached",
+                "short_blurb": "Innovative research on cellulose and lignin polymers driving sustainable materials for energy, packaging, biomedicine, and a circular economy.",
+                "related_subjects": [
+                    "polymer-science-and-macromolecular-chemistry",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Pioneer Accounts",
                 "vi_url": "/page/achre4/vi/pioneer-accounts",
                 "date": "2025-09-09",
