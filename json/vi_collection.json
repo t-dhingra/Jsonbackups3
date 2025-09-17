@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Celebrating the 25th Anniversary of <cite>Crystal Growth &amp; Design</cite>",
+                "vi_url": "/page/cgdefu/si/25th-anniversary",
+                "date": "2025-09-17",
+                "journals": [
+                    "cgdefu"
+                ],
+                "type": "vsi",
+                "long_blurb": "In 2025, Crystal Growth & Design celebrates its 25th anniversary, marking a quarter-century of significant contributions to the fields of crystallography, materials science, and chemistry. This Special Issue includes new contributions from some of the authors who published in the very first issue of the journals, as well as from current and past editorial and editorial advisory board members. It marks how far the journal, and the fields that it serves, have come over the past two and a half decades.",
+                "thumbnail_url": "/pb-assets/images/selects/cgdefu/25th-anniversary.png",
+                "thumbnail_alt_text": "25",
+                "short_blurb": "Special Issue dedicated to the 25th anniversary of the journal, reflecting significant contributions to the fields of crystallography, materials science, and chemistry.",
+                "related_subjects": [
+                    "materials-science",
+                    "nanoscience"
+                ]
+            },
+            {
                 "vi_title": "Catalyzed Enantioselective Organic Synthesis",
                 "vi_url": "/page/acscii/vi/catalyzed-enantioselective-organic-synthesis",
                 "date": "2025-09-10",
