@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "2024 CAMURE 12/ISMR 11 Conference",
+                "vi_url": "/page/vi/camure2024",
+                "date": "2025-09-18",
+                "journals": [
+                    "aeacb3",
+                    "iecred"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue, jointly presented by ACS Engineering Au and Industrial & Chemical Engineering Research, presents contemporary advances in the areas of catalysis, multiphase reactors and multifunctional reactors as discussed during the joint international Symposium on Catalysis in Multiphase Reactors (CAMURE) and on Multifunctional Reactors (ISMR) held from September 8-11, 2024 in Ghent, Belgium. An editorial written by the Guest Editors introduces the Special Issue.\n\nGuest Editors\nJoris Thybaut, Ghent University\nKevin Van Geem, Ghent University\nMark Saeys, Ghent University",
+                "thumbnail_url": "/pb-assets/images/selects/camure2024.jpg",
+                "thumbnail_alt_text": "",
+                "short_blurb": "This ACS Engineering Au and I&ECR joint special issue highlights research discussed during the CAMURE 12/ISMR 11 conference held in Ghent Belgium in 2024.",
+                "related_subjects": [
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Celebrating the 25th Anniversary of <cite>Crystal Growth &amp; Design</cite>",
                 "vi_url": "/page/cgdefu/si/25th-anniversary",
                 "date": "2025-09-17",
