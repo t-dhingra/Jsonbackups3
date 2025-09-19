@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Quantitative Synthetic Biology",
+                "vi_url": "/page/asbcd6/vsi/quantitative-synbio",
+                "date": "2025-09-19",
+                "journals": [
+                    "asbcd6"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue on Quantitative Synthetic Biology showcases advances in the rigorous modeling, measurement, and design of synthetic biological systems. Featured studies span Bayesian inference for metabolic modeling, CRISPR-based gene circuit optimization, and modular microbial consortia design. The Special Issue highlights how quantitative frameworks, ranging from statistical inference and mechanistic modeling to high-throughput experimental design, are enabling predictive control over complex biological behaviors. Together, these contributions reflect the growing integration of computational and experimental approaches in engineering robust, scalable synthetic systems.",
+                "thumbnail_url": "/pb-assets/images/asbcd6/SB_VSI_Quantitative_202401.png",
+                "thumbnail_alt_text": "Spiral shell pattern with blue green hue",
+                "short_blurb": "This issue highlights quantitative methods in synthetic biology, featuring advances in modeling, design automation, and predictive control of biological systems.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "analytical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "2024 CAMURE 12/ISMR 11 Conference",
                 "vi_url": "/page/vi/camure2024",
                 "date": "2025-09-18",
