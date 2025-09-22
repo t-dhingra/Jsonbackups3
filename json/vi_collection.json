@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "The Chemical Exposure Multiverse",
+                "vi_url": "/page/achsc5/vi/chemical-exposure-multiverse",
+                "date": "2025-09-22",
+                "journals": [
+                    "achsc5"
+                ],
+                "type": "vsi",
+                "long_blurb": "“At a time when synthetic chemicals permeate nearly every facet of modern life, from industrial manufacturing to household products, the need for accurate, context-sensitive data on chemical exposures has never been more urgent. This Special Issue of ACS Chemical Health and Safety brings together a diverse array of contributions from around the world that illuminate the multifaceted nature of chemical exposure across occupational, environmental, and public domains.”\n\nRead more in the editorial below introducing this special issue.\n\nPamela Pollet, Editorial Board Member, Georgia Institute of Technology",
+                "thumbnail_url": "/pb-assets/images/selects/achsc5/chemical-exposure-multiverse.jpg",
+                "thumbnail_alt_text": "Two scientists wearing lab coats and face masks. One scientist holds a clipboard, and the other holds a test tube with red liquid",
+                "short_blurb": "Synthetic chemicals are nearly everywhere in modern life, making clear, accurate data on exposure more vital than ever to protect health and safety.",
+                "related_subjects": [
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Quantitative Synthetic Biology",
                 "vi_url": "/page/asbcd6/vsi/quantitative-synbio",
                 "date": "2025-09-19",
