@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Imaging in Energy Science",
+                "vi_url": "/page/cbihbp/vi/imaging-in-energy-science",
+                "date": "2025-09-24",
+                "journals": [
+                    "cbihbp"
+                ],
+                "type": "vsi",
+                "long_blurb": "The use of microscopic and spectroscopic tools in energy science has revolutionized the way we understand and develop functional materials for tackling sustainability challenges. For instance, X-ray tomography, <em>in-situ</em> electron microscopy, hyperspectral Raman imaging, atomic force microscopy, and super-resolution imaging have emerged as powerful techniques. As tools and probes continue to evolve and improve, they will play an increasingly significant role in uncovering new insights into the fundamental behaviors of electrons, ions, and other charge carriers, as well as in fundamental materials processes. This Special Issue highlights advances in imaging tools for basic energy science and associated technological innovation. We hope readers will enjoy exploring it.",
+                "thumbnail_url": "/pb-assets/images/cbihbp/imaging-in-enegry-science.jpg",
+                "thumbnail_alt_text": "Imaging in Energy Science Cover Image",
+                "short_blurb": "This Special Issue highlights advances in imaging tools for basic energy science and associated technological innovation.",
+                "related_subjects": [
+                    "energy",
+                    "analytical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "The Chemical Exposure Multiverse",
                 "vi_url": "/page/achsc5/vi/chemical-exposure-multiverse",
                 "date": "2025-09-22",
