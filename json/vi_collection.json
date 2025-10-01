@@ -3,6 +3,27 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "The ACS Division of Analytical Chemistry Awards Program: Honoring Our Recent Awardees",
+                "vi_url": "/page/vi/division-of-ac-awards",
+                "date": "2025-10-01",
+                "journals": [
+                    "ancham",
+                    "amachv",
+                    "ascefj",
+                    "jamsef",
+                    "jceda8"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection highlights the American Chemical Society Division of Analytical Chemistry’s annual awards recognizing outstanding contributions in chemical analysis. Papers included in this Collection underscore the importance of innovations in analytical methods and technologies across fields such as mass spectrometry, electrochemistry, spectroscopy, and chromatography. The awards honor both established and early-career scientists, as well as educators and volunteers who support the Division’s mission. We encourage nominations for future awards, underscoring the value of community recognition in advancing analytical chemistry.",
+                "thumbnail_url": "/pb-assets/images/selects/division-of-ac-awards.jpg",
+                "thumbnail_alt_text": "chemical flask with tree",
+                "short_blurb": "This Collection highlights the ACS Division of Analytical Chemistry’s annual awards recognizing outstanding contributions in chemical analysis.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "chemistry-education"
+                ]
+            },
+            {
                 "vi_title": "Imaging in Energy Science",
                 "vi_url": "/page/cbihbp/vi/imaging-in-energy-science",
                 "date": "2025-09-24",
