@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Advanced Materials for Sustainable Energy and Decarbonization",
+                "vi_url": "/page/aaemcq/vi/sustainable-energy-decarbonization",
+                "date": "2025-10-02",
+                "journals": [
+                    "aaemcq"
+                ],
+                "type": "vsi",
+                "long_blurb": "This special issue assembles a selection of contributions from the Global Conference for Decarbonization of Energy and Materials (GC-DEM) held in Singapore in December 2023. The conference provides comprehensive coverage of novel strategies, decarbonization of energy, emerging prospects for green and renewable energy, of functional molecules and advanced materials, smart sensors, and sustainable technologies.",
+                "thumbnail_url": "/pb-assets/images/selects/aaemcq/sustainable-energy-decarbonization.png",
+                "thumbnail_alt_text": "new leaf growing in a lab",
+                "short_blurb": "This special issue assembles a selection of contributions from the Global Conference for Decarbonization of Energy and Materials (GC-DEM) held in Singapore in December 2023.",
+                "related_subjects": [
+                    "materials-science",
+                    "energy"
+                ]
+            },
+            {
                 "vi_title": "The ACS Division of Analytical Chemistry Awards Program: Honoring Our Recent Awardees",
                 "vi_url": "/page/vi/division-of-ac-awards",
                 "date": "2025-10-01",
