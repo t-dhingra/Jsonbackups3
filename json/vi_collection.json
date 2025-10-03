@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Lessons Learned in Organic Process Chemistry",
+                "vi_url": "/page/oprdfk/vsi/lessons-learned-2025",
+                "date": "2025-10-03",
+                "journals": [
+                    "oprdfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "The saying “failure is the mother of success” is familiar across cultures, and nowhere is it more relevant than in the practice of process chemistry. Behind every successful scale-up or robust manufacturing route lies a history of experiments that did not work as planned. These moments, though often left unspoken, are not wasted efforts. They are the foundation on which durable processes we develop and commercialize are built. May these contributions inspire all of us to continue learning, recording, and sharing the lessons that shape the art and science of process chemistry.",
+                "thumbnail_url": "/pb-assets/images/selects/oprdfk/lessons-learned-2025.jpg",
+                "thumbnail_alt_text": "Promotional graphic with the title of the journal - Organic Process Research &amp; Development and special issue - Lessons Learned in Organic Process Chemistry, with industrial chemical glassware in the background and ACS Publications logo at the bottom",
+                "short_blurb": "Read case studies highlighting the knowledge gained from failures and unexpected results, embodying the saying \"failure is the mother of success\".",
+                "related_subjects": [
+                    "organic-chemistry",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Advanced Materials for Sustainable Energy and Decarbonization",
                 "vi_url": "/page/aaemcq/vi/sustainable-energy-decarbonization",
                 "date": "2025-10-02",
@@ -713,6 +730,24 @@
                 "related_subjects": [
                     "physical-chemistry",
                     "materials-science"
+                ]
+            },
+            {
+                "vi_title": "XXXI International Conference on Polyphenols",
+                "vi_url": "/page/vi/xxxi-international-conference-polyphenols",
+                "date": "2025-06-27",
+                "journals": [
+                    "jafcau",
+                    "afsthl"
+                ],
+                "type": "vsi",
+                "long_blurb": "The International Conference on Polyphenols (ICP) has existed for more than 50 years and was created under the auspices of the scholarly society “Groupe Polyphénols”. The objective of the group is to promote research in all fields of polyphenol science and to stimulate exchanges and collaborations between polyphenol scientists from both public laboratories and industry. The 31st edition of the ICP was one of the most successful events of the series, attracting some 340 attendees of 40 nationalities. This special issue constitutes a selection of articles published in the Journal of Agricultural and Food Chemistry and ACS Food Science & Technology by participants in this ICP2023 Nantes edition, and they illustrate recent advances and developments in polyphenol science.",
+                "thumbnail_url": "/pb-assets/images/jafcau/JF-FS_SPI_International%20Conference%20on%20Polyphenols_400%20x%20400.png",
+                "thumbnail_alt_text": "Green crop field under cloudy sky with a transparent polyphenol molecule overlay",
+                "short_blurb": "A selection of articles from contributions at the ICP2023 Nantes edition, illustrating recent advances and developments in polyphenol science.",
+                "related_subjects": [
+                    "agriculture-food-chemistry",
+                    "biological-chemistry-and-chemical-biology"
                 ]
             },
             {
