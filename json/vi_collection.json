@@ -3,6 +3,39 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Harold Linnartz Festschrift",
+                "vi_url": "/page/aesccq/vi/harold-linnartz-festschrift",
+                "date": "2025-10-07",
+                "journals": [
+                    "aesccq"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue of ACS Earth and Space Chemistry is dedicated to the memory of our esteemed colleague, Professor Harold Linnartz, who passed away unexpectedly on December 31, 2023. Harold was a pioneering figure in laboratory astrophysics, holding the Chair at Leiden Observatory, Leiden University, since 2005. His groundbreaking work on the spectroscopy and chemistry of gaseous and icy molecules in interstellar environments has left a lasting impact on the field. The contributions in this issue reflect the breadth of Harold’s scientific vision and the many areas he influenced—from molecular physics to astrochemistry. Each article is a tribute to his passion for uncovering the molecular foundations of the universe and his commitment to advancing fundamental science. This issue honors not only his remarkable scholarship but also his collaborative spirit and mentorship, which inspired a generation of scientists across disciplines and continents.",
+                "thumbnail_url": "/pb-assets/images/selects/harold-linnartz-festschrift.jpg",
+                "thumbnail_alt_text": "Headshot of Harold Linnartz",
+                "short_blurb": "Special Issue honoring Harold Linnartz, a pioneer in laboratory astrophysics, featuring research inspired by his legacy in interstellar molecular science.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry",
+                    "physical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Artificial Intelligence and Machine Learning for Environmental Health",
+                "vi_url": "/page/ehnea2/vsi/ai-ml-environmental-health",
+                "date": "2025-10-07",
+                "journals": [
+                    "ehnea2"
+                ],
+                "type": "vsi",
+                "long_blurb": "The complex relationship between environmental exposures and human health constitutes a major global challenge requiring innovative solutions. Artificial Intelligence (AI) and Machine Learning (ML) show exceptional strength for data analysis and pattern recognition. Applying these technologies to environmental health provides new insights to improve and advance environmental exposure assessment, health risk assessment, and related policy development. This special issue covers a range of AI/ML-related topics including toxicity prediction, risk assessment, exposure estimation, environmental health, environmentally friendly material design, and data ethics. Together, these contributions highlight the latest advancements and the broad potential of AI and ML to strengthen our response to both current and future environmental health challenges. We hope this special issue will inspire new research directions and benefit future studies. \n\nWe invite you to begin this collection with the Editorial contributed by guest editors, Drs. Miao Yu, Mingliang Fang, Zhenyu Tian, Bin Wang, and Douglas Walker.",
+                "thumbnail_url": "/pb-assets/images/ehnea2/ai-ml-environmental-health.png",
+                "thumbnail_alt_text": "computer chip",
+                "short_blurb": "This special issue highlights the latest advancements and broad potential of AI and ML to empower our response to both current and future environmental health challenges.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Elevating Atmospheric Chemistry Measurements and Modelling with Artificial Intelligence",
                 "vi_url": "/page/aeacd5/vi/ai-atmospheric-chemistry",
                 "date": "2025-10-06",
