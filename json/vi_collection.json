@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Weak Interactions in Chemistry and Biology",
+                "vi_url": "/page/chreay/vi/2025-weak_interactions",
+                "date": "2025-10-08",
+                "journals": [
+                    "chreay"
+                ],
+                "type": "vsi",
+                "long_blurb": "Our understanding of weak interactions at the molecular level has evolved dramatically over the centuries, from early empirical observations drawn from crystalline materials, through observational and theoretical insights derived during the Age of Enlightenment, to the modern classification of different non-covalent interactions and their essential role across the molecular sciences.\n\nThe frontiers of research in the 21st Century are increasingly about designing and predicting function at the molecular level, where weak molecular interactions play an essential role. This Thematic Issue provides a sampling of these frontiers.",
+                "thumbnail_url": "/pb-assets/images/selects/chreay/2025-weak_interactions.png",
+                "thumbnail_alt_text": "chemical stuctures",
+                "short_blurb": "",
+                "related_subjects": [
+                    "multidisciplinary",
+                    "organic-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Harold Linnartz Festschrift",
                 "vi_url": "/page/aesccq/vi/harold-linnartz-festschrift",
                 "date": "2025-10-07",
