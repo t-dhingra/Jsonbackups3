@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "The Chemistry of Emergent 2D Materials",
+                "vi_url": "/page/cmatex/vi/Emergent-2D-Materials-2025",
+                "date": "2025-10-14",
+                "journals": [
+                    "cmatex"
+                ],
+                "type": "vsi",
+                "long_blurb": "Two-dimensional (2D) materials research is advancing at great pace, moving beyond conventional layered crystals into a landscape with greater diversity in structure, behavior, and functionality. The term “Emergent 2D materials” refers to systems where new compositions, phases, structures, and properties arise from chemical control from atomic to mesoscopic scales. This Special Issue from Chemistry of Materials highlights a selection of outstanding contributions to this field recently published in the journal.\n\nThis Special Issue is led by an Editorial written by Associate Editor Prof. Jiong Lu.",
+                "thumbnail_url": "/pb-assets/images/selects/cmatex/emergent-2d-materials-2025.png",
+                "thumbnail_alt_text": "Ball-and-stick structures representing 2-dimensional materials with a red/cyan background",
+                "short_blurb": "A Special Issue from <em>Chemistry of Materials</em> highlighting a selection of recent innovations in the chemistry of 2D materials.",
+                "related_subjects": [
+                    "materials-science",
+                    "nanoscience"
+                ]
+            },
+            {
                 "vi_title": "Weak Interactions in Chemistry and Biology",
                 "vi_url": "/page/chreay/vi/2025-weak_interactions",
                 "date": "2025-10-08",
