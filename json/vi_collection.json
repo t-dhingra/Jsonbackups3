@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Sustainable Development of Printed Electronics: from Materials Processing to Devices Implementation",
+                "vi_url": "/page/aaembp/vi/sustainable-development-printed-electronics",
+                "date": "2025-10-15",
+                "journals": [
+                    "aaembp"
+                ],
+                "type": "vsi",
+                "long_blurb": "The urgent need to address environmental challenges requires societies to reconsider how electronic devices are designed, manufactured, and ultimately managed at the end of their life. This special issue highlights advances in green inks, nanomaterials, biodegradable and recyclable substrates, and energy-efficient manufacturing strategies, which are all intended to minimize the environmental impact of the electronics industry.",
+                "thumbnail_url": "/pb-assets/images/selects/aaembp/sustainable-development.png",
+                "thumbnail_alt_text": "water droplets on young plants",
+                "short_blurb": "This special issue highlights advances in electronic materials research that minimize the environmental impact of the electronics industry.",
+                "related_subjects": [
+                    "materials-science",
+                    "environmental-and-sustainable-chemistry"
+                ]
+            },
+            {
                 "vi_title": "The Chemistry of Emergent 2D Materials",
                 "vi_url": "/page/cmatex/vi/Emergent-2D-Materials-2025",
                 "date": "2025-10-14",
