@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Materials Design by Synthetic Biology",
+                "vi_url": "/page/asbcd6/vsi/materials-design-synbio",
+                "date": "2025-10-17",
+                "journals": [
+                    "asbcd6"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue explores how synthetic biology enables the design of advanced materials with programmable, responsive, and functional properties. Featured studies include engineered living materials, cell-free systems embedded in polymers, and synthetic gene circuits integrated into hydrogels for biosensing and antimicrobial activity. Other contributions highlight microbial production of functional biomolecules and novel receptor systems for cell-material communication. Together, these works demonstrate how synthetic biology is transforming materials science through modular, scalable, and sustainable design strategies.",
+                "thumbnail_url": "/pb-assets/images/asbcd6/ACS-4924-vsi.jpg",
+                "thumbnail_alt_text": "Close-up of pink and purple fibrous strands intertwined on a dark blue background.",
+                "short_blurb": "Highlighting synthetic biology-driven materials, from cell-free systems to engineered living materials, enabling programmable, responsive, and functional designs.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Sustainable Development of Printed Electronics: from Materials Processing to Devices Implementation",
                 "vi_url": "/page/aaembp/vi/sustainable-development-printed-electronics",
                 "date": "2025-10-15",
