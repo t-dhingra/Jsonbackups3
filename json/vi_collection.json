@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "π-Conjugated Molecules & Materials",
+                "vi_url": "/page/orlef7/vsi/pi-conjugated-2025",
+                "date": "2025-10-24",
+                "journals": [
+                    "orlef7"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue honors the 160th anniversary of the groundbreaking 1865 proposal from August Kekulé for the six-membered carbocycle structure of benzene, as well as the 60th anniversary of Eric Clar receiving the Kekulé Medal for his foundational contributions to polycyclic aromatic hydrocarbon chemistry and his foundational theory for the electronic structures of polycyclic π-conjugated molecules: the sextet rule.\n\nπ-conjugated molecules & materials are not only aesthetically beautiful, they also exhibit unique properties and showcase interesting synthetic methods to access them. Their often-colorful appearance is portrayed by the artwork on the cover of our 42nd issue of the year. This massive special issue highlights the excitement and attention of the community in finding a home for their work in Organic Letters. With sincerest thanks to Profs. Qian Miao, Araceli G. Campana, and Hiroshi Shinokubo serving as Guest Editors of the Special Issue, as well as Associate Editor Prof. Chunyan Chi for leading it.",
+                "thumbnail_url": "/pb-assets/images/selects/orlef7/pi-conjugated-2025.jpg",
+                "thumbnail_alt_text": "A dark blue image with ball-and-stick structures of organic aromatic compounds and a blue stream of light.",
+                "short_blurb": "Honoring August Kekulé and Eric Clar, this Special Issue showcases everything from CPL and optoelectronics, to nonbenzenoid aromatic compounds and nanohoops.",
+                "related_subjects": [
+                    "organic-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
+                "vi_title": "Engineered Active Colloids for Autonomous Applications",
+                "vi_url": "/page/aaemdr/vi/engineered-active-colloids",
+                "date": "2025-10-24",
+                "journals": [
+                    "aaemdr"
+                ],
+                "type": "collection",
+                "long_blurb": "Active colloids, small-scale materials capable of enhanced motion within fluid environments, have garnered significant interest and witnessed rapid growth over the past decade. This collection aims to gather top-quality contributions on recent developments in active colloids, with a focus on advancements that facilitate autonomous functionalities.",
+                "thumbnail_url": "/pb-assets/images/selects/engineered-active-colloids.png",
+                "thumbnail_alt_text": "circles on a colorful background",
+                "short_blurb": "Read the most recently published papers in Engineered Active Colloids, a growing and fascinating field where physics, chemistry, biology, and engineering meet.",
+                "related_subjects": [
+                    "materials-science",
+                    "physical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Materials Design by Synthetic Biology",
                 "vi_url": "/page/asbcd6/vsi/materials-design-synbio",
                 "date": "2025-10-17",
