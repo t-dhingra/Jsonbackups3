@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Frontiers of Molecular Magnetism",
+                "vi_url": "/page/cgdefu/si/frontiers-of-molecular-magnetism",
+                "date": "2025-10-29",
+                "journals": [
+                    "cgdefu"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue highlights articles published in <cite>Crystal Growth & Design</cite> on the topic of Molecular Magnetism, which is a highly interdisciplinary field bridging chemistry, physics, materials science, and biology. The research in this area includes magnetic properties of spin-based systems with applications in spin dynamics, spintronics, and quantum information technology. This topic remains a central theme at the Asian Conference on Molecular Magnetism.",
+                "thumbnail_url": "/pb-assets/images/cgdefu/frontiers-of-molecular-magnetism.jpg",
+                "thumbnail_alt_text": "Special issue on molecular magnetism",
+                "short_blurb": "This Special Issue highlights articles published in <cite>Crystal Growth & Design</cite> on the topic of Molecular Magnetism",
+                "related_subjects": [
+                    "materials-science",
+                    "physical-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Environmental Catalysis for Air Pollution Control",
+                "vi_url": "/page/aeecco/si/catalyzing-cleaner-air",
+                "date": "2025-10-29",
+                "journals": [
+                    "aeecco"
+                ],
+                "type": "vsi",
+                "long_blurb": "Air pollution remains one of the most pressing environmental and public health challenges of our time. As concerns over air quality and climate change intensify, catalytic technologies are emerging as powerful tools for targeted pollutant removal and sustainable industrial transformation. This special issue of ACS ES&T Engineering showcases the latest breakthroughs in environmental catalysis—featuring advanced materials and systems designed to mitigate harmful emissions such as nitrogen oxides, volatile organic compounds, and particulate matter. Explore how catalytic science is driving cleaner air and a low-carbon future.",
+                "thumbnail_url": "/pb-assets/images/aeecco/catalyzing-cleaner-air.png",
+                "thumbnail_alt_text": "Conceptual image showing clean air emerging from catalytic converters and industrial stacks, symbolizing pollution control",
+                "short_blurb": "Explore innovative examples and practical applications of cutting-edge biotechnology systems driving a carbon-neutral circular economy for a sustainable future.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "π-Conjugated Molecules & Materials",
                 "vi_url": "/page/orlef7/vsi/pi-conjugated-2025",
                 "date": "2025-10-24",
@@ -779,6 +813,23 @@
                 "related_subjects": [
                     "biological-chemistry-and-chemical-biology",
                     "theoretical-computational-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Highlighting 2024 Contributions from our Editorial Board Members",
+                "vi_url": "/page/apchd5/vi/2024EditorialBoards",
+                "date": "2025-07-01",
+                "journals": [
+                    "apchd5"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection features research articles published in 2024 by the Editors and the Editorial Advisory Board members of ACS Photonics. These contributions reflect the breadth and dedication of the journal's most passionate ambassadors.\n\nSpanning topics such as reconfigurable optics, metasurfaces, integrated photonic platforms, quantum light sources, optical imaging, and computational photonics, the articles in this Collection showcase the scientific leadership and innovation that define our field.\n\nWe invite you to explore this curated Collection. Let their work inspire your own research, and discover new insights into the future of photonics.",
+                "thumbnail_url": "pb-assets/images/apchd5/SI_EditorialBoards.jpg",
+                "thumbnail_alt_text": "people sitting at a conference table",
+                "short_blurb": "This Collection features research articles published in 2024 by the Editors and the Editorial Advisory Board members of <em>ACS Photonics</em>.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "materials-science"
                 ]
             },
             {
