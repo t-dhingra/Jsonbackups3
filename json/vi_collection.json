@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Athanassios Z. Panagiotopoulos Festschrift: Simulations of Phase Transitions and Self-Assembly in Complex Fluids",
+                "vi_url": "/page/jpcbfk/vsi/panagiotopoulos-festschrift",
+                "date": "2025-10-30",
+                "journals": [
+                    "jpcbfk"
+                ],
+                "type": "vsi",
+                "long_blurb": "Athanassios Z. (Thanos) Panagiotopoulos is known for pioneering original computational techniques, including groundbreaking molecular-based phase coexistence algorithms, novel methods to calculate the chemical potential of chain molecules, efficient histogram reweighting and finite-size scaling methodologies, rigorous techniques to study criticality in ionic systems, and computational methods to probe aggregation and self-assembly in complex fluids. Using a combination of ingenious numerical simulation and theoretical tools, he has made pathbreaking contributions in the study of electrolyte solutions, surfactants, block copolymer films, polymer-grafted nanoparticles, polymer melts, and water-hydrocarbon mixtures.",
+                "thumbnail_url": "/pb-assets/images/jpcbfk/panagiotopoulos-festschrift.jpg",
+                "thumbnail_alt_text": "Interconnected transparent circles of various sizes with a reddish tint on top of a green background.",
+                "short_blurb": "Festschrift honoring Thanos Panagiotopoulos and his contributions to the fields of thermodynamics, statistical mechanics, complex fluids, and soft matter",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "theoretical-computational-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Frontiers of Molecular Magnetism",
                 "vi_url": "/page/cgdefu/si/frontiers-of-molecular-magnetism",
                 "date": "2025-10-29",
