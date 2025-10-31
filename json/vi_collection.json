@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Photocatalysis Materials for Sustainable Energy",
+                "vi_url": "/page/aaemcq/vi/photocatalysis-materials-for-sustainable-energy",
+                "date": "2025-10-31",
+                "journals": [
+                    "aaemcq"
+                ],
+                "type": "collection",
+                "long_blurb": "Photocatalysis offers a compelling pathway for harnessing solar energy to drive chemical transformations, contributing to carbon neutrality and addressing urgent sustainability challenges. This topical collection in <cite>ACS Applied Energy Materials</cite> showcases research published between 2023 and 2024, emphasizing breakthroughs in material design and mechanistic insights that are advancing the field.",
+                "thumbnail_url": "/pb-assets/images/aaemcq/photocatalysis-materials-for-sustainable-energy.png",
+                "thumbnail_alt_text": "Photocatalysis Materials for Sustainable Energy",
+                "short_blurb": "This topical collection showcases photocatalyst materials research published between 2023 and 2024 in <cite>ACS Applied Energy Materials</cite>.",
+                "related_subjects": [
+                    "materials-science",
+                    "environmental-and-sustainable-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Athanassios Z. Panagiotopoulos Festschrift: Simulations of Phase Transitions and Self-Assembly in Complex Fluids",
                 "vi_url": "/page/jpcbfk/vsi/panagiotopoulos-festschrift",
                 "date": "2025-10-30",
