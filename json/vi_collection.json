@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Emerging Strategies to Deliver Therapeutics to the Brain",
+                "vi_url": "/page/mpohbp/vi/brain2025",
+                "date": "2025-11-03",
+                "journals": [
+                    "mpohbp"
+                ],
+                "type": "vsi",
+                "long_blurb": "The blood–brain barrier (BBB) serves as a critical defense system, protecting the brain from circulating xenobiotics and buffering it against physiological fluctuations in plasma components, while enabling highly selective solute transport into and out of the central nervous system. This Special Issue of Molecular Pharmaceutics features a curated collection of 23 research articles, perspectives, and reviews from around the world, showcasing innovative strategies to cross, target, or bypass the BBB endothelium. We hope this Special Issue inspires deeper engagement with this vital area of research and advances efforts to develop effective treatments for complex neurological disorders.\n\nKristofer Thurecht, Associate Editor, Molecular Pharmaceutics\nUniversity of Queensland, Australia\n\nKarunya K. Kandimalla, Guest Editor, Molecular Pharmaceutics\nUniversity of Minnesota, United States\n\nMeritxell Teixido, Guest Editor, Molecular Pharmaceutics\nGate2Brain, Spain\n\nBingyang Shi, Guest Editor, Molecular Pharmaceutics\nUniversity of Technology Sydney, Australia",
+                "thumbnail_url": "/pb-assets/images/selects/emerging-strategies-deliver-therapeutics-brain.jpg",
+                "thumbnail_alt_text": "purple brain",
+                "short_blurb": "In this Special Issue, we highlight covalent modulators, and the role they play in medicinal chemistry and drug discovery.",
+                "related_subjects": [
+                    "medicinal-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
+                "vi_title": "Hartmut Herrmann Festschrift",
+                "vi_url": "/page/aesccq/vi/hartmut-herrmann-festschrift",
+                "date": "2025-11-03",
+                "journals": [
+                    "aesccq"
+                ],
+                "type": "vsi",
+                "long_blurb": "We are honored to present the Hartmut Herrmann Festschrift, a special issue of ACS Earth and Space Chemistry celebrating the distinguished career of Professor Hartmut Herrmann. A globally recognized leader in environmental chemistry, Prof. Herrmann has made pioneering contributions to the understanding of tropospheric multiphase systems through experimental, modeling, and field-based approaches. His work has shaped the way we study atmospheric processes and their impact on air quality and climate. Beyond his scientific achievements, Hartmut is known for his generosity, mentorship, and collaborative spirit, which have inspired countless colleagues and students around the world. This special issue features research that reflects the breadth of his influence and honors his legacy in advancing atmospheric chemistry. The Festschrift accompanies a dedicated symposium held at the 2024 ACS Fall Meeting in Denver, organized by Prof. Ann Marie Carlton, Dr. Thomas Schaefer, Prof. Jianmin Chen, Prof. Virender Sharma, and Prof. V. Faye McNeill. Together, this issue and symposium pay tribute to a scientist whose work and character have profoundly shaped the field.",
+                "thumbnail_url": "/pb-assets/images/selects/hartmut-herrmann-festschrift.png",
+                "thumbnail_alt_text": "Special Issue honoring Prof. Hartmut Herrmann’s legacy in atmospheric chemistry",
+                "short_blurb": "Special Issue honoring Prof. Hartmut Herrmann’s legacy in atmospheric chemistry, featuring research on multiphase systems and global collaboration in environmental science.",
+                "related_subjects": [
+                    "environmental-and-sustainable-chemistry",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Photocatalysis Materials for Sustainable Energy",
                 "vi_url": "/page/aaemcq/vi/photocatalysis-materials-for-sustainable-energy",
                 "date": "2025-10-31",
