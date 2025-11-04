@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Precision Diagnostics",
+                "vi_url": "/page/pcrhej/vi/precision-diagnostics",
+                "date": "2025-11-04",
+                "journals": [
+                    "pcrhej"
+                ],
+                "type": "vsi",
+                "long_blurb": "Fabrication of effective diagnostic platforms relies heavily on advances in precisely controlled chemical and material synthesis. Marker discovery depends on comprehensive and precise multimodal measurements, and the resultant high-dimensional data sets need to be interpreted by AI and machine learning methods to extract useful information. This Special Issue of Precision Chemistry, entitled \"Precision Diagnostics\", features the research works that exploit controllable chemical/material/biomolecule synthesis and precise device fabrication, in many cases often integrated with ML algorithms, to empower precision diagnostics.\n\nThe leading Editorial was written by Prof. Wenwan Zhong, Prof. Yang Liu, and Prof. Rong Fan. We hope readers will find this Special Issue engaging and informative.",
+                "thumbnail_url": "/pb-assets/images/selects/pcrhej/precision-diagnostics.jpg",
+                "thumbnail_alt_text": "complex chemical diagram",
+                "short_blurb": "This Special Issue features a collection that exploit controllable chemical/material/biomolecule synthesis and precise device fabrication to empower precision diagnostics.",
+                "related_subjects": [
+                    "analytical-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Emerging Strategies to Deliver Therapeutics to the Brain",
                 "vi_url": "/page/mpohbp/vi/brain2025",
                 "date": "2025-11-03",
