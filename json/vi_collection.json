@@ -3,6 +3,22 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Advances in Organic Catalysis and Synthesis",
+                "vi_url": "/page/acsodf/vi/advances-in-organic-catalysis-and-synthesis",
+                "date": "2025-11-05",
+                "journals": [
+                    "acsodf"
+                ],
+                "type": "collection",
+                "long_blurb": "Covering diverse themes such as enantioselective synthesis, organocatalysis, cross-coupling reactions, and innovative catalytic methodologies, this Collection of articles demonstrates the creativity and rigor driving modern synthetic chemistry. We extend our sincere appreciation to these authors and to the reviewers for their critical evaluations.",
+                "thumbnail_url": "/pb-assets/images/selects/acsodf/advances-in-organic-catalysis-and-synthesis.jpg",
+                "thumbnail_alt_text": "Image featuring molecular structures, with a large, magnified molecule in the center and a network-like pattern in the background",
+                "short_blurb": "This collection covers diverse themes such as enantioselective synthesis, organocatalysis, cross-coupling reactions, and innovative catalytic methodologies.",
+                "related_subjects": [
+                    "organic-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Precision Diagnostics",
                 "vi_url": "/page/pcrhej/vi/precision-diagnostics",
                 "date": "2025-11-04",
