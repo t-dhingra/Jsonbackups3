@@ -3,6 +3,40 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Celebrating Authors of <em>Energy & Fuels</em> Most Impactful Articles (2022)",
+                "vi_url": "/page/enfuem/vi/most-impactful-articles-2022",
+                "date": "2025-11-06",
+                "journals": [
+                    "enfuem"
+                ],
+                "type": "vsi",
+                "long_blurb": "<em>Energy & Fuels</em> is pleased to present this special issue that features a collection of papers contributed by researchers who previously (co-)authored at least one of our journal’s most impactful articles in 2022. Those most impactful articles ranked within the top 3% most-cited articles published in <em>Energy & Fuels</em> in that year.",
+                "thumbnail_url": "/pb-assets/images/selects/enfuem/most-impactful-articles-2022.png",
+                "thumbnail_alt_text": "Authors who published the top 3 percent most cited articles in Energy and Fuels in 2022 contributed to this special issue",
+                "short_blurb": "This Special Issue features a collection of papers contributed by the authors who published the top 3% most cited articles in <em>Energy & Fuels</em> in 2022.",
+                "related_subjects": [
+                    "energy",
+                    "environmental-and-sustainable-chemistry"
+                ]
+            },
+            {
+                "vi_title": "Naomi J. Halas and Peter Nordlander Festschrift: A Partnership of Theory and Experiment that Shaped Plasmonics",
+                "vi_url": "/page/jpccck/vsi/halas-nordlander-festschrift",
+                "date": "2025-11-06",
+                "journals": [
+                    "jpccck"
+                ],
+                "type": "vsi",
+                "long_blurb": "The complementary experimental and theoretical leadership of the honorees of this Festschrift has helped establish the modern field of plasmonics and catalyzed its impact across the disciplines of chemistry, physics, and engineering. The diversity of topics in this collection highlights the incredible impact that the intertwined careers of Naomi and Peter have had in defining, and continuing to propel, the fields of plasmonics and nanophotonics. From early work on fundamentals of spectroscopy and theoretical surface science to geometrically programmed plasmonic responses and light-enabled chemistry, the Halas–Nordlander partnership exemplifies how fundamental physical chemistry can be translated into tools and technologies that advance human health and transition to renewable energies.",
+                "thumbnail_url": "/pb-assets/images/jpccck/halas-nordlander-festschrift.jpg",
+                "thumbnail_alt_text": "Blue dots in a two dimensional grid",
+                "short_blurb": "Many topics are covered: plasmon-enabled catalysis, hot carrier science, and photonic mode engineering.",
+                "related_subjects": [
+                    "physical-chemistry",
+                    "materials-science"
+                ]
+            },
+            {
                 "vi_title": "Advances in Organic Catalysis and Synthesis",
                 "vi_url": "/page/acsodf/vi/advances-in-organic-catalysis-and-synthesis",
                 "date": "2025-11-05",
