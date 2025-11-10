@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Emerging Leaders in <em>Biomacromolecules</em>",
+                "vi_url": "/page/bomaf6/vi/early-career-2025",
+                "date": "2025-11-10",
+                "journals": [
+                    "bomaf6"
+                ],
+                "type": "collection",
+                "long_blurb": "This Collection celebrates the innovative contributions of the early career researchers shaping the future of biopolymer science. Here we showcase cutting-edge research across the broad spectrum of biomacromolecules, including proteins, nucleic acids, polysaccharides, and synthetic biopolymers. \n\nThese featured authors represent a new generation of scientists driving progress in molecular design, bioconjugation, self-assembly, and biomaterials engineering. Their work reflects the diversity of approaches and perspectives that are redefining the boundaries of the field. By highlighting these voices, this Collection aims to foster collaboration, inspire new ideas, and recognize the potential of these researchers to lead transformative advances in biomacromolecular science. We invite readers to explore this dynamic body of work and engage with the next wave of leaders in the community.",
+                "thumbnail_url": "/pb-assets/images/selects/bomaf6/early-career-2025.png",
+                "thumbnail_alt_text": "Fluorescent-polymer conjugates cause damaged viruses to fluoresce",
+                "short_blurb": "Showcasing rising talent in biomacromolecular science, this Collection features pioneering research from early career scientists shaping the future of the field.",
+                "related_subjects": [
+                    "polymer-science-and-macromolecular-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Celebrating Authors of <em>Energy & Fuels</em> Most Impactful Articles (2022)",
                 "vi_url": "/page/enfuem/vi/most-impactful-articles-2022",
                 "date": "2025-11-06",
