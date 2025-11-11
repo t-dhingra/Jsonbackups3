@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Voices from Shenzhen",
+                "vi_url": "/page/cmatex/vi/voices-from-shenzhen-2025",
+                "date": "2025-11-11",
+                "journals": [
+                    "cmatex"
+                ],
+                "type": "collection",
+                "long_blurb": "Shenzhen has rapidly transformed into one of China's most dynamic centers of scientific research and innovation as a result of technological ambition, strategic investment, and academic growth. Materials chemistry has emerged as a particular strength of the region, and this Collection showcases a selection of recent publications in Chemistry of Materials from researchers based at some of Shenzhen's leading institutions.\n\nThis Collection is led by an Editorial written by Editor-in-Chief Prof. Sara Skrabalak which features interviews with some of the authors of the featured publications.",
+                "thumbnail_url": "/pb-assets/images/selects/cmatex/voices-from-shenzhen-2025.png",
+                "thumbnail_alt_text": "City view of Shenzhen China on a red background",
+                "short_blurb": "A Collection from <em>Chemistry of Materials</em> highlighting a selection of exciting materials chemistry research recently published in the journal from the Shenzhen region of China.",
+                "related_subjects": [
+                    "materials-science",
+                    "nanoscience"
+                ]
+            },
+            {
                 "vi_title": "Emerging Leaders in <em>Biomacromolecules</em>",
                 "vi_url": "/page/bomaf6/vi/early-career-2025",
                 "date": "2025-11-10",
