@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "2025 <em>Energy and Fuels</em> Rising Stars",
+                "vi_url": "/page/enfuem/vi/rising-stars-2025",
+                "date": "2025-11-13",
+                "journals": [
+                    "enfuem"
+                ],
+                "type": "vsi",
+                "long_blurb": "Early- and mid-career researchers make up a significant portion of the research workforce and play critical roles in driving knowledge discovery and technological advances in the increasingly globalized research landscape. To celebrate the achievements of researchers who made a significant impact on the Energy field early in their careers, <em>Energy &amp; Fuels</em> has established an annual recognition program. This Special Issue features a collection of papers contributed by the 2025 <em>Energy &amp; Fuels</em> Rising Stars.",
+                "thumbnail_url": "/pb-assets/images/selects/enfuem/rising-stars-2025.png",
+                "thumbnail_alt_text": "This special issue is dedicated to 2025 Energy and Fuels Rising Stars for celebrating these influential Early- and Mid-Career Researchers on their significant impact to various areas of energy research",
+                "short_blurb": "This special issue is dedicated to the <em>2025 Energy and Fuels Rising Stars</em> for celebrating these influential early- and mid-career researchers on their significant impact on various areas of energy research.",
+                "related_subjects": [
+                    "energy",
+                    "chemical-engineering-industrial-chemistry"
+                ]
+            },
+            {
                 "vi_title": "Voices from Shenzhen",
                 "vi_url": "/page/cmatex/vi/voices-from-shenzhen-2025",
                 "date": "2025-11-11",
