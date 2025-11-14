@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "5 Years of COVID Research",
+                "vi_url": "/page/aidcbc/vi/covid-highlights",
+                "date": "2025-11-14",
+                "journals": [
+                    "aidcbc"
+                ],
+                "type": "collection",
+                "long_blurb": "The global impact of COVID-19 has been profound. Since the onset of the pandemic, <cite>ACS Infectious Diseases</cite> has played a vital role in disseminating cutting-edge research and sharing critical updates on scientific advancements in the field.<br><br>\nTo reflect on this period, <cite>ACS Infectious Diseases</cite> has curated a retrospective collection featuring 25 influential publications, including research articles, reviews, viewpoints, and letters published between early 2020 and mid-2025. Each piece was selected for its significant contribution to the evolving understanding of SARS-CoV-2 and its related areas of research.<br><br>\nThe collection spans a wide range of topics, including diagnostics, disinfection protocols, drug targets, therapeutics, and more. We invite you to explore this compilation and hope it provides valuable insights into the scientific response to one of the most challenging public health crises of our time.<br><br>\n<strong>Scott Pegan</strong>, Associate Editor, <cite>ACS Infectious Diseases</cite><br>\nUniversity of California Riverside, United States",
+                "thumbnail_url": "/pb-assets/images/aidcbc/5-years-covid-research.png",
+                "thumbnail_alt_text": "virus",
+                "short_blurb": "<cite>ACS Infectious Diseases</cite> is pleased to introduce a retrospective Collection highlighting COVID-19 research from 2020 to 2025.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "medicinal-chemistry"
+                ]
+            },
+            {
                 "vi_title": "2025 <em>Energy and Fuels</em> Rising Stars",
                 "vi_url": "/page/enfuem/vi/rising-stars-2025",
                 "date": "2025-11-13",
