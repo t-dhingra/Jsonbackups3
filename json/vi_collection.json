@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Highlighting 2024 Contributions from our Editorial Board Members",
+                "vi_url": "/page/langd5/vi/2024-editorial-boards",
+                "date": "2025-11-18",
+                "journals": [
+                    "langd5"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Special Issue showcases 108 outstanding articles authored by our Editors and Editorial Advisory Board members in 2024. These contributions reflect the breadth, excellence, and dedication of <em>Langmuir’s</em> most committed ambassadors.\n\nWe invite you to explore this Special Issue and be inspired by the remarkable advances shared by our Editorial Board in 2024.",
+                "thumbnail_url": "/pb-assets/images/selects/langd5/2024-editorial-boards.png",
+                "thumbnail_alt_text": "This Special Issue highlights the contributions in 2024 by our most committed ambassadors, the Editors and Editorial Advisory Board members of Langmuir",
+                "short_blurb": "This Special Issue highlights the contributions in 2024 by our most committed ambassadors, the Editors and Editorial Advisory Board members of <em>Langmuir</em>.",
+                "related_subjects": [
+                    "materials-science",
+                    "physical-chemistry"
+                ]
+            },
+            {
                 "vi_title": "5 Years of COVID Research",
                 "vi_url": "/page/aidcbc/vi/covid-highlights",
                 "date": "2025-11-14",
