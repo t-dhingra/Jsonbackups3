@@ -3,6 +3,24 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Structural Biology in Drug Discovery and Development",
+                "vi_url": "/page/si/structural-biology-drug-discovery",
+                "date": "2025-11-19",
+                "journals": [
+                    "jmcmar",
+                    "amclct"
+                ],
+                "type": "vsi",
+                "long_blurb": "This cross-journal Special Issue jointly by the <cite>Journal of Medicinal Chemistry</cite> and <cite>ACS Medicinal Chemistry Letters</cite>, highlights the transformative role of structural biology in drug discovery. Featuring global contributions from academia and industry, the Special Issue showcases structure-based approaches to developing therapeutics for infectious diseases, cancer, neurodegeneration, and cardiovascular conditions. It includes detailed studies on enzyme-ligand interactions, novel binding sites, and emerging drug modalities such as peptide mimetics and targeted protein degradation. We emphasize the global collaboration and foundational importance of structural insights in advancing medicinal chemistry.<br><br>\n<strong>David E. Heppner</strong>, Associate Editor, <cite>Journal of Medicinal Chemistry</cite><br>\nUniversity of Buffalo, United States<br><br>\n\n<strong>Simone V. Bigi-Botterill</strong>, Early Career Board, <cite>ACS Medicinal Chemistry Letters</cite><br>\nExscientia, United States<br><br>\n\n<strong>Andrew P. Riley</strong>, Early Career Board, <cite>ACS Medicinal Chemistry Letters</cite><br>\nUniversity of Illinois at Chicago, United States<br><br>\n\n<strong>Kelly Chibale</strong>, Editor-in-Chief, <cite>ACS Medicinal Chemistry Letters</cite><br>\nUniversity of Cape Town, South Africa<br><br>\n\n<strong>Craig W. Lindsley</strong>, Editor-in-Chief, <cite>Journal of Medicinal Chemistry</cite><br>\nVanderbilt University School of Medicine, United States<br><br>",
+                "thumbnail_url": "/pb-assets/images/virtual collections/structural-biology-drug-discovery.jpg",
+                "thumbnail_alt_text": "chemical structures in 3D",
+                "short_blurb": "In this Special Issue, we highlight the importance of structural biology in drug discovery and therapeutic development.",
+                "related_subjects": [
+                    "medicinal-chemistry",
+                    "biological-chemistry-and-chemical-biology"
+                ]
+            },
+            {
                 "vi_title": "Highlighting 2024 Contributions from our Editorial Board Members",
                 "vi_url": "/page/langd5/vi/2024-editorial-boards",
                 "date": "2025-11-18",
