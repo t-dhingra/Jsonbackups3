@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "Mammalian Cell Synthetic Biology",
+                "vi_url": "/page/asbcd6/vsi/mammalian-synbio",
+                "date": "2025-11-21",
+                "journals": [
+                    "asbcd6"
+                ],
+                "type": "vsi",
+                "long_blurb": "This Mammalian Cell Synthetic Biology Special Issue showcases innovations in engineering mammalian systems for therapeutic and research applications. Featured studies include programmable gene circuits for robust expression control, CRISPR-based tools for RNA and DNA regulation, and synthetic biosensors for small molecule detection. Advances in CAR T cell engineering, protein degradation systems, and host cell line optimization for bioproduction are also highlighted. Together, these works demonstrate the growing sophistication of mammalian synthetic biology, enabling precise, tunable, and safe manipulation of complex cellular functions for biotechnology and medicine.",
+                "thumbnail_url": "/pb-assets/images/asbcd6/400x400_SB%20VSI%20Mammalian%200923v1-1763473667977.png",
+                "thumbnail_alt_text": "Cell staining image with a purple hue",
+                "short_blurb": "This issue highlights advances in mammalian synthetic biology, including gene circuits, CRISPR tools, biosensors, and engineered cell therapies for precise cellular control.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "multidisciplinary"
+                ]
+            },
+            {
                 "vi_title": "Structural Biology in Drug Discovery and Development",
                 "vi_url": "/page/si/structural-biology-drug-discovery",
                 "date": "2025-11-19",
