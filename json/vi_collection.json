@@ -3,6 +3,23 @@
         "year": "2025",
         "virtual_issues": [
             {
+                "vi_title": "DNA Nanotechnology for Optoelectronics and Biomedicine",
+                "vi_url": "/page/jaaucr/vi/dna-nanotechnology-2025",
+                "date": "2025-11-24",
+                "journals": [
+                    "jaaucr"
+                ],
+                "type": "vsi",
+                "long_blurb": "DNA Nanotechnology has become a versatile toolset for precise engineering of functional nanostructures at the molecular scale. Researchers leverage the programmable nature of nucleic acids to design systems that seamlessly interface with biological environments and electronic components, which opens up new opportunities for applications in biomedicine, diagnostics, synthetic biology, and optoelectronics.\n\nThis Special Issue from JACS Au showcases some of the latest advances in DNA nanotechnology, with a particular emphasis on its role in optoelectronics and biomedicine.\n\nLeading the Special Issue is an Editorial written by Associate Editor Prof. Chunhai Fan and guest editor Prof. Hongzhou Gu.",
+                "thumbnail_url": "/pb-assets/images/selects/jaaucr/dna-nanotechnology-2025.png",
+                "thumbnail_alt_text": "Porous tube-shaped chemical structures on a navy blue background",
+                "short_blurb": "A Special Issue from <em>JACS Au</em> exploring some of the latest advances in DNA nanotechnology, with a focus on applications in optoelectronics and biomedicine.",
+                "related_subjects": [
+                    "biological-chemistry-and-chemical-biology",
+                    "nanoscience"
+                ]
+            },
+            {
                 "vi_title": "Mammalian Cell Synthetic Biology",
                 "vi_url": "/page/asbcd6/vsi/mammalian-synbio",
                 "date": "2025-11-21",
