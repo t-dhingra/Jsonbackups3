@@ -38,6 +38,8 @@ puppeteer.use(StealthPlugin());
         'https://pubs.acs.org/pb-assets/json/subject-info.json';
     const transformativeJournalsUrl =
         'https://pubs.acs.org/pb-assets/json/transformativeJournals.json';
+    const coBrandedJournalsUrl =
+        'https://pubs.acs.org/pb-assets/json/cobranded.json';
 
     async function fetchJsonThroughPage(url) {
         console.log(`Fetching JSON from: ${url}`);
@@ -57,6 +59,9 @@ puppeteer.use(StealthPlugin());
     let subjectInfojson = await fetchJsonThroughPage(subjectInfoUrl);
     let transformativeJournalsJson = await fetchJsonThroughPage(
         transformativeJournalsUrl
+    );
+    let coBrandedJournalsJson = await fetchJsonThroughPage(
+        coBrandedJournalsUrl
     );
 
     const isHtmlChallenge = (text) =>
@@ -119,6 +124,10 @@ puppeteer.use(StealthPlugin());
         'json/transformativeJournals.json',
         transformativeJournalsJson || ''
     );
+    fs.writeFileSync(
+        'json/coBrandedJournals.json',
+        coBrandedJournalsJson || ''
+    );
 
     await browser.close();
 
@@ -147,6 +156,11 @@ puppeteer.use(StealthPlugin());
     if (isHtmlChallenge(transformativeJournalsJson)) {
         console.log(
             'transformativeJournals.json is still returning a challenge page.'
+        );
+    }
+    if (isHtmlChallenge(coBrandedJournalsJson)) {
+        console.log(
+            'coBrandedJournals.json is still returning a challenge page.'
         );
     }
 })();
