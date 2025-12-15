@@ -1,8 +1,8 @@
 name: Daily JSON Download with Puppeteer
 
 on:
-    schedule:
-        - cron: '30 19 * * *'
+    # schedule:
+    #     - cron: '30 19 * * *'
     workflow_dispatch:
 
 permissions:
